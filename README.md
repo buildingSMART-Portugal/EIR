@@ -1,4 +1,4 @@
-# Table of Contents
+# Índice
 - [Glossário](#Glossário)
 - [1. Introdução](#1-introdução)
 - [2. Requisitos de informação](#2-requisitos-de-informação)
