@@ -262,15 +262,15 @@ Edifício para uso misto (habitação multi-familiar e comércio) com 5 pisos ac
 
 ### Objetivos para os quais a informação será utilizada pela entidade requerente
 
-* **PIR 01**: `Conformidade regulamentar`:
+* **PIR01**: `Conformidade regulamentar`:
   * Desenvolvimento de todos os elementos necessários para licenciamento do empreendimento junto das entidades municipais. Todas as peças escritas e desenhadas para o procedimento de licenciamento.
-* **PIR 02**: `Sustentabilidade`:
+* **PIR02**: `Sustentabilidade`:
   * Desenvolvimento de estudo específico de sustentabilidade para certificação BREEAM ‘Very Good’.
-* **PIR 03**: `Suporte ao negócio`:
+* **PIR03**: `Suporte ao negócio`:
   * Estimativa orçamental e estudo de viabilidade do projeto.
-* **PIR 04**: `Suporte à construção`:
+* **PIR04**: `Suporte à construção`:
   * Desenvolvimento de todos os elementos necessários para apoiar o processo de adjudicação de construção da obra.
-* **PIR 05**: `Saúde e Segurança`:
+* **PIR05**: `Saúde e Segurança`:
   * Desenvolvimento da documentação de Segurança e Saúde.
 
 ### Fases
@@ -333,65 +333,65 @@ Os pontos chave de decisão estão previstos para 10 dias úteis após as trocas
     </thead>
     <tbody>
         <tr>
-            <td rowspan=8>PIR 01</td>
+            <td rowspan=8>PIR01</td>
             <td rowspan=8>Conformidade regulamentar</td>
-            <td>EIR 01</td>
+            <td>EIR01</td>
             <td>Levantamento de condicionantes regulamentares (locais e nacionais).</td>
         </tr>
         <tr>
-            <td>EIR 02</td>
+            <td>EIR02</td>
             <td>Levantamento do terreno e envolvente (inclui componente topográfica e construções existentes).</td>
         </tr>
         <tr>
-            <td>EIR 03</td>
+            <td>EIR03</td>
             <td>Estudo geológico-geotécnico do local de implantação do edifício.</td>
         </tr>
         <tr>
-            <td>EIR 04</td>
+            <td>EIR04</td>
             <td>Modelação da Arquitetura, Estruturas, Redes de abastecimento de água, redes de drenagem de águas residuais e pluviais, AVAC, e outras especialidades necessárias para a obra em questão, com a devida georreferenciação. Disponibilização de federação dos modelos por parte da entidade fornecedora líder.</td>
         </tr>
         <tr>
-            <td>EIR 05</td>
+            <td>EIR05</td>
             <td>Coordenação dos modelos, resultante da análise combinada da arquitetura e especialidades. Suportar a coordenação em matriz de colisões à responsabilidade da entidade fornecedora líder.</td>
         </tr>
         <tr>
-            <td>EIR 06</td>
+            <td>EIR06</td>
             <td>Acompanhamento e validação do processo de coordenação BIM. As evidências de tal processo deverão ser proporcionadas pelo gestor de informação da entidade fornecedora líder. Estas evidências deverão demonstrar que o empreendimento está a ser desenvolvido de acordo com regulamentação e com a concordância do requerente e que se resolvem os conflitos existentes nos modelos. </td>
         </tr>
         <tr>
-            <td>EIR 07</td>
+            <td>EIR07</td>
             <td>Produção de peças desenhadas (obtidas a partir dos modelos, com potenciais exclusões devidamente justificadas no BEP) e escritas da Arquitetura e Especialidades.</td>
         </tr>
         <tr>
-            <td>EIR 08</td>
+            <td>EIR08</td>
             <td>Simulações energéticas e certificação.</td>
         </tr>
         <tr>
-            <td>PIR 02</td>
+            <td>PIR02</td>
             <td>Sustentabilidade</td>
-            <td>EIR 09</td>
+            <td>EIR09</td>
             <td>Análise de sustentabilidade BREEAM com classificação de 'Very Good'. A análise não necessita ser totalmente baseada em modelos BIM.</td>
         </tr>
         <tr>
-            <td>PIR 03</td>
+            <td>PIR03</td>
             <td>Suporte ao negócio</td>
-            <td>EIR 10</td>
+            <td>EIR10</td>
             <td>Estimativa de quantidades e custos (com quantidades obtidas a partir dos modelos, com potenciais exclusões devidamente justificadas no BEP) e cronograma.</td>
         </tr>
         <tr>
-            <td rowspan=2>PIR 04</td>
+            <td rowspan=2>PIR04</td>
             <td rowspan=2>Suporte à construção</td>
-            <td>EIR 11</td>
+            <td>EIR11</td>
             <td>Compilação de modelos devidamente coordenados e georreferenciados, peças desenhadas e escritas.</td>
         </tr>
         <tr>
-            <td>EIR 12</td>
+            <td>EIR12</td>
             <td>Elaboração de mapas de trabalhos e quantidades (com quantidades obtidas a partir dos modelos, com potenciais exclusões devidamente justificadas no BEP).</td>
         </tr>
         <tr>
-            <td>PIR 05</td>
+            <td>PIR05</td>
             <td>Saúde e Segurança</td>
-            <td>EIR 13</td>
+            <td>EIR13</td>
             <td>Elaboração do plano de Segurança e Saúde.</td>
         </tr>
     </tbody>
@@ -806,57 +806,57 @@ Em fase de concurso os concorrentes devem entregar:
             <td colspan=4>Estudo prévio</td>
         </tr>
         <tr>
-            <td>EIR 01<br>EIR 02<br>EIR 03<br>EIR 04<br>EIR 09<br>EIR 10</td>
+            <td>EIR01<br>EIR02<br>EIR03<br>EIR04<br>EIR09<br>EIR10</td>
             <td>02/11/2023<br>(10 dias antes da tomada de decisão)</td>
             <td>Ponto de decisão 2:<ul><li>Decisão sobre o nível de certificação BREEAM que realmente se pretende tendo em conta objetivos de desempenho e limites orçamentais.</li><li>Decisão sobre continuidade do investimento e eventuais adaptações aos objetivos estratégicos.</li></ul></td>
             <td>13/11/2023<br>(7 semanas antes do fim da fase)</td>
         </tr>
         <tr>
-            <td>EIR 04<br>EIR 08<br>EIR 09<br>EIR 10</td>
+            <td>EIR04<br>EIR08<br>EIR09<br>EIR10</td>
             <td>22/12/2023<br>(10 dias antes da tomada de decisão)</td>
             <td>Pontos de decisão 3:<ul><li>Decisão sobre aprovação final de fase com eventuais alterações.</li></ul></td>
             <td>31/12/2023<br>(fim da fase)</td>
         </tr>
         <tr>
-            <td>EIR 05</td>
+            <td>EIR05</td>
             <td colspan=3>Coordenação dos modelos realizada antes das reuniões de coordenação, devendo as comunicações dos resultados da coordenação  ocorrer no mínimo 2 dias úteis antes das reuniões de coordenação.</td>
         </tr>
         <tr>
-            <td>EIR 06</td>
+            <td>EIR06</td>
             <td colspan=3>Reuniões de coordenação realizadas quinzenalmente (Com data de início a definir)</td>
         </tr>
         <tr>
             <td colspan=4>Anteprojeto</td>
         </tr>
         <tr>
-            <td>EIR 04<br>EIR 07<br>EIR 08<br>EIR 09<br>EIR 10</td>
+            <td>EIR04<br>EIR07<br>EIR08<br>EIR09<br>EIR10</td>
             <td>22/03/2024<br>(10 dias antes da tomada de decisão)</td>
             <td>Pontos de decisão 3:<ul><li>Decisão sobre aprovação final de fase com eventuais alterações</li></ul></td>
             <td>01/04/2024<br>(fim da fase)</td>
         </tr>
         <tr>
-            <td>EIR 05</td>
+            <td>EIR05</td>
             <td colspan=3>Coordenação dos modelos realizada antes das reuniões de coordenação, devendo as comunicações dos resultados da coordenação  ocorrer no mínimo 2 dias úteis antes das reuniões de coordenação.</td>
         </tr>
         <tr>
-            <td>EIR 06</td>
+            <td>EIR06</td>
             <td colspan=3>Reuniões de coordenação realizadas quinzenalmente (Com data de início a definir)</td>
         </tr>
         <tr>
             <td colspan=4>Projeto de execução</td>
         </tr>
         <tr>
-            <td>EIR 04<br>EIR 07<br>EIR 10<br>EIR 11<br>EIR 12<br>EIR 13</td>
+            <td>EIR04<br>EIR07<br>EIR10<br>EIR11<br>EIR12<br>EIR13</td>
             <td>10 dias antes da tomada de decisão</td>
             <td>Pontos de decisão 3:<ul><li>Decisão sobre aprovação final de fase com eventuais alterações</li></ul></td>
             <td>No final da fase.</td>
         </tr>
         <tr>
-            <td>EIR 05</td>
+            <td>EIR05</td>
             <td colspan=3>Coordenação dos modelos realizada antes das reuniões de coordenação, devendo as comunicações dos resultados da coordenação  ocorrer no mínimo 2 dias úteis antes das reuniões de coordenação.</td>
         </tr>
         <tr>
-            <td>EIR 06</td>
+            <td>EIR06</td>
             <td colspan=3>Reuniões de coordenação realizadas quinzenalmente (Com data de início a definir)</td>
         </tr>
     </tbody>
@@ -1072,4 +1072,3 @@ Em fase de concurso os concorrentes devem entregar:
         </tr>
     </tbody>
 </table>
-
