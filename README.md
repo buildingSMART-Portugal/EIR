@@ -2,6 +2,6 @@
 
 ## EIR
 
-(Ver EIR online)[https://github.com/jose-granja/EIR-bSPT/blob/main/EIR.md]
+[Ver EIR online](https://github.com/jose-granja/EIR-bSPT/blob/main/EIR.md)
 
-(Descarregar em pdf)[]
+[Descarregar em pdf]()
