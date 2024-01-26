@@ -248,19 +248,19 @@ Escolha de soluções que permitam otimização de custos de operação e manute
 
 ## 2.2. Requisitos de informação do projeto (PIR)
 
-### Entidade Requerente
+### 2.2.1. Entidade Requerente
 
 `buildingSMART Portugal`
 
-### Designação comercial do projeto
+### 2.2.2. Designação comercial do projeto
 
 `Open BIM Gardens`
 
-### Âmbito do projeto
+### 2.2.3. Âmbito do projeto
 
 Edifício para uso misto (habitação multi-familiar e comércio) com 5 pisos acima do solo e 2 pisos abaixo do solo. Finalidade de comercialização e venda de todas as frações.
 
-### Objetivos para os quais a informação será utilizada pela entidade requerente
+### 2.2.4. Objetivos para os quais a informação será utilizada pela entidade requerente
 
 * **PIR01**: `Conformidade regulamentar`:
   * Desenvolvimento de todos os elementos necessários para licenciamento do empreendimento junto das entidades municipais. Todas as peças escritas e desenhadas para o procedimento de licenciamento.
@@ -273,17 +273,17 @@ Edifício para uso misto (habitação multi-familiar e comércio) com 5 pisos ac
 * **PIR05**: `Saúde e Segurança`:
   * Desenvolvimento da documentação de Segurança e Saúde.
 
-### Fases
+### 2.2.5. Fases
 
 * **Fase 01**: `Estudo prévio` - 01 Out 2023 - 31 Dez 2023.
 * **Fase 02**: `Anteprojeto` - 1 Jan 2024 - 1 Abr 2024 (a operação urbanística será licenciamento e não comunicação prévia).
 * **Fase 03**: `Projeto de execução` - 4 meses após aprovação do licenciamento.
 
-### Processo de contratação
+### 2.2.6. Processo de contratação
 
 Adjudicação direta após processo inicial de consulta por convite.
 
-### Pontos-chave de decisão
+### 2.2.7. Pontos-chave de decisão
 
 Na definição dos marcos de entrega de informação e pontos-chave de decisão é tido em consideração o tempo necessário para rever e aceitar a informação.
 
@@ -291,7 +291,7 @@ Os pontos a considerar estão identificados abaixo.
 
 Os pontos chave de decisão estão previstos para 10 dias úteis após as trocas de informação com a Entidade Requerente e estão distribuídos ao longo das fases.
 
-### Decisões que serão tomadas em cada ponto chave de decisão.
+### 2.2.8. Decisões que serão tomadas em cada ponto chave de decisão.
 
 * **Ponto de decisão 1**
   * Decisão de adjudicação
@@ -303,7 +303,7 @@ Os pontos chave de decisão estão previstos para 10 dias úteis após as trocas
 * **Ponto de decisão 3**
   * Decisão sobre aprovação de final de fase com eventuais alterações
 
-### Questões que necessitam resposta para as tomadas de decisão informadas. (PLQ)
+### 2.2.9. Questões que necessitam resposta para as tomadas de decisão informadas. (PLQ)
 
 * **Ponto de decisão 1**
   * A proposta de honorários é considerada adequada?
@@ -417,15 +417,15 @@ Os critérios de aceitação são utilizados para verificar se a informação é
 As normas de informação do projeto visam descrever os critérios que irão dar suporte e consistência à informação que irá ser desenvolvida ao longo do projeto. De acordo com a cláusula 5.1.4 da ISO 19650-2, na sua definição há que ter em conta como serão efetuadas as trocas de informação, qual a estrutura e classificação da informação, qual o método usado para especificar o nível de informação necessário e o uso da informação em fases posteriores ao projeto e para operação do ativo.
 
 
-### Normas
+### 3.1.1. Normas
 
 `Série ISO 19650 e EN17412`
 
-### Nomenclatura dos blocos de informação - Ficheiros
+### 3.1.2. Nomenclatura dos blocos de informação - Ficheiros
 
 `Os blocos de informação devem ser nomeados com o uso de sete campos, separados por um delimitador, de acordo com a seguinte convenção:`
 
-#### Projeto
+#### a) Projeto
 
 Único e representativo do projeto.
 
@@ -434,7 +434,7 @@ As normas de informação do projeto visam descrever os critérios que irão dar
 
 ---
 
-#### Originador
+#### b) Originador
 
 Variável de acordo com a organização autora do bloco de informação. 
 
@@ -446,7 +446,7 @@ O código deve estar definido no Plano de Execução BIM e conter três caracter
 
 ---
 
-#### Estrutura de desagregação funcional
+#### c) Estrutura de desagregação funcional
 
 Variável, refere-se à subdivisões relacionadas com a função, podendo ser desagregadas em volumes e sistemas. 
 
@@ -460,7 +460,7 @@ Os códigos definidos devem estar listados juntos às suas definições no Plano
 
 ---
 
-#### Estrutura de desagregação espacial
+#### d) Estrutura de desagregação espacial
 
 Variável, refere-se aos pisos do projeto ou outros tipos de desagregação espacial.
 
@@ -482,7 +482,7 @@ Os novos códigos definidos devem estar listados juntos às suas definições no
 
 ---
 
-#### Forma
+#### e) Forma
 
 Variável, refere-se à forma em que as informações são apresentadas. Cada bloco de informação deve conter um único tipo de informação.
 
@@ -495,7 +495,7 @@ Os novos códigos definidos devem estar listados juntos às suas definições no
 
 ---
 
-#### Especialidade
+#### f) Especialidade
 
 Variável de acordo com especialidade ao qual o bloco de informação está relacionado.
 
@@ -504,7 +504,7 @@ Variável de acordo com especialidade ao qual o bloco de informação está rela
 
 ---
 
-#### Número
+#### g) Número
 
 Variável e ordenado, aplicável a blocos de informação que façam parte de uma série de blocos e para os quais não há distinção em nenhum dos outros campos..
 
@@ -517,7 +517,7 @@ Os códigos devem conter o máximo de quatro dígitos composto por números inte
 
 ---
 
-#### Exemplo:
+#### h) Exemplo:
 
 Um ficheiro PDF desenvolvido pela entidade fornecedora “Gabinete de Projetos de Portugal” (GPP), responsável pelo projeto de estruturas, contendo o primeiro desenho 2D do projeto de fundações do edifício, para o qual não se aplica a definição de pisos.
 
@@ -525,19 +525,19 @@ Um ficheiro PDF desenvolvido pela entidade fornecedora “Gabinete de Projetos d
 
 ---
 
-### Metadados dos blocos de informação - Ficheiros
+### 3.1.3. Metadados dos blocos de informação - Ficheiros
 
 Metadados são atributos adicionais ao bloco de informação, que facilitam a localização, o uso e a gestão do mesmo.
 
 Os blocos de informação devem conter metadados, separados por um delimitador, de acordo com a seguinte convenção:
 
-#### Estado
+#### a) Estado
 
 A definição dos estados é apresentada n 6, a propósito do CDE. Os respectivos códigos estão listados na tabela B.1 do Apêndice B deste documento.
 
 ---
 
-#### Revisão
+#### b) Revisão
 
 O código de revisão deve ser composto por três campos  de acordo com a seguinte definição:
 `<Campo1>`.`<Campo2>`.`<Campo3>`
@@ -548,46 +548,46 @@ O código de revisão deve ser composto por três campos  de acordo com a seguin
 
 ---
 
-#### Classificação
+#### c) Classificação
 
 Classificação de acordo com a `Tabela PM` (Project Management) do sistema `SECCLASS`. Podem ser utilizadas outras tabelas do sistema de classificação se forem consideradas mais adequadas, desde que acordado com a Entidade Adjudicante.
 
 ---
 
-#### Descrição
+#### d) Descrição
 
 
 ---
 
-#### Fase
+#### e) Fase
 
 
 ---
 
-#### Data
+#### f) Data
 
 
 ---
 
-#### Outros
+#### g) Outros
 
 Os blocos de informação podem incluir metadados adicionais caso sejam entendidos como necessários pela Entidade Fornecedora. Os novos códigos definidos devem estar listados juntos às suas definições no Plano de Execução BIM. 
 
 ---
 
-### Nomenclatura dos blocos de informação - IFC: Objetos e informação alfanumérica
+### 3.1.4. Nomenclatura dos blocos de informação - IFC: Objetos e informação alfanumérica
 
 Não se prescreve. No entanto, recomenda-se a utilização das nomenclaturas da proposta de especificação técnica de “Regras de modelação de objetos” disponível em: [https://bit.ly/secclass_manual_objetos_bim_](https://bit.ly/secclass_manual_objetos_bim_). A entidade fornecedora líder deverá explanar os princípios adotados para a nomenclatura no BEP.
 
 ---
 
-### Sistema de unidades
+### 3.1.5. Sistema de unidades
 
 `Sistema de Unidades International` em coerência com a Diretiva 80/181/EEC e respectivas adendas. ISO 80000-1:2022. A unidade monetária é o `€`.
 
 ---
 
-### Sistema de coordenadas
+### 3.1.6. Sistema de coordenadas
 
 Será utilizado o sistema de coordenadas `PT-TM06/ETRS89` (EPSG: 3763), seguindo as especificações da DGT.
 
@@ -595,7 +595,7 @@ Será utilizado o sistema de coordenadas `PT-TM06/ETRS89` (EPSG: 3763), seguindo
 
 ---
 
-### Classificação da informação
+### 3.1.7. Classificação da informação
 
 Sistema de classificação `SECCLASS` na versão em vigor à data de emissão deste documento.
 
@@ -603,7 +603,7 @@ Sistema de classificação `SECCLASS` na versão em vigor à data de emissão de
 
 ---
 
-### Formato e tamanho dos blocos de informação
+### 3.1.8. Formato e tamanho dos blocos de informação
 
 Documentos e folhas de cálculo editáveis seguindo a norma ISO/IEC 29500-1:2016 (sendo válidos por exemplo os formatos XLSX e DOCX).
 
@@ -625,13 +625,13 @@ Trocas de pedidos de informação nos modelos BIM em BCF.
 
 ---
 
-### Software - entidades fornecedoras
+### 3.1.9. Software - entidades fornecedoras
 
 Não há requisitos para os software a utilizar pelas entidades fornecedoras. Os software a usar serão validados em fase de aprovação do BEP.
 
 ---
 
-### Plataformas e software da entidade requerente
+### 3.1.10. Plataformas e software da entidade requerente
 
 A Entidade Requerente irá utilizar o software `<NomeDoSoftwareDeVizualização/VerificaçãoIFC>` para visualizar, verificar e validar blocos de informação IFC. A entidade fornecedora líder deverá verificar o bom desempenho dos blocos de informação IFC nesta plataforma e informar de antemão sobre potenciais problemas na interpretação dos IFCs submetidos.
 
@@ -643,7 +643,7 @@ por conexão com o servidor web URL. VAMOS VER
 
 \* CDE `R2U` é um software aberto e gratuito blah blah preparado pela Universidade do Minho
 
-### Informação para o período operacional de gestão de ativos
+### 3.1.11. Informação para o período operacional de gestão de ativos
 
 Sem requisitos específicos na fase de projeto para além da classificação já requerida. Essa informação será requerida na fase de consulta da empreitada. 
 
@@ -651,7 +651,7 @@ Sem requisitos específicos na fase de projeto para além da classificação já
 
 Os métodos e procedimentos de produção de informação do projeto definem as abordagens e técnicas que a entidade requerente utiliza para criar, gerir e aprovar a informação.
 
-### Captura de informação de ativos existentes
+### 3.2.1. Captura de informação de ativos existentes
 
 Não havendo qualquer tipo de construção prévia no local e estando disponível o levantamento topográfico atualizado nas Informações de Referência (e cumpridor das prescrições da Câmara Municipal de Lisboa), não se prevê a necessidade de nenhuma captura de informação deste tipo.
 
@@ -661,9 +661,9 @@ As entidades fornecedoras ficarão responsáveis pela definição dos requisitos
 
 ---
 
-### Criação, revisão e aprovação de nova informação
+### 3.2.2. Criação, revisão e aprovação de nova informação
 
-#### Criação de informação:
+#### a) Criação de informação:
 
 A produção de modelos nativos e dados associados devem permitir a criação de modelos em IFC. Objetos proxy não deverão ser usados quando uma classe de objeto específica estiver disponível na norma IFC.
 
@@ -716,7 +716,7 @@ No caso de desenhos editáveis, deverão ter o formato DWG quando gerados em CAD
 
 ---
 
-#### Coordenação:
+#### b) Coordenação:
 
 A coordenação dos modelos deve ser realizada regularmente. Cada equipa de trabalho deve realizar a coordenação dos seus próprios modelos como parte do seu processo de garantia da qualidade, antes de partilhar a informação com a equipa de desenvolvimento.
 
@@ -726,7 +726,7 @@ As informações produzidas por cada Entidade Fornecedora devem ser apenas parti
 
 ---
 
-#### Revisão e aprovação da informação:
+#### c) Revisão e aprovação da informação:
 
 Cada equipa de trabalho deve efetuar uma verificação da garantia de qualidade de cada bloco de informação, antes de efetuar a revisão da informação nele contida.
 
@@ -736,7 +736,7 @@ O processo de revisão e aprovação da informação segue o fluxo ilustrado na 
 
 Os itens a serem considerados na revisão, bem como KPI’s e checklist estão detalhados n XX.
 
-### Entrega da informação à entidade requerente
+### 3.2.3. Entrega da informação à entidade requerente
 
 As entregas finais serão realizadas utilizando a solução CDE determinada anteriormente.
 
@@ -744,7 +744,7 @@ Os entregáveis finais devem passar ao estado Publicado quando se encontrarem fi
 
 ---
 
-### Segurança
+### 3.2.4. Segurança
 
 Os métodos e tecnologias de trabalho digitais colaborativos utilizados no projeto, envolvem a partilha colaborativa de informação por um conjunto de atores independentes, surgindo, portanto, a necessidade de gerir as questões de vulnerabilidade inerentes à disponibilidade da informação de acordo com os requisitos da EN ISO 19650-5. Assim, a Entidade Requerente realizou a avaliação de sensibilidade, com vista à identificação da necessidade, ou não, de uma abordagem de segurança e aplicou o processo de triagem o qual conduziu à classificação ST4. 
 
@@ -758,7 +758,7 @@ Draft para proposta de critério de aceitação:
 
 [critério de aceitação](https://docs.google.com/spreadsheets/d/1fqYzzKCA0ehy6SgKDjJT8Db1CJie5wnA/edit?usp=sharing&ouid=111082311409357442545&rtpof=true&sd=true)
 
-# 4.	Informação de suporte
+# 4. Informação de suporte
 
 A informação de suporte consiste em informação que pretende ser disponibilizada pela entidade requerente à entidade fornecedora líder com o intuito de evitar trabalho redundante e garantir que a informação é desenvolvida de acordo com as suas normas. Possibilitando assim que a entidade fornecedora tenha uma maior compreensão sobre o que está a ser requerido para o projeto. De acordo com a cláusula 5.2.1 d) da EN ISO 19650-2, a informação de suporte poderá consistir em informação existente de ativos, recursos partilhados, exemplos de entregáveis, documentos de suporte, material de orientação e referências para normas internacionais, nacionais ou da indústria.
 
