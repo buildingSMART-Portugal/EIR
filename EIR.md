@@ -19,7 +19,7 @@
 
 # Glossário
 
-### Ambiente comum de dados
+**Ambiente comum de dados**
 
 CDE (*Common Data Environment*)
 
@@ -27,17 +27,17 @@ Fonte de informação acordada para qualquer projeto ou ativo, para recolher, ge
 
 *NOTA 1: O fluxo de trabalho do CDE descreve os processos a serem usados e uma solução CDE permite disponibilizar a tecnologia para suportar esses processos.*
 
-### Aptidão
+**Aptidão**
 
 Medida da habilidade para desempenho e funções.
 
 *NOTA 1: No contexto deste documento está relacionada com competências, conhecimento e especialização para gerir informação.*
 
-### Ativo
+**Ativo**
 
 Item, coisa ou entidade, que tem valor potencial ou real para uma organização.
 
-### Ator
+**Ator**
 
 Pessoa, organização ou unidade organizacional envolvida num processo de construção.
 
@@ -45,7 +45,7 @@ Pessoa, organização ou unidade organizacional envolvida num processo de constr
 
 *NOTA 2: No contexto deste documento, os processos de construção ocorrem durante o período de desenvolvimento e o período operacional.*
 
-### Bloco de informação
+**Bloco de informação**
 
 Conjunto persistente de informação devidamente nomeado, que pode ser recuperado a partir de uma hierarquia de armazenamento de ficheiros, sistemas ou aplicações.
 
@@ -57,31 +57,31 @@ Conjunto persistente de informação devidamente nomeado, que pode ser recuperad
 
 *NOTA 3 : A nomeação de um bloco de informação deverá estar de acordo com uma convenção de nomenclatura acordada.*
 
-### Capacidade
+**Capacidade**
 
 Recursos disponíveis para a execução e funcionamento.
 
 *NOTA 1: No contexto deste documento, está relacionado com os recursos e procedimentos para gerir informação.*
 
-### Ciclo de vida
+**Ciclo de vida**
 
 Vida do ativo desde a definição dos seus requisitos até ao final da sua vida útil, cobrindo a conceção, desenvolvimento, operação, manutenção e desmantelamento.
 
-### Cliente
+**Cliente**
 
 Ator responsável por iniciar um projeto e aprovar o programa preliminar.
 
-### Compromisso
+**Compromisso**
 
 Instruções acordadas para o fornecimento de informação sobre trabalhos, bens ou serviços.
 
 *NOTA 1: Este termo é usado quer haja, ou não, um compromisso formal entre as partes.*
 
-### Critérios de aceitação
+**Critérios de aceitação**
 
 Evidência necessária para considerar que os requisitos foram cumpridos.
 
-### Entidade fornecedora
+**Entidade fornecedora**
 
 Fornecedor de informação sobre trabalhos, bens ou serviços.
 
@@ -89,7 +89,7 @@ Fornecedor de informação sobre trabalhos, bens ou serviços.
 
 *NOTA 2: Este termo é usado independentemente de existir, ou não, um compromisso formal por escrito.*
 
-### Entidade requerente
+**Entidade requerente**
 
 Recetor de informação, sobre trabalhos, bens ou serviços, proveniente de uma entidade fornecedora líder.
 
@@ -97,7 +97,7 @@ Recetor de informação, sobre trabalhos, bens ou serviços, proveniente de uma 
 
 *NOTA 2: Este termo é usado independentemente de existir, ou não, um compromisso formal entre as partes.*
 
-### Equipa de desenvolvimento
+**Equipa de desenvolvimento**
 
 Entidade fornecedora líder e suas entidades fornecedoras.
 
@@ -109,15 +109,15 @@ Entidade fornecedora líder e suas entidades fornecedoras.
 
 *NOTA 4: Uma equipa de desenvolvimento pode ser criada pela entidade requerente em vez da entidade fornecedora líder.*
 
-### Equipa de projeto
+**Equipa de projeto**
 
 Entidade requerente e todas as equipas de desenvolvimento.
 
-### Equipa de trabalho
+**Equipa de trabalho**
 
 Indivíduos organizados para desenvolver um determinado trabalho.
 
-### Governança ambiental, social e corporativa
+**Governança ambiental, social e corporativa**
 
 ESG (*Environmental Social and Governance*)
 
@@ -125,31 +125,31 @@ Ambiente, Social e Governação
 
 Conjunto de critérios de avaliação e padrões utilizado por empresas e organizações para medir seu desempenho em relação a questões ambientais (Environmental), sociais (Social) e de governança (Governance). [FONTE DIRETA](https://www.iapmei.pt/Paginas/fatores-ESG.aspx)
 
-### Espaço
+**Espaço**
 
 Extensão tridimensional limitada e definida fisicamente ou nocionalmente.
 
-### Federação
+**Federação**
 
 Criação de um modelo de informação a partir de blocos de informação separados.
 
 *NOTA 1: Os blocos de informação separados que são usados no âmbito da federação podem provir de diferentes equipas de trabalho.*
 
-### Informação
+**Informação**
 
 Representação reinterpretável de dados com uma forma adequada para comunicação, interpretação ou processamento.
 
 *NOTA 1: A informação pode ser processada por meios humanos ou automáticos.*
 
-### Informação de projeto
+**Informação de projeto**
 
 Informação produzida para, ou utilizada em, um projeto em particular.
 
-### Marco de entrega de informação
+**Marco de entrega de informação**
 
 Evento programado para uma troca de informação predefinida.
 
-### Modelação de informação da construção
+**Modelação de informação da construção**
 
 BIM (*Building Information Modelling*)
 
@@ -157,11 +157,11 @@ Uso de uma representação digital partilhada de um ativo construído para facil
 
 *NOTA 1: Ativos construídos incluem, mas não estão limitados a edifícios, pontes, vias de comunicação (rodoviárias, ferroviárias) e instalações industriais.*
 
-### Modelo de informação
+**Modelo de informação**
 
 Conjunto de blocos de informação estruturada e não estruturada.
 
-### Modelo de informação do projeto
+**Modelo de informação do projeto**
 
 PIM (*Project Information Model*)
 
@@ -169,29 +169,29 @@ Modelo de informação relacionado com o período de desenvolvimento.
 
 *NOTA 1: Durante o projeto, o modelo de informação do projeto pode ser usado para transmitir a intenção da atividade do projetista (por vezes designado de modelo de intenção da atividade do projetista) ou a representação virtual do ativo a ser construído (por vezes designado de modelo virtual da construção e neste documento chamado apenas de modelo).*
 
-### Nível de informação necessário
+**Nível de informação necessário**
 
 Metodologia que define a extensão e granularidade da informação.
 
 *NOTA 1: Um dos propósitos da definição do nível de informação necessário é prevenir a entrega de demasiada informação.*
 
-### Período de desenvolvimento
+**Período de desenvolvimento**
 
 Parte do ciclo de vida durante a qual um ativo é projetado, construído e comissionado.
 
 *NOTA 1: O período de desenvolvimento normalmente reflete uma abordagem ao projeto baseada em fases.*
 
-### Período operacional
+**Período operacional**
 
 Parte do ciclo de vida durante a qual um ativo é usado, operado e mantido.
 
-### Perguntas em linguagem clara
+**Perguntas em linguagem clara**
 
 PLQ (*Plain Language Questions*) 
 
 Perguntas formuladas em linguagem simples e clara, concebidas de modo a evitar jargão técnico ou linguagem complexa.
 
-### Plano de execução BIM
+**Plano de execução BIM**
 
 BEP (*BIM Execution Plan*)
 
@@ -199,35 +199,35 @@ Plano que explica como serão realizados, pela equipa de desenvolvimento, os asp
 
 *NOTA 1: O plano de execução BIM pré-compromisso foca-se na abordagem proposta pela equipa de desenvolvimento para a gestão da informação e na sua aptidão e capacidade para gerir a informação.*
 
-### Ponto-chave de decisão
+**Ponto-chave de decisão**
 
 Momento no tempo durante o ciclo de vida em que é tomada uma decisão crucial para a direção e viabilidade de um ativo.
 
 *NOTA 1: Durante o projeto estes momentos geralmente acontecem alinhados com as fases do projeto.*
 
-### Requisito de informação
+**Requisito de informação**
 
 Especificação de o quê, quando, como e para quem a informação será produzida.
 
-### Requisitos de informação do projeto
+**Requisitos de informação do projeto**
 
 PIR (*Project Information Requirements*)
 
 Requisitos de informação relacionados com o desenvolvimento de um ativo.
 
-### Requisitos de informação organizacional
+**Requisitos de informação organizacional**
 
 OIR (*Organizational Information Requirements*)
 
 Requisitos de informação relacionados com os objetivos organizacionais.
 
-### Requisitos de troca de informação
+**Requisitos de troca de informação**
 
 EIR (*Exchange Information Requirements*)
 
 Requisitos de informação relacionados com um compromisso.
 
-### Trocar informação
+**Trocar informação**
 
 Ato de satisfazer um requisito de informação ou parte deste.
 
@@ -1072,3 +1072,4 @@ Em fase de concurso os concorrentes devem entregar:
         </tr>
     </tbody>
 </table>
+
