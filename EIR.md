@@ -491,7 +491,7 @@ A listagem pode ser expandida pela Entidade Fornecedora caso se considere necess
 Os novos códigos definidos devem estar listados juntos às suas definições no Plano de Execução BIM.
 
 > Códigos:\
-> `Os códigos propostos estão listados na tabela A.1 do Apêndice A deste documento.`
+> Os códigos propostos estão listados na [tabela A.1](#tabela-a1-–-códigos-para-o-campo-forma) do Apêndice A deste documento.
 
 ---
 
@@ -500,7 +500,7 @@ Os novos códigos definidos devem estar listados juntos às suas definições no
 Variável de acordo com especialidade ao qual o bloco de informação está relacionado.
 
 > Códigos:\
-> `Os códigos propostos estão listados na tabela A.2 do Apêndice A deste documento.`
+> Os códigos propostos estão listados na [tabela A.2](#tabela-a2-–-código-para-o-campo-especialidade) do Apêndice A deste documento.
 
 ---
 
@@ -533,7 +533,7 @@ Os blocos de informação devem conter metadados, separados por um delimitador, 
 
 #### a) Estado
 
-A definição dos estados é apresentada n 6, a propósito do CDE. Os respectivos códigos estão listados na tabela B.1 do Apêndice B deste documento.
+A definição dos estados é apresentada n 6, a propósito do CDE. Os respectivos códigos estão listados na [tabela B.1](#tabela-b1-–-códigos-para-o-estado-dos-blocos-de-informação-dentro-do-cde) do Apêndice B deste documento.
 
 ---
 
@@ -561,6 +561,7 @@ Classificação de acordo com a `Tabela PM` (Project Management) do sistema `SEC
 
 #### e) Fase
 
+A definição das fases é apresentada n 6, a propósito do CDE. Os respectivos códigos estão listados na [tabela B.2](#tabela-b2-–-código-para-o-campo-fase) do Apêndice B deste documento.
 
 ---
 
@@ -779,10 +780,10 @@ A informação de suporte está disponível em: [https://drive.google.com/drive/
 
 ## 4.2. Recursos partilhados
 
-| Nomeclatura                    | Metadados            | Descrição                                |
-| ------------------------------ | -------------------- | ---------------------------------------- |
-| OBG-BSP-ZZ-ZZ-RL-XXX-0001.docx | A1-C01-XX-11.01.2024 | Modelo para produção de relatórios       |
-| OBG-BSP-ZZ-ZZ-RL-XXX-0002.dwg  | A1-C01-XX-11.01.2024 |  Modelo de folha de rosto                |
+| Nomeclatura                    | Metadados            | Descrição                          |
+| ------------------------------ | -------------------- | ---------------------------------- |
+| OBG-BSP-ZZ-ZZ-RL-XXX-0001.docx | A1-C01-XX-11.01.2024 | Modelo para produção de relatórios |
+| OBG-BSP-ZZ-ZZ-RL-XXX-0002.dwg  | A1-C01-XX-11.01.2024 | Modelo de folha de rosto           |
 
 # 5. Datas, marcos de entrega de informação e pontos-chave de decisão
 
@@ -1002,20 +1003,70 @@ Em fase de concurso os concorrentes devem entregar:
 
 ### Tabela A.2 – Código para o campo Especialidade
 
-| DESCRIÇÃO                                            | CÓDIGO |
-| ---------------------------------------------------- | ------ |
-| Informação que não é específica de uma especialidade | XXX    |
-| Arquitetura                                          | ARQ    |
-| Levantamento                                         | LEV    |
-| Eletricidade                                         | ELE    |
-| Paisagismo                                           | PAI    |
-| Estruturas                                           | EST    |
-| Hidráulica                                           | HID    |
-| Telecomunicações                                     | TLC    |
-| AVAC                                                 | AVC    |
-| Acústica                                             | ACU    |
-| Térmica                                              | TER    |
-| Segurança contra incêndio                            | SCI    |
+| DESCRIÇÃO                                               | CÓDIGO |
+| ------------------------------------------------------- | ------ |
+| Acessibilidades                                         | ACS    |
+| Engenharia acústica                                     | ACU    |
+| Agricultura e desenvolvimento rural                     | ADR    |
+| Engenharia do ambiente                                  | AMB    |
+| Arquitetura paisagista                                  | APA    |
+| Arquitetura                                             | ARQ    |
+| Auditorias de segurança rodoviária                      | ASR    |
+| Barragens                                               | BAR    |
+| Cartografia                                             | CAR    |
+| Canal técnico rodoviário                                | CTR    |
+| Demolições                                              | DEM    |
+| Escavação e/ou contenção periférica                     | ECP    |
+| Estudo de comportamento térmico                         | ECT    |
+| Engenharia eletrotécnica - eletricidade                 | EEL    |
+| Engenharia eletrotécnica - ited                         | EIT    |
+| Engenharia eletromecânica                               | ELM    |
+| Estudo do ruído                                         | ERU    |
+| Engenharia de estruturas                                | EST    |
+| Estudo de tráfego                                       | ETF    |
+| Estruturas de suporte e taludes                         | ETS    |
+| Fluidos industriais                                     | FLI    |
+| Gás                                                     | GAS    |
+| Geologia                                                | GEO    |
+| Geotecnia                                               | GET    |
+| Gestão técnica centralizada                             | GTC    |
+| Engenharia hidráulica - abastecimento de água           | HAB    |
+| Engenharia hidráulica - drenagem de águas pluviais      | HAP    |
+| Engenharia hidráulica - drenagem de águas residuais     | HAR    |
+| Engenharia hidráulica - drenagem (pluviais e residuais) | HDR    |
+| Hidrogeologia                                           | HGL    |
+| Engenharia hidráulica                                   | HID    |
+| Engenharia hidráulica - tratamento de água              | HTA    |
+| Engenharia hidráulica - tratamento de águas residuais   | HTR    |
+| Infraestruturas aeroportuárias                          | IAE    |
+| Infraestruturas ferroviárias                            | IFE    |
+| Infraestruturas marítimas                               | IMA    |
+| Instrumentação                                          | INS    |
+| Infraestruturas rodoviárias                             | IRO    |
+| Linha de transporte de energia                          | LTE    |
+| Estudo luminotécnico                                    | LUM    |
+| Engenharia mecânica - avac                              | MAC    |
+| Engenharia mecânica - climatização                      | MCL    |
+| Engenharia mecânica - ventilação /exaustão              | MVE    |
+| Obras de arte                                           | OAR    |
+| Rede de ar comprimido                                   | RAC    |
+| Resíduos sólidos urbanos                                | RSU    |
+| Serviços afetados                                       | SAF    |
+| Segurança contra incêndio                               | SCI    |
+| Segurança                                               | SEG    |
+| Sinalização e equipamento de segurança                  | SIN    |
+| Ocupação do solo                                        | SOL    |
+| Som e áudio                                             | SOM    |
+| Obras subterrâneas                                      | SUB    |
+| Terraplenagens                                          | TER    |
+| Topografia                                              | TOP    |
+| Traçado                                                 | TRA    |
+| Urbanismo                                               | URB    |
+| Não disciplinar / não aplicável                         | XXX    |
+| Multidisciplinar                                        | ZZZ    |
+
+
+
 
 ## Apêndice B - Códigos para metadados dos blocos de informação
 
@@ -1073,3 +1124,16 @@ Em fase de concurso os concorrentes devem entregar:
     </tbody>
 </table>
 
+### Tabela B.2 – Código para o campo Fase
+
+| Descrição da fase                             | Código |
+| --------------------------------------------- | ------ |
+| Programa preliminar                           | PP     |
+| Programa base                                 | PB     |
+| Estudo Prévio                                 | EP     |
+| Anteprojeto                                   | AP     |
+| Projeto de execução                           | PE     |
+| Construção                                    | CO     |
+| Entrega da obra (telas finais)                | TF     |
+| Utilização dos ativos (operação e manutenção) | OM     |
+| Fim de vida (descomissionamento / demolição)  | DD     |
