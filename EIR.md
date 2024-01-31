@@ -27,6 +27,12 @@ Fonte de informação acordada para qualquer projeto ou ativo, para recolher, ge
 
 *NOTA 1: O fluxo de trabalho do CDE descreve os processos a serem usados e uma solução CDE permite disponibilizar a tecnologia para suportar esses processos.*
 
+**Ambiente, social e governação**
+
+ESG (*Environmental Social and Governance*)
+
+Indicadores ambientais, sociais e de governação concebidos para avaliar o nível de comprometimento das organizações com os objetivos do desenvolvimento sustentável.  [FONTE DIRETA](https://www.iapmei.pt/Paginas/fatores-ESG.aspx)
+
 **Aptidão**
 
 Medida da habilidade para desempenho e funções.
@@ -117,14 +123,6 @@ Entidade requerente e todas as equipas de desenvolvimento.
 
 Indivíduos organizados para desenvolver um determinado trabalho.
 
-**Governança ambiental, social e corporativa**
-
-ESG (*Environmental Social and Governance*)
-
-Ambiente, Social e Governação
-
-Conjunto de critérios de avaliação e padrões utilizado por empresas e organizações para medir seu desempenho em relação a questões ambientais (Environmental), sociais (Social) e de governança (Governance). [FONTE DIRETA](https://www.iapmei.pt/Paginas/fatores-ESG.aspx)
-
 **Espaço**
 
 Extensão tridimensional limitada e definida fisicamente ou nocionalmente.
@@ -167,7 +165,7 @@ PIM (*Project Information Model*)
 
 Modelo de informação relacionado com o período de desenvolvimento.
 
-*NOTA 1: Durante o projeto, o modelo de informação do projeto pode ser usado para transmitir a intenção da atividade do projetista (por vezes designado de modelo de intenção da atividade do projetista) ou a representação virtual do ativo a ser construído (por vezes designado de modelo virtual da construção e neste documento chamado apenas de modelo).*
+*NOTA 1: Durante o projeto, o modelo de informação do projeto pode ser usado para transmitir a intenção da atividade do projetista (por vezes designado de modelo de intenção da atividade do projetista) ou a representação virtual do ativo a ser construído (por vezes designado de modelo virtual da construção). Neste documento são utilizados os  termos “modelo” ou “modelo IFC”.*
 
 **Nível de informação necessário**
 
@@ -275,8 +273,8 @@ Edifício para uso misto (habitação multi-familiar e comércio) com 5 pisos ac
 
 ### 2.2.5. Fases
 
-* **Fase 01**: `Estudo prévio` - 01 Out 2023 - 31 Dez 2023.
-* **Fase 02**: `Anteprojeto` - 1 Jan 2024 - 1 Abr 2024 (a operação urbanística será licenciamento e não comunicação prévia).
+* **Fase 01**: `Estudo prévio` -  01 Mar  2024 - 31 Mai  2024.
+* **Fase 02**: `Anteprojeto` - 01 Jun 2024 - 31 Ago 2024 (a operação urbanística será licenciamento e não comunicação prévia).
 * **Fase 03**: `Projeto de execução` - 4 meses após aprovação do licenciamento.
 
 ### 2.2.6. Processo de contratação
@@ -290,6 +288,8 @@ Na definição dos marcos de entrega de informação e pontos-chave de decisão 
 Os pontos a considerar estão identificados abaixo.
 
 Os pontos chave de decisão estão previstos para 10 dias úteis após as trocas de informação com a Entidade Requerente e estão distribuídos ao longo das fases.
+
+![Pontos chave de decisão](/Imagens/pontosChaveDeDecisão.svg "Pontos chave de decisão")
 
 ### 2.2.8. Decisões que serão tomadas em cada ponto chave de decisão.
 
@@ -307,7 +307,7 @@ Os pontos chave de decisão estão previstos para 10 dias úteis após as trocas
 
 * **Ponto de decisão 1**
   * A proposta de honorários é considerada adequada?
-  * A empresa/consórcio de empresas detém portfólio, equipa e competências/capacidade para o trabalho?
+  * A empresa/consórcio de empresas detém portfólio, equipa e aptidão/capacidade para o trabalho?
   * No âmbito BIM, cumpre adequadamente a avaliação através da matriz (‘Formulário de apoio à avaliação de candidatos’) do ‘Guia de Contratação’ da CT197?
 
 * **Ponto de decisão 2**
@@ -370,7 +370,7 @@ Os pontos chave de decisão estão previstos para 10 dias úteis após as trocas
             <td>PIR02</td>
             <td>Sustentabilidade</td>
             <td>EIR09</td>
-            <td>Análise de sustentabilidade BREEAM com classificação de 'Very Good'. A análise não necessita ser totalmente baseada em modelos BIM.</td>
+            <td>Análise de sustentabilidade BREEAM com classificação de 'Very Good'. A análise não necessita ser totalmente baseada em modelos.</td>
         </tr>
         <tr>
             <td>PIR03</td>
@@ -424,6 +424,8 @@ As normas de informação do projeto visam descrever os critérios que irão dar
 ### 3.1.2. Nomenclatura dos blocos de informação - Ficheiros
 
 `Os blocos de informação devem ser nomeados com o uso de sete campos, separados por um delimitador, de acordo com a seguinte convenção:`
+
+![Campos da nomenclatura](/Imagens/camposNomenclatura.svg "Nomenclatura")
 
 #### a) Projeto
 
@@ -504,7 +506,16 @@ Variável de acordo com especialidade ao qual o bloco de informação está rela
 
 ---
 
-#### g) Número
+#### g) Fase
+
+Variável de acordo com a fase a  qual o bloco de informação está relacionado.
+
+> Códigos:
+> A definição das fases é apresentada n 6, a propósito do CDE. Os respectivos códigos estão listados na [tabela A.3](#tabela-a3-–-código-para-o-campo-fase) do Apêndice B deste documento.
+
+---
+
+#### h) Número
 
 Variável e ordenado, aplicável a blocos de informação que façam parte de uma série de blocos e para os quais não há distinção em nenhum dos outros campos..
 
@@ -531,6 +542,8 @@ Metadados são atributos adicionais ao bloco de informação, que facilitam a lo
 
 Os blocos de informação devem conter metadados, separados por um delimitador, de acordo com a seguinte convenção:
 
+![Campos dos metadados](/Imagens/camposMetadados.svg "Metadados")
+
 #### a) Estado
 
 A definição dos estados é apresentada n 6, a propósito do CDE. Os respectivos códigos estão listados na [tabela B.1](#tabela-b1-–-códigos-para-o-estado-dos-blocos-de-informação-dentro-do-cde) do Apêndice B deste documento.
@@ -556,21 +569,17 @@ Classificação de acordo com a `Tabela PM` (Project Management) do sistema `SEC
 
 #### d) Descrição
 
+Descrição breve do contéudo do bloco de informação.
 
 ---
 
-#### e) Fase
+#### e) Data
 
-A definição das fases é apresentada n 6, a propósito do CDE. Os respectivos códigos estão listados na [tabela B.2](#tabela-b2-–-código-para-o-campo-fase) do Apêndice B deste documento.
-
----
-
-#### f) Data
-
+Data da última edição do bloco de informação.
 
 ---
 
-#### g) Outros
+#### f) Outros
 
 Os blocos de informação podem incluir metadados adicionais caso sejam entendidos como necessários pela Entidade Fornecedora. Os novos códigos definidos devem estar listados juntos às suas definições no Plano de Execução BIM. 
 
@@ -614,15 +623,15 @@ Desenhos em formato editável DWG.
 
 Documentos, folhas de cálculo e desenhos não editáveis em formato PDF seguindo a norma ISO 32000-2:2020.
 
-Modelos BIM no formato proprietário da plataforma utilizada, a entregar no final de cada fase.
+Modelos no formato proprietário da plataforma utilizada, a entregar no final de cada fase.
 
-Modelos BIM em IFC 4.0.2.1 (IFC4 ADD2 TC1) ISO 16739-1:2018. Máximo de 300 MB por bloco de informação independente.
+Modelos em IFC 4.0.2.1 (IFC4 ADD2 TC1) ISO 16739-1:2018. Máximo de 300 MB por bloco de informação independente.
 
 Imagens em formato JPG ou PNG (resolução 1080p ou 4K).
 
 Vídeos em formato MP4 (resolução 1080p ou 4K).
 
-Trocas de pedidos de informação nos modelos BIM em BCF.
+Trocas de pedidos de informação nos modelos em BCF.
 
 ---
 
@@ -741,7 +750,7 @@ Os itens a serem considerados na revisão, bem como KPI’s e checklist estão d
 
 As entregas finais serão realizadas utilizando a solução CDE determinada anteriormente.
 
-Os entregáveis finais devem passar ao estado Publicado quando se encontrarem finalizados dentro das datas determinadas n XX.
+Os entregáveis finais devem passar ao estado estado A ([tabela B.1](#tabela-b1-–-códigos-para-o-estado-dos-blocos-de-informação-dentro-do-cde)) quando se encontrarem finalizados dentro das datas determinadas na secção 5.
 
 ---
 
@@ -790,7 +799,7 @@ A informação de suporte está disponível em: [https://drive.google.com/drive/
 Em fase de concurso os concorrentes devem entregar:
 
 * O `BEP` pré contrato ISO19650 e especificação nacional, incluindo matriz RACI  e demonstração de capacidade
-* A `matriz de competencias matriz` (‘Formulário de apoio à avaliação de candidatos’) do ‘Guia de Contratação’ da CT197
+* A `matriz de  matriz` (‘Formulário de apoio à avaliação de candidatos’) do ‘Guia de Contratação’ da CT197
 * A `proposta de honorários`
 
 <table>
@@ -808,15 +817,15 @@ Em fase de concurso os concorrentes devem entregar:
         </tr>
         <tr>
             <td>EIR01<br>EIR02<br>EIR03<br>EIR04<br>EIR09<br>EIR10</td>
-            <td>02/11/2023<br>(10 dias antes da tomada de decisão)</td>
+            <td>02/04/2024<br>(10 dias antes da tomada de decisão)</td>
             <td>Ponto de decisão 2:<ul><li>Decisão sobre o nível de certificação BREEAM que realmente se pretende tendo em conta objetivos de desempenho e limites orçamentais.</li><li>Decisão sobre continuidade do investimento e eventuais adaptações aos objetivos estratégicos.</li></ul></td>
-            <td>13/11/2023<br>(7 semanas antes do fim da fase)</td>
+            <td>12/04/2024<br>(7 semanas antes do fim da fase)</td>
         </tr>
         <tr>
             <td>EIR04<br>EIR08<br>EIR09<br>EIR10</td>
-            <td>22/12/2023<br>(10 dias antes da tomada de decisão)</td>
+            <td>21/08/2024<br>(10 dias antes da tomada de decisão)</td>
             <td>Pontos de decisão 3:<ul><li>Decisão sobre aprovação final de fase com eventuais alterações.</li></ul></td>
-            <td>31/12/2023<br>(fim da fase)</td>
+            <td>31/08/2024<br>(fim da fase)</td>
         </tr>
         <tr>
             <td>EIR05</td>
@@ -1065,8 +1074,19 @@ Em fase de concurso os concorrentes devem entregar:
 | Não disciplinar / não aplicável                         | XXX    |
 | Multidisciplinar                                        | ZZZ    |
 
+### Tabela A.3 – Código para o campo Fase
 
-
+| Descrição da fase                             | Código |
+| --------------------------------------------- | ------ |
+| Programa preliminar                           | PP     |
+| Programa base                                 | PB     |
+| Estudo Prévio                                 | EP     |
+| Anteprojeto                                   | AP     |
+| Projeto de execução                           | PE     |
+| Construção                                    | CO     |
+| Entrega da obra (telas finais)                | TF     |
+| Utilização dos ativos (operação e manutenção) | OM     |
+| Fim de vida (descomissionamento / demolição)  | DD     |
 
 ## Apêndice B - Códigos para metadados dos blocos de informação
 
@@ -1123,17 +1143,3 @@ Em fase de concurso os concorrentes devem entregar:
         </tr>
     </tbody>
 </table>
-
-### Tabela B.2 – Código para o campo Fase
-
-| Descrição da fase                             | Código |
-| --------------------------------------------- | ------ |
-| Programa preliminar                           | PP     |
-| Programa base                                 | PB     |
-| Estudo Prévio                                 | EP     |
-| Anteprojeto                                   | AP     |
-| Projeto de execução                           | PE     |
-| Construção                                    | CO     |
-| Entrega da obra (telas finais)                | TF     |
-| Utilização dos ativos (operação e manutenção) | OM     |
-| Fim de vida (descomissionamento / demolição)  | DD     |
