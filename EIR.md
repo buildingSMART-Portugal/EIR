@@ -742,7 +742,7 @@ Cada equipa de trabalho deve efetuar uma verificação da garantia de qualidade 
 
 O processo de revisão e aprovação da informação segue o fluxo ilustrado na figura  a seguir:
 
-![Processo de revisão e aprovação da informação](/Imagens/RevisaoAprovacaoInformacao.png "Processo de revisão e aprovação da informação")
+![Processo de revisão e aprovação da informação](/Imagens/RevisaoAprovacaoInformacao.svg "Processo de revisão e aprovação da informação")
 
 
 Os itens a serem considerados na revisão, bem como KPI’s e checklist estão detalhados n XX.
