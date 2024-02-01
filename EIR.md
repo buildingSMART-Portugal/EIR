@@ -493,7 +493,7 @@ A listagem pode ser expandida pela Entidade Fornecedora caso se considere necess
 Os novos códigos definidos devem estar listados juntos às suas definições no Plano de Execução BIM.
 
 > Códigos:\
-> Os códigos propostos estão listados na [tabela A.1](#tabela-a1-–-códigos-para-o-campo-forma) do Apêndice A deste documento.
+> Os códigos propostos estão listados na [tabela A.1](#tabela-a1--códigos-para-o-campo-forma) do Apêndice A deste documento.
 
 ---
 
@@ -502,7 +502,7 @@ Os novos códigos definidos devem estar listados juntos às suas definições no
 Variável de acordo com especialidade ao qual o bloco de informação está relacionado.
 
 > Códigos:\
-> Os códigos propostos estão listados na [tabela A.2](#tabela-a2-–-código-para-o-campo-especialidade) do Apêndice A deste documento.
+> Os códigos propostos estão listados na [tabela A.2](#tabela-a2--código-para-o-campo-especialidade) do Apêndice A deste documento.
 
 ---
 
@@ -511,7 +511,7 @@ Variável de acordo com especialidade ao qual o bloco de informação está rela
 Variável de acordo com a fase a  qual o bloco de informação está relacionado.
 
 > Códigos:
-> A definição das fases é apresentada n 6, a propósito do CDE. Os respectivos códigos estão listados na [tabela A.3](#tabela-a3-–-código-para-o-campo-fase) do Apêndice B deste documento.
+> A definição das fases é apresentada n 6, a propósito do CDE. Os respectivos códigos estão listados na [tabela A.3](#tabela-a3--código-para-o-campo-fase) do Apêndice B deste documento.
 
 ---
 
@@ -546,7 +546,7 @@ Os blocos de informação devem conter metadados, separados por um delimitador, 
 
 #### a) Estado
 
-A definição dos estados é apresentada n 6, a propósito do CDE. Os respectivos códigos estão listados na [tabela B.1](#tabela-b1-–-códigos-para-o-estado-dos-blocos-de-informação-dentro-do-cde) do Apêndice B deste documento.
+A definição dos estados é apresentada n 6, a propósito do CDE. Os respectivos códigos estão listados na [tabela B.1](#tabela-b1--códigos-para-o-estado-dos-blocos-de-informação-dentro-do-cde) do Apêndice B deste documento.
 
 ---
 
@@ -751,7 +751,7 @@ Os itens a serem considerados na revisão, bem como KPI’s e checklist estão d
 
 As entregas finais serão realizadas utilizando a solução CDE determinada anteriormente.
 
-Os entregáveis finais devem passar ao estado estado A ([tabela B.1](#tabela-b1-–-códigos-para-o-estado-dos-blocos-de-informação-dentro-do-cde)) quando se encontrarem finalizados dentro das datas determinadas na secção 5.
+Os entregáveis finais devem passar ao estado estado A ([tabela B.1](#tabela-b1--códigos-para-o-estado-dos-blocos-de-informação-dentro-do-cde)) quando se encontrarem finalizados dentro das datas determinadas na secção 5.
 
 ---
 
