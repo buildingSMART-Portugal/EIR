@@ -546,7 +546,7 @@ Os blocos de informação devem conter metadados, separados por um delimitador, 
 
 #### a) Estado
 
-A definição dos estados é apresentada n 6, a propósito do CDE. Os respectivos códigos estão listados na [tabela B.1](#tabela-b1--códigos-para-o-estado-dos-blocos-de-informação-dentro-do-cde) do Apêndice B deste documento.
+A definição dos estados é apresentada , a propósito do CDE. Os respectivos códigos estão listados na [tabela B.1](#tabela-b1--códigos-para-o-estado-dos-blocos-de-informação-dentro-do-cde) do Apêndice B deste documento.
 
 ---
 
