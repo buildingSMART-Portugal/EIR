@@ -289,7 +289,7 @@ Os pontos a considerar estão identificados abaixo.
 
 Os pontos chave de decisão estão previstos para 10 dias úteis após as trocas de informação com a Entidade Requerente e estão distribuídos ao longo das fases.
 
-![Pontos chave de decisão](/imagens/PontosChaveDeDecisao.png "Pontos chave de decisão")
+![Pontos chave de decisão](/Imagens/PontosChaveDeDecisao.svg "Pontos chave de decisão")
 
 ### 2.2.8. Decisões que serão tomadas em cada ponto chave de decisão.
 
@@ -425,7 +425,7 @@ As normas de informação do projeto visam descrever os critérios que irão dar
 
 `Os blocos de informação devem ser nomeados com o uso de sete campos, separados por um delimitador, de acordo com a seguinte convenção:`
 
-![Campos da nomenclatura](/imagens/CamposNomenclatura.png "Campos da nomenclatura")
+![Campos da nomenclatura](/Imagens/CamposNomenclatura.svg "Campos da nomenclatura")
 
 #### a) Projeto
 
@@ -542,7 +542,7 @@ Metadados são atributos adicionais ao bloco de informação, que facilitam a lo
 
 Os blocos de informação devem conter metadados, separados por um delimitador, de acordo com a seguinte convenção:
 
-![Campos dos metadados](/imagens/CamposMetadados.png "Campos dos metadados")
+![Campos dos metadados](/Imagens/CamposMetadados.svg "Campos dos metadados")
 
 #### a) Estado
 
@@ -742,7 +742,7 @@ Cada equipa de trabalho deve efetuar uma verificação da garantia de qualidade 
 
 O processo de revisão e aprovação da informação segue o fluxo ilustrado na figura  a seguir:
 
-![Processo de revisão e aprovação da informação](/imagens/Revisao-e-aprovacao-da-informacao.png "Processo de revisão e aprovação da informação")
+![Processo de revisão e aprovação da informação](/Imagens/RevisaoAprovacaoInformacao.png "Processo de revisão e aprovação da informação")
 
 
 Os itens a serem considerados na revisão, bem como KPI’s e checklist estão detalhados n XX.
