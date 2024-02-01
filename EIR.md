@@ -532,7 +532,7 @@ Os códigos devem conter o máximo de quatro dígitos composto por números inte
 
 Um ficheiro PDF desenvolvido pela entidade fornecedora “Gabinete de Projetos de Portugal” (GPP), responsável pelo projeto de estruturas, contendo o primeiro desenho 2D do projeto de fundações do edifício, para o qual não se aplica a definição de pisos.
 
-> OBG-GPP-EST-DS-FUN-XXX-0001.pdf
+> OBG-GPP-EST-DS-FUN-PP-XXX-0001.pdf
 
 ---
 
@@ -777,22 +777,22 @@ A informação de suporte está disponível em: [https://drive.google.com/drive/
 
 ## 4.1. Informação de referência
 
-| Nomeclatura                   | Metadados            | Descrição                                |
-| ----------------------------- | -------------------- | ---------------------------------------- |
-| OBG-BSP-ZZ-ZZ-CE-XXX-0001.pdf | A1-C01-XX-11.01.2024 | Requerimento                             |
-| OBG-BSP-ZZ-ZZ-CE-XXX-0002.pdf | A1-C01-XX-11.01.2024 | Procuração                               |
-| OBG-BSP-ZZ-ZZ-CE-XXX-0003.pdf | A1-C01-XX-11.01.2024 | Termo, seguro, declaração OA, topografia |
-| OBG-BSP-ZZ-ZZ-LG-XXX-0001.pdf | A1-C01-XX-11.01.2024 | Caderneta Predial Urbana                 |
-| OBG-BSP-ZZ-ZZ-LG-XXX-0002.pdf | A1-C01-XX-11.01.2024 | CRC                                      |
-| OBG-BSP-ZZ-ZZ-LG-XXX-0003.pdf | A1-C01-XX-11.01.2024 | CRP                                      |
-| OBG-BSP-ZZ-ZZ-LV-LEV-0000.dwf | A1-C01-XX-11.01.2024 | Levantamento topográfico                 |
+| Nomeclatura                      | Estado | Revisão | Classificação | Data       | Descrição                                |
+| -------------------------------- | ------ | ------- | ------------- | ---------- | ---------------------------------------- |
+| OBG-BSP-ZZ-ZZ-CE-XX-XXX-0001.pdf | A1     | C01     | PM_XX_XX_XX   | 11.01.2024 | Requerimento                             |
+| OBG-BSP-ZZ-ZZ-CE-XX-XXX-0002.pdf | A1     | C01     | PM_XX_XX_XX   | 11.01.2024 | Procuração                               |
+| OBG-BSP-ZZ-ZZ-CE-XX-XXX-0003.pdf | A1     | C01     | PM_XX_XX_XX   | 11.01.2024 | Termo, seguro, declaração OA, topografia |
+| OBG-BSP-ZZ-ZZ-LG-XX-XXX-0001.pdf | A1     | C01     | PM_XX_XX_XX   | 11.01.2024 | Caderneta Predial Urbana                 |
+| OBG-BSP-ZZ-ZZ-LG-XX-XXX-0002.pdf | A1     | C01     | PM_XX_XX_XX   | 11.01.2024 | CRC                                      |
+| OBG-BSP-ZZ-ZZ-LG-XX-XXX-0003.pdf | A1     | C01     | PM_XX_XX_XX   | 11.01.2024 | CRP                                      |
+| OBG-BSP-ZZ-ZZ-LV-XX-LEV-0000.dwf | A1     | C01     | PM_30_20_89   | 11.01.2024 | Levantamento topográfico                 |
 
 ## 4.2. Recursos partilhados
 
-| Nomeclatura                    | Metadados            | Descrição                          |
-| ------------------------------ | -------------------- | ---------------------------------- |
-| OBG-BSP-ZZ-ZZ-RL-XXX-0001.docx | A1-C01-XX-11.01.2024 | Modelo para produção de relatórios |
-| OBG-BSP-ZZ-ZZ-RL-XXX-0002.dwg  | A1-C01-XX-11.01.2024 | Modelo de folha de rosto           |
+| Nomeclatura                       | Estado | Revisão | Classificação | Data       | Descrição                          |
+| --------------------------------- | ------ | ------- | ------------- | ---------- | ---------------------------------- |
+| OBG-BSP-ZZ-ZZ-RL-XX-XXX-0001.docx | A1     | C01     | FI_90_88      | 11.01.2024 | Modelo para produção de relatórios |
+| OBG-BSP-ZZ-ZZ-RL-XX-XXX-0002.dwg  | A1     | C01     | FI_90_88      | 11.01.2024 | Modelo de folha de rosto           |
 
 # 5. Datas, marcos de entrega de informação e pontos-chave de decisão
 
@@ -1078,6 +1078,7 @@ Em fase de concurso os concorrentes devem entregar:
 
 | Descrição da fase                             | Código |
 | --------------------------------------------- | ------ |
+| Sem fase                                      | XX     |
 | Programa preliminar                           | PP     |
 | Programa base                                 | PB     |
 | Estudo Prévio                                 | EP     |
