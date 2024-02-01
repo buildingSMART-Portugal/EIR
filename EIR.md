@@ -780,8 +780,8 @@ A informação de suporte está disponível em: [https://drive.google.com/drive/
 | Nomeclatura                      | Estado | Revisão | Classificação | Data       | Descrição                                |
 | -------------------------------- | ------ | ------- | ------------- | ---------- | ---------------------------------------- |
 | OBG-BSP-ZZ-ZZ-CE-XX-XXX-0001.pdf | A1     | C01     | PM_XX_XX_XX   | 11.01.2024 | Requerimento                             |
-| OBG-BSP-ZZ-ZZ-CE-XX-XXX-0002.pdf | A1     | C01     | PM_XX_XX_XX   | 11.01.2024 | Procuração                               |
-| OBG-BSP-ZZ-ZZ-CE-XX-XXX-0003.pdf | A1     | C01     | PM_XX_XX_XX   | 11.01.2024 | Termo, seguro, declaração OA, topografia |
+| OBG-BSP-ZZ-ZZ-CE-XX-XXX-0002.pdf | A1     | C01     | PM_40_50_49   | 11.01.2024 | Procuração                               |
+| OBG-BSP-ZZ-ZZ-CE-XX-XXX-0003.pdf | A1     | C01     | PM_10_20_03   | 11.01.2024 | Termo, seguro, declaração OA, topografia |
 | OBG-BSP-ZZ-ZZ-LG-XX-XXX-0001.pdf | A1     | C01     | PM_XX_XX_XX   | 11.01.2024 | Caderneta Predial Urbana                 |
 | OBG-BSP-ZZ-ZZ-LG-XX-XXX-0002.pdf | A1     | C01     | PM_XX_XX_XX   | 11.01.2024 | CRC                                      |
 | OBG-BSP-ZZ-ZZ-LG-XX-XXX-0003.pdf | A1     | C01     | PM_XX_XX_XX   | 11.01.2024 | CRP                                      |
