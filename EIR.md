@@ -814,7 +814,7 @@ Em fase de concurso os concorrentes devem entregar:
     </thead>
     <tbody>
         <tr>
-            <td colspan=4>Estudo prévio</td>
+            <th colspan=4 style="text-align: left;">Estudo prévio</th>
         </tr>
         <tr>
             <td>EIR01<br>EIR02<br>EIR03<br>EIR04<br>EIR09<br>EIR10</td>
@@ -837,7 +837,7 @@ Em fase de concurso os concorrentes devem entregar:
             <td colspan=3>Reuniões de coordenação realizadas quinzenalmente (Com data de início a definir)</td>
         </tr>
         <tr>
-            <td colspan=4>Anteprojeto</td>
+            <th colspan=4 style="text-align: left;">Anteprojeto</th>
         </tr>
         <tr>
             <td>EIR04<br>EIR07<br>EIR08<br>EIR09<br>EIR10</td>
@@ -854,7 +854,7 @@ Em fase de concurso os concorrentes devem entregar:
             <td colspan=3>Reuniões de coordenação realizadas quinzenalmente (Com data de início a definir)</td>
         </tr>
         <tr>
-            <td colspan=4>Projeto de execução</td>
+            <th colspan=4 style="text-align: left;">Projeto de execução</th>
         </tr>
         <tr>
             <td>EIR04<br>EIR07<br>EIR10<br>EIR11<br>EIR12<br>EIR13</td>
@@ -1103,14 +1103,14 @@ Em fase de concurso os concorrentes devem entregar:
     </thead>
     <tbody>
         <tr>
-            <th colspan=2>Estado: Trabalho em curso</th>
+            <th colspan=2 style="text-align: left;">Estado: Trabalho em curso</th>
         </tr>
         <tr>
             <td>Bloco de informação em desenvolvimento pela equipa de trabalho.</td>
             <td>S0</td>
         </tr>
         <tr>
-            <th colspan=2>Estado: Partilhado</th>
+            <th colspan=2 style="text-align: left;">Estado: Partilhado</th>
         </tr>
         <tr>
             <td>Bloco de informação adequado para coordenação geométrica e não geométrica dentro da equipa de desenvolvimento.</td>
@@ -1133,7 +1133,7 @@ Em fase de concurso os concorrentes devem entregar:
             <td>S5</td>
         </tr>
         <tr>
-            <th colspan=2>Estado: Publicado</th>
+            <th colspan=2 style="text-align: left;">Estado: Publicado</th>
         </tr>
         <tr>
             <td>Blocos de informação autorizados e/ou aceites</td>
