@@ -699,7 +699,7 @@ Os modelos entregues em IFC não devem conter duplicações de elementos entre e
 
 A estrutura dos modelos IFC deverá ser uniforme entre todas as disciplinas, cumprindo a nomenclatura de acordo com a seguinte tabela:
 
-| ENTIDADE IFC             | NOMENCLATURA    |
+| Entidade IFC             | Nomenclatura    |
 | ------------------------ | --------------- |
 | IfcProject               | OpenBIMGarden   |
 | -- IfcSite               | Arroios         |
@@ -779,9 +779,9 @@ Draft para proposta de critério de aceitação:
 
 \* Nota mínima para aceitação é 2; Esta nota pode ser ponderada em função do contexto, fase de projecto ou especialidade e ser justificada nos comentários
 
-### Apreciação global
+### 3.3.1. Apreciação global
 
-| Ref. | EIR   |                                          | Comentário                                                                                                                                                                                                                        |
+| Ref. | EIR   | Título                                   | Descrição                                                                                                                                                                                                                         |
 | ---- | ----- | ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | A    | EIR01 | Levantamento de condicionantes           | Entrega do resumo das condicionantes identificadas.<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                               |
 | B    | EIR02 | Levantamento do terreno e envolvente     | Entrega da nuvem de pontos.<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                                                       |
@@ -796,12 +796,9 @@ Draft para proposta de critério de aceitação:
 | L    | EIR11 | Compilação de modelos                    | Entrega de todos os modelos e respetivas peças desenhadas e escritas. Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                |
 | N    | EIR13 | Elaboração do plano de Segurança e Saúde | Entrega do plano de Segurança e Saúde. Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                                               |
 
+### 3.3.2. Qualidade do Modelo
 
-
-### Qualidade do Modelo
-
-#### Geometria
-
+#### a) Geometria
 
 | Ref. | Título                                      | Descrição                                                                                                     |
 | ---- | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
@@ -813,7 +810,7 @@ Draft para proposta de critério de aceitação:
 | F    | Duplicações                                 | Não existem duplicações                                                                                       |
 | G    | Requisitos minímos de informação geométrica | Detalhe, Dimensão, Localização, Aparência e Comportamento Paramétrico de acordo com Level of Information Need |
 
-#### Informação não gráfica
+#### b) Informação não gráfica
 
 | Ref. | Título                                            | Descrição                                                                                                      |
 | ---- | ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
@@ -826,7 +823,7 @@ Draft para proposta de critério de aceitação:
 | N    | Materiais                                         | Materiais cumprem requisitos do Level of Information Need                                                      |
 | O    | Classificação                                     | Objectos classificados de acordo com sistema SECClasS                                                          |
 
-### Requisitos EIR
+### 3.3.3. Requisitos EIR
 
 | Ref. | Título                                    | Descrição                                                                                                                                                                                                                         |
 | ---- | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
