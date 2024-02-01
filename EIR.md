@@ -769,6 +769,71 @@ Draft para proposta de critério de aceitação:
 
 [critério de aceitação](https://docs.google.com/spreadsheets/d/1fqYzzKCA0ehy6SgKDjJT8Db1CJie5wnA/edit?usp=sharing&ouid=111082311409357442545&rtpof=true&sd=true)
 
+| Critério de aceitação*  | Nota | Descrição                                                                                                                                                                     |
+| ----------------------- | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Não Aplicável           | NA   | Requisito não aplicável numa fase ou para um determinado projecto                                                                                                             |
+| Não Cumpre              | 0    | Não cumpre critérios do BEP; Em alguns casos como os Levels, as Grids e a Orientação / Sistema de Coordenadas, não existem gradações intermédias: aplica-se apenas o 0 ou o 3 |
+| Cumpre Parcialmente     | 1    | Maioria dos blocos de informação não está de acordo com o BEP; Classificação não é suficiente para aprovação                                                                  |
+| Cumpre Substancialmente | 2    | Maioria dos blocos de informação está de acordo com o BEP; Classificação suficiente para aprovação condicional                                                                |
+| Cumpre Totalmente       | 3    | Todos os blocos de informação estão de acordo com o BEP                                                                                                                       |
+
+
+### Apreciação global
+
+| Ref. | EIR   |                                          | Comentário                                                                                                                                                                                                                        |
+| ---- | ----- | ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| A    | EIR01 | Levantamento de condicionantes           | Entrega do resumo das condicionantes identificadas.<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                               |
+| B    | EIR02 | Levantamento do terreno e envolvente     | Entrega da nuvem de pontos.<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                                                       |
+| C    | EIR03 | Estudo geológico-geotécnico              | Entrega do relatório geológico-geotécnico.<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                                        |
+| D    | EIR04 | Modelação                                | Entrega dos modelos nos formatos definidos nas normas de informação.<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                              |
+| E    | EIR05 | Coordenação dos modelos                  | Relatório de colisões.  Ou envio de notificação de colisões?<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                      |
+| F    | EIR06 | Coordenação BIM                          | Presença regular em reuniões de coordenação BIM e projecto coordenado com restantes especialidades; Colisões identificadas, comunicadas e resolvidas de acordo com processo descrito no EIR 06; Modelo federado com regularidade. |
+| G    | EIR07 | Peças Desenhadas                         | Entrega de peças desenhadas extraídas dos modelos.<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                                |
+| H    | EIR08 | Simulações energéticas e certificação    | Entrega do relatório e certificado energético.<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                                    |
+| I    | EIR09 | Análise de sustentabilidade BREEAM       | Entrega do relatório da análise, garantindo a classificação final "Very Good".<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                    |
+| J    | EIR10 | Estimativa de quantidades e custos       | Entrega das estimativas de quantidades extraídas dos modelos.<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                     |
+| L    | EIR11 | Compilação de modelos                    | Entrega de todos os modelos e respetivas peças desenhadas e escritas. Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                |
+| N    | EIR13 | Elaboração do plano de Segurança e Saúde | Entrega do plano de Segurança e Saúde. Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                                               |
+
+
+
+### Qualidade do Modelo
+
+#### Geometria
+
+
+| Ref. | Título                                      | Descrição                                                                                                     |
+| ---- | ------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| A    | Apreciação geral                            | Modelo                                                                                                        |
+| B    | Origem  / Sistema de Coordenadas            | Coordenadas georeferenciadas  e Prisma invertido presente no ficheiro                                         |
+| C    | Orientação                                  | Orientado a Norte                                                                                             |
+| D    | Eixos Estruturais                           | Eixos estruturais coordenados com ficheiro base (IfcGrid)                                                     |
+| E    | Pisos                                       | Níveis coordenados com ficheiro base (IfcBuidlingStorey)                                                      |
+| F    | Duplicações                                 | Não existem duplicações                                                                                       |
+| G    | Requisitos minímos de informação geométrica | Detalhe, Dimensão, Localização, Aparência e Comportamento Paramétrico de acordo com Level of Information Need |
+
+#### Informação não gráfica
+
+| Ref. | Título                                            | Descrição                                                                                                      |
+| ---- | ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| H    | Espaços / Areas                                   | Cada compartimento identificado como IfcSpace                                                                  |
+| I    | Nomenclatura dos Blocos de Infromação - Ficheiros | Ficheiros cumprem nomenclatura                                                                                 |
+| J    | Blocos de Informação entregues na CDE             | Todos os ficheiros foram colocados na CDE; incluí Ifc e ficheiros nativos                                      |
+| K    | Unidades                                          | Sistema de unidades de acordo com definido no BEP                                                              |
+| L    | Atributos (Ifc)                                   | Objectos mapeados para as Class e Type IFC certas (evitar objectos classificados como IfcBuildingElementProxy) |
+| M    | Propriedades (Ifc)                                | Modelo cumpre requisitos de informação do Level of Information Need                                            |
+| N    | Materiais                                         | Materiais cumprem requisitos do Level of Information Need                                                      |
+| O    | Classificação                                     | Objectos classificados de acordo com sistema SECClasS                                                          |
+
+### Requisitos EIR
+
+| Ref. | Título                                    | Descrição                                                                                                                                                                                                                         |
+| ---- | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| P    | Coordenação BIM (EIR 06)                  | Presença regular em reuniões de coordenação BIM e projecto coordenado com restantes especialidades; Colisões identificadas, comunicadas e resolvidas de acordo com processo descrito no EIR 06; Modelo federado com regularidade. |
+| Q    | Peças Desenhadas (EIR 07)                 | "Peças desenhadas foram extraídas dos modelos.<br> Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto."                                                                  |
+| R    | Mapas de trabalhos e quantidades (EIR 12) | "Medições extraídas dos modelos / confirmar que medições batem certo com MQT.<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                     |
+
+
 # 4. Informação de suporte
 
 A informação de suporte consiste em informação que pretende ser disponibilizada pela entidade requerente à entidade fornecedora líder com o intuito de evitar trabalho redundante e garantir que a informação é desenvolvida de acordo com as suas normas. Possibilitando assim que a entidade fornecedora tenha uma maior compreensão sobre o que está a ser requerido para o projeto. De acordo com a cláusula 5.2.1 d) da EN ISO 19650-2, a informação de suporte poderá consistir em informação existente de ativos, recursos partilhados, exemplos de entregáveis, documentos de suporte, material de orientação e referências para normas internacionais, nacionais ou da indústria.
