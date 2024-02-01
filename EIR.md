@@ -745,7 +745,7 @@ O processo de revisão e aprovação da informação segue o fluxo ilustrado na 
 ![Processo de revisão e aprovação da informação](/Imagens/RevisaoAprovacaoInformacao.svg "Processo de revisão e aprovação da informação")
 
 
-Os itens a serem considerados na revisão, bem como KPI’s e checklist estão detalhados n XX.
+Os itens a serem considerados na revisão, bem como KPI’s e checklist estão detalhados [Tabela de aceitação](#33-tabela-de-aceitação).
 
 ### 3.2.3. Entrega da informação à entidade requerente
 
