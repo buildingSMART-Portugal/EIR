@@ -945,9 +945,9 @@ Em fase de concurso os concorrentes devem entregar:
 <table>
     <thead>
         <tr>
-            <th>TIPO</th>
-            <th>DESCRIÇÃO</th>
-            <th>CÓDIGO</th>
+            <th>Tipo</th>
+            <th>Descrição</th>
+            <th>Código</th>
         </tr>
     </thead>
     <tbody>
@@ -1076,7 +1076,7 @@ Em fase de concurso os concorrentes devem entregar:
 
 ### Tabela A.2 – Código para o campo Especialidade
 
-| DESCRIÇÃO                                               | CÓDIGO |
+| Descrição                                               | Código |
 | ------------------------------------------------------- | ------ |
 | Acessibilidades                                         | ACS    |
 | Engenharia acústica                                     | ACU    |
@@ -1160,8 +1160,8 @@ Em fase de concurso os concorrentes devem entregar:
 <table>
     <thead>
         <tr>
-            <th>DESCRIÇÃO</th>
-            <th>CÓDIGO</th>
+            <th>Descrição</th>
+            <th>Código</th>
         </tr>
     </thead>
     <tbody>
