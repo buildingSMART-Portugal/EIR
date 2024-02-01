@@ -777,6 +777,7 @@ Draft para proposta de critério de aceitação:
 | Cumpre Substancialmente | 2    | Maioria dos blocos de informação está de acordo com o BEP; Classificação suficiente para aprovação condicional                                                                |
 | Cumpre Totalmente       | 3    | Todos os blocos de informação estão de acordo com o BEP                                                                                                                       |
 
+\* Nota mínima para aceitação é 2; Esta nota pode ser ponderada em função do contexto, fase de projecto ou especialidade e ser justificada nos comentários
 
 ### Apreciação global
 
