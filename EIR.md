@@ -510,8 +510,8 @@ Variável de acordo com especialidade ao qual o bloco de informação está rela
 
 Variável de acordo com a fase a  qual o bloco de informação está relacionado.
 
-> Códigos:
-> A definição das fases é apresentada n 6, a propósito do CDE. Os respectivos códigos estão listados na [tabela A.3](#tabela-a3--código-para-o-campo-fase) do Apêndice B deste documento.
+> Códigos:\
+> Os códigos propostos estão listados na [tabela A.3](#tabela-a3--código-para-o-campo-fase) do Apêndice A deste documento.
 
 ---
 
