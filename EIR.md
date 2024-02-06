@@ -847,7 +847,7 @@ A informação de suporte está disponível em: [https://drive.google.com/drive/
 | OBG-BSP-ZZ-ZZ-CE-XXX-XX-0002.pdf | A1     | C01     | PM_40_50_49   | 11.01.2024 | Procuração                               |
 | OBG-BSP-ZZ-ZZ-CE-XXX-XX-0003.pdf | A1     | C01     | PM_10_20_03   | 11.01.2024 | Termo, seguro, declaração OA, topografia |
 | OBG-BSP-ZZ-ZZ-LG-XXX-XX-0001.pdf | A1     | C01     | PM_30_10_80   | 11.01.2024 | Caderneta Predial Urbana                 |
-| OBG-BSP-ZZ-ZZ-LG-XXX-XX-0002.pdf | A1     | C01     | PM_XX_XX_XX   | 11.01.2024 | CRC                                      |
+| OBG-BSP-ZZ-ZZ-LG-XXX-XX-0002.pdf | A1     | C01     | PM_55         | 11.01.2024 | CRC                                      |
 | OBG-BSP-ZZ-ZZ-LG-XXX-XX-0003.pdf | A1     | C01     | PM_30_10_47   | 11.01.2024 | CRP                                      |
 | OBG-BSP-ZZ-ZZ-LV-LEV-XX-0000.dwf | A1     | C01     | PM_30_20_89   | 11.01.2024 | Levantamento topográfico                 |
 
