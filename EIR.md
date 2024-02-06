@@ -827,9 +827,9 @@ Draft para proposta de critério de aceitação:
 
 | Ref. | Título                                    | Descrição                                                                                                                                                                                                                         |
 | ---- | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| P    | Coordenação BIM (EIR 06)                  | Presença regular em reuniões de coordenação BIM e projecto coordenado com restantes especialidades; Colisões identificadas, comunicadas e resolvidas de acordo com processo descrito no EIR 06; Modelo federado com regularidade. |
-| Q    | Peças Desenhadas (EIR 07)                 | Peças desenhadas foram extraídas dos modelos.<br> Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                                  |
-| R    | Mapas de trabalhos e quantidades (EIR 12) | Medições extraídas dos modelos / confirmar que medições batem certo com MQT.<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                     |
+| P    | Coordenação BIM (EIR06)                  | Presença regular em reuniões de coordenação BIM e projecto coordenado com restantes especialidades; Colisões identificadas, comunicadas e resolvidas de acordo com processo descrito no EIR06; Modelo federado com regularidade. |
+| Q    | Peças Desenhadas (EIR07)                 | Peças desenhadas foram extraídas dos modelos.<br> Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                                  |
+| R    | Mapas de trabalhos e quantidades (EIR12) | Medições extraídas dos modelos / confirmar que medições batem certo com MQT.<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                     |
 
 
 # 4. Informação de suporte
