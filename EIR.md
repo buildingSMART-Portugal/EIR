@@ -645,13 +645,16 @@ Não há requisitos para os software a utilizar pelas entidades fornecedoras. Os
 
 A Entidade Requerente irá utilizar o software `<NomeDoSoftwareDeVizualização/VerificaçãoIFC>` para visualizar, verificar e validar blocos de informação IFC. A entidade fornecedora líder deverá verificar o bom desempenho dos blocos de informação IFC nesta plataforma e informar de antemão sobre potenciais problemas na interpretação dos IFCs submetidos.
 
-CDE `R2U`* da responsabilidade da entidade requerente, definir atualizações com periodicidades mínimas de atualização do CDE pelas entidades fornecedoras; definir que as entidades fornecedoras . Chamar a atenção que “não há pastas” de forma pedagógica.
+CDE `R2U`* da responsabilidade da entidade requerente
 
-Todos os BCFs serão geridos de forma centralizada no CDE R2U.
+\\ to do
+* definir atualizações com periodicidades mínimas de atualização do CDE pelas entidades fornecedoras;
+* definir que as entidades fornecedoras;
+* Chamar a atenção que “não há pastas” de forma pedagógica.
 
-por conexão com o servidor web URL. VAMOS VER
+Todos os BCFs serão geridos de forma centralizada no CDE `R2U`.
 
-\* CDE `R2U` é um software aberto e gratuito blah blah preparado pela Universidade do Minho
+\* CDE `R2U` é um software aberto e gratuito preparado pela Universidade do Minho
 
 ### 3.1.11. Informação para o período operacional de gestão de ativos
 
