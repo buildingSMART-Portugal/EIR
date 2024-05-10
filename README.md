@@ -25,3 +25,4 @@
 * [Andressa Oliveira]()
 * Luis Ribeirinho
 * João Fonseca
+* João Neves Adelino
