@@ -21,6 +21,7 @@
 * [Filipe Lima](fl@limsen.com)
 * [Hugo Silva](hmcsilva@gmail.com)
 * [Pedro Martins](pedro.martins@builtcolab.pt)
-* [José Granja](granja@civil.uminho.pt) 
+* [José Granja](granja@civil.uminho.pt)
+* [Andressa Oliveira]()
 * Luis Ribeirinho
 * João Fonseca
