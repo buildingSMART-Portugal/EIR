@@ -31,7 +31,7 @@ Fonte de informação acordada para qualquer projeto ou ativo, para recolher, ge
 
 ESG (*Environmental Social and Governance*)
 
-Indicadores ambientais, sociais e de governação concebidos para avaliar o nível de comprometimento das organizações com os objetivos do desenvolvimento sustentável.  [FONTE DIRETA](https://www.iapmei.pt/Paginas/fatores-ESG.aspx)
+Indicadores ambientais, sociais e de governação concebidos para avaliar o nível de comprometimento das organizações com os objetivos do desenvolvimento sustentável.
 
 **Aptidão**
 
@@ -762,12 +762,6 @@ Os métodos e tecnologias de trabalho digitais colaborativos utilizados no proje
 Esta classificação permitiu concluir que neste projeto, não haverá necessidade de desenvolver uma estratégia de segurança, respetivo plano de segurança, planos de gestão de falhas e incidentes e acordos de partilha de informação com entidades fornecedoras. No entanto, devem ser protegidas as informações comerciais e pessoais de acordo com a legislação em vigor, nomeadamente o RGPD. Devem, ainda, ser tomadas medidas adequadas para minimizar as ameaças decorrentes de atividades fraudulentas e outras atividades criminosas e incidentes de cibersegurança.
 
 ## 3.3. Tabela de aceitação
-
-Draft para proposta de critério de aceitação:
-
-[critério de aceitação](https://docs.google.com/spreadsheets/d/1Guq_OQNBgA8xEwJ1NQERyPIEgc7z-IIFbMS_Oc1s3w0/edit#gid=1014708485)
-
-[critério de aceitação](https://docs.google.com/spreadsheets/d/1fqYzzKCA0ehy6SgKDjJT8Db1CJie5wnA/edit?usp=sharing&ouid=111082311409357442545&rtpof=true&sd=true)
 
 | Critério de aceitação*  | Nota | Descrição                                                                                                                                                                     |
 | ----------------------- | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
