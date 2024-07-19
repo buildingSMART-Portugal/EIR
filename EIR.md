@@ -73,10 +73,6 @@ Recursos disponíveis para a execução e funcionamento.
 
 Vida do ativo desde a definição dos seus requisitos até ao final da sua vida útil, cobrindo a conceção, desenvolvimento, operação, manutenção e desmantelamento.
 
-**Cliente**
-
-Ator responsável por iniciar um projeto e aprovar o programa preliminar.
-
 **Compromisso**
 
 Instruções acordadas para o fornecimento de informação sobre trabalhos, bens ou serviços.
@@ -340,7 +336,7 @@ Os pontos chave de decisão estão previstos para 10 dias úteis após as trocas
         </tr>
         <tr>
             <td>EIR02</td>
-            <td>Levantamento do terreno e envolvente (inclui componente topográfica e construções existentes).</td>
+            <td>Levantamento do terreno e envolvente (inclui componente topográfica e construções existentes adjadences).</td>
         </tr>
         <tr>
             <td>EIR03</td>
@@ -348,7 +344,7 @@ Os pontos chave de decisão estão previstos para 10 dias úteis após as trocas
         </tr>
         <tr>
             <td>EIR04</td>
-            <td>Modelação da Arquitetura, Estruturas, Redes de abastecimento de água, redes de drenagem de águas residuais e pluviais, AVAC, e outras especialidades necessárias para a obra em questão, com a devida georreferenciação. Disponibilização de federação dos modelos por parte da entidade fornecedora líder.</td>
+            <td>Modelação da Arquitetura, Estabilidade, Redes de Abastecimento de Água, Redes de Drenagem de Águas Residuais e Pluviais, AVAC, gás, incêndio, elétrica*, telecomunicações* e outras especialidades necessárias para a obra em questão, com a devida georreferenciação. Disponibilização de federação dos modelos por parte da entidade fornecedora líder.<br><sm>* os modelos em questão serão representados de forma simplificada de acordo com o nível de informação necessário</sm></td>
         </tr>
         <tr>
             <td>EIR05</td>
@@ -404,7 +400,7 @@ O desenvolvimento das tabelas com o Nível de Informação Necessário (EN 17412
 
 Tabelas de Nível de Informação Necessário:
 * [Arquitetura](https://docs.google.com/spreadsheets/d/1zllfF4_0YpR2oY5lTal2pS5UlQnYMe2rBJREKADhEPw/edit?usp=sharing)
-* [Estruturas](https://docs.google.com/spreadsheets/d/1W196anrrSR_btaHPR7_HdmMqyLPwcTYnKpFRK5o-vZk/edit?usp=sharing)
+* [Estabilidade](https://docs.google.com/spreadsheets/d/1W196anrrSR_btaHPR7_HdmMqyLPwcTYnKpFRK5o-vZk/edit?usp=sharing)
 * [MEP](https://docs.google.com/spreadsheets/d/1wTU7ZO0W98fo07C-Bo1HuEJkcnJsnJ3-UD9jZ_0FsyI/edit?usp=sharing)
 
 
@@ -530,7 +526,7 @@ Os códigos devem conter o máximo de quatro dígitos composto por números inte
 
 #### h) Exemplo:
 
-Um ficheiro PDF desenvolvido pela entidade fornecedora “Gabinete de Projetos de Portugal” (GPP), responsável pelo projeto de estruturas, contendo o primeiro desenho 2D do projeto de fundações do edifício, para o qual não se aplica a definição de pisos.
+Um ficheiro PDF desenvolvido pela entidade fornecedora “Gabinete de Projetos de Portugal” (GPP), responsável pelo projeto de estabilidade, contendo o primeiro desenho 2D do projeto de fundações do edifício, para o qual não se aplica a definição de pisos.
 
 > OBG-GPP-EST-DS-FUN-XXX-PP-0001.pdf
 
@@ -645,12 +641,9 @@ Não há requisitos para os software a utilizar pelas entidades fornecedoras. Os
 
 A Entidade Requerente irá utilizar o software `<NomeDoSoftwareDeVizualização/VerificaçãoIFC>` para visualizar, verificar e validar blocos de informação IFC. A entidade fornecedora líder deverá verificar o bom desempenho dos blocos de informação IFC nesta plataforma e informar de antemão sobre potenciais problemas na interpretação dos IFCs submetidos.
 
-CDE `R2U`* da responsabilidade da entidade requerente
+O CDE a utilizar será mantido nos servidores da entidade requerente e consistirá na solução CDE `R2U`*. 
 
-\\ to do
-* definir atualizações com periodicidades mínimas de atualização do CDE pelas entidades fornecedoras;
-* definir que as entidades fornecedoras;
-* Chamar a atenção que “não há pastas” de forma pedagógica.
+A entidade fornecedora líder ficará responsável por assegurar atualização da informação WIP a cada 15 dias, previamente às reuniões quinzenais de coordenação BIM. Esta informação deverá constar BEP. 
 
 Todos os BCFs serão geridos de forma centralizada no CDE `R2U`.
 
@@ -670,7 +663,7 @@ Não havendo qualquer tipo de construção prévia no local e estando disponíve
 
 Há necessidade de levantamento da envolvente através de métodos que permitam uma acuidade de informação suficiente para o processo de licenciamento e para análises de sombreamentos e oclusões.
 
-As entidades fornecedoras ficarão responsáveis pela definição dos requisitos a solicitar para elaboração do relatório geológico-geotécnico necessário ao projeto de estruturas. A entidade requerente fará a adjudicação e contratação independente dos trabalhos relacionados com a elaboração do relatório geológico-geotécnico.
+As entidades fornecedoras ficarão responsáveis pela definição dos requisitos a solicitar para elaboração do relatório geológico-geotécnico necessário ao projeto de estabilidade. A entidade requerente fará a adjudicação e contratação independente dos trabalhos relacionados com a elaboração do relatório geológico-geotécnico.
 
 ---
 
@@ -682,7 +675,7 @@ A produção de modelos nativos e dados associados devem permitir a criação de
 
 A equipa de projeto deverá definir uma origem do referencial local de coordenadas do projeto que seja comum a todos os modelos.
 
-O referencial local poderá ter rotação em relação ao Norte real, estabelecendo-se essa rotação no Plano de Execução BIM com a respetiva justificação.
+O referencial local poderá ter rotação em relação ao Norte do sistema de coordenadas, estabelecendo-se essa rotação no Plano de Execução BIM com a respetiva justificação.
 
 A origem do referencial local de coordenadas do projeto deve ser identificada com um elemento geométrico com designação “OrigemDeProjeto”: pirâmide quadrangular invertida com 0.5m de base e 1m altura, e vértice inferior coincidente com a origem.
 
@@ -731,7 +724,7 @@ No caso de desenhos editáveis, deverão ter o formato DWG quando gerados em CAD
 
 #### b) Coordenação:
 
-A coordenação dos modelos deve ser realizada regularmente. Cada equipa de trabalho deve realizar a coordenação dos seus próprios modelos como parte do seu processo de garantia da qualidade, antes de partilhar a informação com a equipa de desenvolvimento.
+A coordenação dos modelos deve ser realizada regularmente. Cada equipa de trabalho deve realizar a coordenação dos seus próprios modelos como parte do seu processo de garantia da qualidade, antes de partilhar a informação com a equipa de desenvolvimento. Qualquer troca de informação/esclarecimento relativa a modelos BIM entre a entidade requerente e a entidade fornecedora líder deverá sempre ser feita com recurso a ficheiros BCF no CDE.
 
 Toda troca de informação entre equipas de trabalho da mesma especialidade devem ocorrer dentro da sua respetiva pasta no estado Trabalho em Curso do Ambiente Comum de Dados. A organização e periodicidade destas trocas é determinada por cada Entidade Fornecedora Líder referente à sua equipa de desenvolvimento.
 
