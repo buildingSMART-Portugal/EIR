@@ -671,7 +671,7 @@ As entidades fornecedoras ficarão responsáveis pela definição dos requisitos
 
 #### a) Criação de informação:
 
-A produção de modelos nativos e dados associados devem permitir a criação de modelos em IFC. Objetos proxy não deverão ser usados quando uma classe de objeto específica estiver disponível na norma IFC.
+A produção de modelos nativos e dados associados devem permitir a criação de modelos em IFC. Não deverão ser usados objetos Proxy quando exista uma classe de objeto específica para o efeito no SCHEMA IFC.
 
 A equipa de projeto deverá definir uma origem do referencial local de coordenadas do projeto que seja comum a todos os modelos.
 
