@@ -643,8 +643,6 @@ A Entidade Requerente irá utilizar o software `<NomeDoSoftwareDeVizualização/
 
 O CDE a utilizar será mantido nos servidores da entidade requerente e consistirá na solução CDE `R2U`*. 
 
-A entidade fornecedora líder ficará responsável por assegurar atualização da informação WIP a cada 15 dias, previamente às reuniões quinzenais de coordenação BIM. Esta informação deverá constar BEP. 
-
 Todos os BCFs serão geridos de forma centralizada no CDE `R2U`.
 
 \* CDE `R2U` é um software aberto e gratuito preparado pela Universidade do Minho
