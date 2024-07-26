@@ -716,7 +716,7 @@ São admitidos pisos auxiliares de trabalho nos modelos nativos, mas estes não 
 
 Os modelos IFC deverão ter sempre os objetos alocados ao IfcBuildingStorey correspondente.
 
-No caso de desenhos editáveis, deverão ter o formato DWG quando gerados em CAD. No caso de desenhos gerados a partir de plataformas BIM, esta exigência aplica-se apenas no final de cada fase, como entregável. Não se coloca exigência de fidedignidade dos DWG aos PDF dos desenhos, dado que são meros documentos de trabalho.
+No caso de desenhos editáveis, deverão ter o formato DWG quando gerados em CAD. No caso de desenhos gerados a partir de plataformas BIM, esta exigência aplica-se apenas no final de cada fase, como entregável. Não se coloca exigência de fidedignidade ao nível da formatação dos DWG aos PDF dos desenhos, dado que são meros documentos de trabalho.
 
 ---
 
@@ -724,9 +724,9 @@ No caso de desenhos editáveis, deverão ter o formato DWG quando gerados em CAD
 
 A coordenação dos modelos deve ser realizada regularmente. Cada equipa de trabalho deve realizar a coordenação dos seus próprios modelos como parte do seu processo de garantia da qualidade, antes de partilhar a informação com a equipa de desenvolvimento. Qualquer troca de informação/esclarecimento relativa a modelos BIM entre a entidade requerente e a entidade fornecedora líder deverá sempre ser feita com recurso a ficheiros BCF no CDE.
 
-Toda troca de informação entre equipas de trabalho da mesma especialidade devem ocorrer dentro da sua respetiva pasta no estado Trabalho em Curso do Ambiente Comum de Dados. A organização e periodicidade destas trocas é determinada por cada Entidade Fornecedora Líder referente à sua equipa de desenvolvimento.
+Toda troca de informação entre equipas de trabalho da mesma especialidade deve ocorrer dentro da sua respetiva pasta no estado *Trabalho em Curso* do Ambiente Comum de Dados. A organização e periodicidade destas trocas é determinada pela Entidade Fornecedora Líder referente à sua equipa de desenvolvimento.
 
-As informações produzidas por cada Entidade Fornecedora devem ser apenas partilhadas com outras Entidades Fornecedoras quando já coordenadas dentro de cada equipa de desenvolvimento. As trocas de informações entre diferentes entidades fornecedoras ocorrem no estado Partilhado do Ambiente Comum de Dados. Define-se a periodicidade máxima de 15 dias para atualização dos modelos no CDE, com pelo menos estado S2. 
+As informações produzidas por cada Entidade Fornecedora devem ser apenas partilhadas com outras Entidades Fornecedoras quando já coordenadas dentro de cada equipa de desenvolvimento. As trocas de informações entre diferentes entidades fornecedoras ocorrem no estado *Partilhado* do Ambiente Comum de Dados. Define-se a periodicidade máxima de 15 dias para atualização dos modelos no CDE, com pelo menos estado S2. 
 
 ---
 
