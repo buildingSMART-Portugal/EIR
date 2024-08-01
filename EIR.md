@@ -415,7 +415,7 @@ As normas de informação do projeto visam descrever os critérios que irão dar
 
 ### 3.1.1. Normas
 
-`Série ISO 19650 e EN17412`
+`Série ISO 19650 e ISO 7817`
 
 ### 3.1.2. Nomenclatura dos blocos de informação - Ficheiros
 
