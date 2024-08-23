@@ -396,7 +396,7 @@ Os pontos chave de decisão estão previstos para 10 dias úteis após as trocas
 
 ## 2.4. Nível de Informação Necessário
 
-O desenvolvimento das tabelas com o Nível de Informação Necessário (EN 17412-1:2020) a ser seguido nas diversas trocas de informação, entre os diversos atores, é da responsabilidade da Entidade Fornecedora Líder. As tabelas devem estar contidas no BEP, sendo que no presente documento são apresentadas tabelas de referência com requisitos mínimos. As entidades fornecedoras devem adicionar informação alfanumérica que não tenha sido prevista nas tabelas mencionadas e que seja relevante para caracterização dos objetos do projeto. O modelo IFC também deve conter informação que permita relacionar o objeto ao articulado do mapa de quantidades.
+O desenvolvimento das tabelas com o Nível de Informação Necessário (EN ISO 7817-1:2024) a ser seguido nas diversas trocas de informação, entre os diversos atores, é da responsabilidade da Entidade Fornecedora Líder. As tabelas devem estar contidas no BEP, sendo que no presente documento são apresentadas tabelas de referência com requisitos mínimos. As entidades fornecedoras devem adicionar informação alfanumérica que não tenha sido prevista nas tabelas mencionadas e que seja relevante para caracterização dos objetos do projeto. O modelo IFC também deve conter informação que permita relacionar o objeto ao articulado do mapa de quantidades.
 
 Tabelas de Nível de Informação Necessário:
 * [Arquitetura](https://docs.google.com/spreadsheets/d/1zllfF4_0YpR2oY5lTal2pS5UlQnYMe2rBJREKADhEPw/edit?usp=sharing)
@@ -406,16 +406,16 @@ Tabelas de Nível de Informação Necessário:
 
 # 3. Critérios de aceitação
 
-Os critérios de aceitação são utilizados para verificar se a informação é entregue de forma adequada. De acordo com a cláusula 5.2.1 c) da ISO 19650-2, existem quatro recursos que fornecem regras para a forma como os requisitos de informação são definidos, entregues e verificados para todo o projeto, nomeadamente: (a) as normas de informação do projeto; (b) os métodos e procedimentos de produção de informação do projeto; (c) as informações de referência; e (d) os recursos partilhados.
+Os critérios de aceitação são utilizados para verificar se a informação é entregue de forma adequada. De acordo com a cláusula 5.2.1 c) da EN ISO 19650-2, existem quatro recursos que fornecem regras para a forma como os requisitos de informação são definidos, entregues e verificados para todo o projeto, nomeadamente: (a) as normas de informação do projeto; (b) os métodos e procedimentos de produção de informação do projeto; (c) as informações de referência; e (d) os recursos partilhados.
 
 ## 3.1. Normas de informação do projeto
 
-As normas de informação do projeto visam descrever os critérios que irão dar suporte e consistência à informação que irá ser desenvolvida ao longo do projeto. De acordo com a cláusula 5.1.4 da ISO 19650-2, na sua definição há que ter em conta como serão efetuadas as trocas de informação, qual a estrutura e classificação da informação, qual o método usado para especificar o nível de informação necessário e o uso da informação em fases posteriores ao projeto e para operação do ativo.
+As normas de informação do projeto visam descrever os critérios que irão dar suporte e consistência à informação que irá ser desenvolvida ao longo do projeto. De acordo com a cláusula 5.1.4 da EN ISO 19650-2, na sua definição há que ter em conta como serão efetuadas as trocas de informação, qual a estrutura e classificação da informação, qual o método usado para especificar o nível de informação necessário e o uso da informação em fases posteriores ao projeto e para operação do ativo.
 
 
 ### 3.1.1. Normas
 
-`Série ISO 19650 e ISO 7817`
+`Série de normas EN ISO 19650 e norma EN ISO 7817-1:2024`
 
 ### 3.1.2. Nomenclatura dos blocos de informação - Ficheiros
 
@@ -425,7 +425,7 @@ As normas de informação do projeto visam descrever os critérios que irão dar
 
 #### a) Projeto
 
-Único e representativo do projeto.
+Código único e representativo do projeto.
 
 > Código:\
 > `OBG`
@@ -495,7 +495,7 @@ Os novos códigos definidos devem estar listados juntos às suas definições no
 
 #### f) Especialidade
 
-Variável de acordo com especialidade ao qual o bloco de informação está relacionado.
+Variável de acordo com especialidade à qual o bloco de informação está relacionado.
 
 > Códigos:\
 > Os códigos propostos estão listados na [tabela A.2](#tabela-a2--código-para-o-campo-especialidade) do Apêndice A deste documento.
@@ -504,7 +504,7 @@ Variável de acordo com especialidade ao qual o bloco de informação está rela
 
 #### g) Fase
 
-Variável de acordo com a fase a  qual o bloco de informação está relacionado.
+Variável de acordo com a fase à qual o bloco de informação está relacionado.
 
 > Códigos:\
 > Os códigos propostos estão listados na [tabela A.3](#tabela-a3--código-para-o-campo-fase) do Apêndice A deste documento.
@@ -1189,10 +1189,6 @@ Em fase de concurso os concorrentes devem entregar:
         <tr>
             <td>Blocos de informação autorizados e/ou aceites</td>
             <td>A1, An, etc</td>
-        </tr>
-        <tr>
-            <td>Blocos de informação parcialmente aprovados, com comentários da Entidade convidada a autorizar e aceitar a informação</td>
-            <td>B1, Bn, etc</td>
         </tr>
     </tbody>
 </table>
