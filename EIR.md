@@ -745,7 +745,7 @@ Os itens a serem considerados na revisão, bem como KPI’s e checklist estão d
 
 As entregas finais serão realizadas utilizando a solução CDE determinada anteriormente.
 
-Os entregáveis finais devem passar ao estado estado A ([tabela B.1](#tabela-b1--códigos-para-o-estado-dos-blocos-de-informação-dentro-do-cde)) quando se encontrarem finalizados dentro das datas determinadas na secção 5.
+Os entregáveis finais devem passar ao estado estado S5 ([tabela B.1](#tabela-b1--códigos-para-o-estado-dos-blocos-de-informação-dentro-do-cde)) quando se encontrarem finalizados dentro das datas determinadas na secção 5.
 
 ---
 
