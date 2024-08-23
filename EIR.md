@@ -559,7 +559,7 @@ O código de revisão deve ser composto por três campos  de acordo com a seguin
 
 #### c) Classificação
 
-Classificação de acordo com a `Tabela PM` (Project Management) do sistema `SECCLASS`. Podem ser utilizadas outras tabelas do sistema de classificação se forem consideradas mais adequadas, desde que acordado com a Entidade Adjudicante.
+Classificação de acordo com a `Tabela PM` (Project Management) do sistema `SECClasS`. Podem ser utilizadas outras tabelas do sistema de classificação se forem consideradas mais adequadas, desde que acordado com a Entidade Requerente.
 
 ---
 
@@ -589,7 +589,7 @@ Não se prescreve. No entanto, recomenda-se a utilização das nomenclaturas da 
 
 ### 3.1.5. Sistema de unidades
 
-`Sistema de Unidades International` em coerência com a Diretiva 80/181/EEC e respectivas adendas. ISO 80000-1:2022. A unidade monetária é o `€`.
+`Sistema de Unidades Internacional` em coerência com a Diretiva 80/181/EEC e respectivas adendas. EN ISO 80000-1:2022. A unidade monetária é o `€`.
 
 ---
 
@@ -603,7 +603,7 @@ Será utilizado o sistema de coordenadas `PT-TM06/ETRS89` (EPSG: 3763), seguindo
 
 ### 3.1.7. Classificação da informação
 
-Sistema de classificação `SECCLASS` na versão em vigor à data de emissão deste documento.
+Sistema de classificação `SECClasS` na versão em vigor à data de emissão deste documento.
 
 [https://secclass.pt/pesquisa/](https://secclass.pt/pesquisa/)
 
