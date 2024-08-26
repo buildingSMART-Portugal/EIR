@@ -843,8 +843,8 @@ A informação de suporte está disponível em: [https://drive.google.com/drive/
 
 Em fase de concurso os concorrentes devem entregar:
 
-* O `BEP` pré contrato ISO19650 e especificação nacional, incluindo matriz RACI  e demonstração de capacidade
-* A `matriz de  matriz` (‘Formulário de apoio à avaliação de candidatos’) do ‘Guia de Contratação’ da CT197
+* O `BEP` pré contrato EN ISO 19650 e especificação nacional, incluindo matriz RACI  e demonstração de capacidade
+* A `matriz de apoio à pontuação dos Candidatos` (‘Formulário de apoio à avaliação de candidatos’) do ‘Guia de Contratação’ da CT197
 * A `proposta de honorários`
 
 <table>
