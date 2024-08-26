@@ -851,9 +851,9 @@ Em fase de concurso os concorrentes devem entregar:
     <thead>
         <tr>
             <th>EIR</th>
-            <th>Data de entrega do entregável (X tempo antes do ponto-chave de decisão)</th>
+            <th>Data de entrega do entregável</th>
             <th>Ponto-chave de decisão</th>
-            <th>Data de entrega do resultado do ponto-chave de decisão (Y tempo antes do fim da fase)</th>
+            <th>Data de entrega do resultado do ponto-chave de decisão</th>
         </tr>
     </thead>
     <tbody>
