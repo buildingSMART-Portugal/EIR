@@ -776,12 +776,13 @@ Esta classificação permitiu concluir que neste projeto, não haverá necessida
 | C    | EIR03 | Estudo geológico-geotécnico              | Entrega do relatório geológico-geotécnico.<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                                        |
 | D    | EIR04 | Modelação                                | Entrega dos modelos nos formatos definidos nas normas de informação.<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                              |
 | E    | EIR05 | Coordenação dos modelos                  | Relatório de ausência de colisões (ou colisões com devida justificação).<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                      |
-| F    | EIR06 | Coordenação BIM                          | Presença regular em reuniões de coordenação BIM e projecto coordenado com restantes especialidades; Colisões identificadas, comunicadas e resolvidas de acordo com processo descrito no EIR 06; Modelo federado com regularidade. |
+| F    | EIR06 | Coordenação BIM                          | Presença regular em reuniões de coordenação BIM e projeto coordenado com restantes especialidades; Colisões identificadas, comunicadas e resolvidas de acordo com processo descrito no EIR 06; Modelo federado com regularidade. |
 | G    | EIR07 | Peças Desenhadas                         | Entrega de peças desenhadas extraídas dos modelos.<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                                |
 | H    | EIR08 | Simulações energéticas e certificação    | Entrega do relatório e certificado energético.<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                                    |
 | I    | EIR09 | Análise de sustentabilidade BREEAM       | Entrega do relatório da análise, garantindo a classificação final "Very Good".<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                    |
 | J    | EIR10 | Estimativa de quantidades e custos       | Entrega das estimativas de quantidades extraídas dos modelos.<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                     |
 | L    | EIR11 | Compilação de modelos                    | Entrega de todos os modelos e respetivas peças desenhadas e escritas. Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                |
+| M    | EIR12 | Mapas de trabalhos e quantidades         | Medições extraídas dos modelos / confirmar que medições batem certo com MQT.<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                     |
 | N    | EIR13 | Elaboração do plano de Segurança e Saúde | Entrega do plano de Segurança e Saúde. Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                                               |
 
 ### 3.3.2. Qualidade do Modelo
@@ -810,14 +811,6 @@ Esta classificação permitiu concluir que neste projeto, não haverá necessida
 | M    | Propriedades (Ifc)                                | Modelo cumpre requisitos de informação do Level of Information Need                                            |
 | N    | Materiais                                         | Materiais cumprem requisitos do Level of Information Need                                                      |
 | O    | Classificação                                     | Objectos classificados de acordo com sistema SECClasS                                                          |
-
-### 3.3.3. Requisitos EIR
-
-| Ref. | Título                                    | Descrição                                                                                                                                                                                                                         |
-| ---- | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| P    | Coordenação BIM (EIR06)                  | Presença regular em reuniões de coordenação BIM e projecto coordenado com restantes especialidades; Colisões identificadas, comunicadas e resolvidas de acordo com processo descrito no EIR06; Modelo federado com regularidade. |
-| Q    | Peças Desenhadas (EIR07)                 | Peças desenhadas foram extraídas dos modelos.<br> Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                                  |
-| R    | Mapas de trabalhos e quantidades (EIR12) | Medições extraídas dos modelos / confirmar que medições batem certo com MQT.<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                     |
 
 
 # 4. Informação de suporte
