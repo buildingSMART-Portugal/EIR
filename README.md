@@ -2,6 +2,8 @@
 
 ## EIR
 
+V1.0.0 - 2024/09/10
+
 [Ver EIR online](https://github.com/jose-granja/EIR-bSPT/blob/main/EIR.md)
 
 
