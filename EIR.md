@@ -476,7 +476,7 @@ Os novos códigos definidos devem estar listados juntos às suas definições no
 > * `P00 - Rés do chão`
 > * `P01 - Piso 01`
 > * `P02 - Piso 02`
-> * `P03 - PIso 03`
+> * `P03 - Piso 03`
 > * `P04 - Piso 04`
 > * `C05 - Cobertura`
 
