@@ -392,7 +392,7 @@ Os pontos chave de decisão estão previstos para 10 dias úteis após as trocas
             <td>PIR05</td>
             <td>Saúde e Segurança</td>
             <td>EIR13</td>
-            <td>Elaboração do plano de Segurança e Saúde.</td>
+            <td>Elaboração do plano de Segurança e Saúde e Compilação Técnica da Obra</td>
         </tr>
     </tbody>
 </table>
@@ -791,7 +791,7 @@ Esta classificação permitiu concluir que neste projeto, não haverá necessida
 | I    | EIR09 | Análise de sustentabilidade BREEAM       | Entrega do relatório da análise, garantindo a classificação final "Very Good".<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                    |
 | J    | EIR10 | Estimativa de quantidades e custos       | Entrega das estimativas de quantidades extraídas dos modelos.<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                     |
 | L    | EIR11 | Compilação de modelos                    | Entrega de todos os modelos e respetivas peças desenhadas e escritas. Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                |
-| N    | EIR13 | Elaboração do plano de Segurança e Saúde | Entrega do plano de Segurança e Saúde. Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                                               |
+| N    | EIR13 | Elaboração do plano de Segurança e Saúde e Compilação Técnica da Obra | Entrega do plano de Segurança e Saúde e início da Compilação Técnica da Obra. Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                                               |
 
 ### 3.3.2. Qualidade do Modelo
 
