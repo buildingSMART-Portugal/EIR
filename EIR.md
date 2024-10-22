@@ -1,4 +1,4 @@
-# V1.0.0 - 2024/10/22
+# V1.1.0 - 2024/10/22
 
 # Índice
 - [Glossário](#Glossário)
@@ -338,7 +338,7 @@ Os pontos chave de decisão estão previstos para 10 dias úteis após as trocas
         </tr>
         <tr>
             <td>EIR02</td>
-            <td>Levantamento do terreno e envolvente (inclui componente topográfica e construções existentes adjadences).</td>
+            <td>Levantamento da parcela e área envolvente (inclui componente topográfica e construções existentes).</td>
         </tr>
         <tr>
             <td>EIR03</td>
@@ -346,7 +346,7 @@ Os pontos chave de decisão estão previstos para 10 dias úteis após as trocas
         </tr>
         <tr>
             <td>EIR04</td>
-            <td>Modelação da Arquitetura, Estabilidade, Redes de Abastecimento de Água, Redes de Drenagem de Águas Residuais e Pluviais, AVAC, gás, incêndio, elétrica*, telecomunicações* e outras especialidades necessárias para a obra em questão, com a devida georreferenciação. Disponibilização de federação dos modelos por parte da entidade fornecedora líder.<br><sm>* os modelos em questão serão representados de forma simplificada de acordo com o nível de informação necessário</sm></td>
+            <td>Modelação da Arquitetura, Estabilidade, Redes de Abastecimento de Água, Redes de Drenagem de Águas Residuais e Pluviais, AVAC, gás, incêndio, elétrica*, telecomunicações* e outras especialidades necessárias para a obra em questão, com a devida georreferenciação. Disponibilização de federação dos modelos por parte da entidade fornecedora líder.<br><sm>* os modelos em questão serão representados de forma simplificada de acordo com o nível de informação necessário.</sm></td>
         </tr>
         <tr>
             <td>EIR05</td>
@@ -354,7 +354,7 @@ Os pontos chave de decisão estão previstos para 10 dias úteis após as trocas
         </tr>
         <tr>
             <td>EIR06</td>
-            <td>Acompanhamento e validação do processo de coordenação BIM. As evidências de tal processo deverão ser proporcionadas pelo gestor de informação da entidade fornecedora líder. Estas evidências deverão demonstrar que o empreendimento está a ser desenvolvido de acordo com regulamentação e com a concordância do requerente e que se resolvem os conflitos existentes nos modelos. </td>
+            <td>Acompanhamento e validação do processo de coordenação BIM. As evidências de tal processo deverão ser proporcionadas pelo gestor de informação da entidade fornecedora líder. Estas evidências deverão demonstrar que o empreendimento está a ser desenvolvido de acordo com regulamentação e com a concordância do requerente e que se resolvem os conflitos existentes nos modelos.</td>
         </tr>
         <tr>
             <td>EIR07</td>
@@ -390,7 +390,7 @@ Os pontos chave de decisão estão previstos para 10 dias úteis após as trocas
             <td>PIR05</td>
             <td>Saúde e Segurança</td>
             <td>EIR13</td>
-            <td>Elaboração do plano de Segurança e Saúde e Compilação Técnica da Obra</td>
+            <td>Elaboração do plano de Segurança e Saúde e Compilação Técnica da Obra.</td>
         </tr>
     </tbody>
 </table>
@@ -724,7 +724,7 @@ No caso de desenhos editáveis, deverão ter o formato DWG quando gerados em CAD
 
 #### b) Coordenação:
 
-A coordenação dos modelos deve ser realizada regularmente. Cada equipa de trabalho deve realizar a coordenação dos seus próprios modelos como parte do seu processo de garantia da qualidade, antes de partilhar a informação com a equipa de desenvolvimento. Qualquer troca de informação/esclarecimento relativa a modelos BIM entre a entidade requerente e a entidade fornecedora líder deverá sempre ser feita com recurso a ficheiros BCF no CDE.
+A coordenação dos modelos deve ser realizada regularmente. Cada equipa de trabalho deve realizar a coordenação dos seus próprios modelos como parte do seu processo de garantia da qualidade, antes de partilhar a informação com a equipa de desenvolvimento. As trocas de informação/esclarecimento relativas a modelos BIM entre a entidade requerente e a entidade fornecedora líder deveram preferencialmente ser efetuadas com recurso a ficheiros BCF no CDE.
 
 Toda troca de informação entre equipas de trabalho da mesma especialidade deve ocorrer dentro da sua respetiva pasta no estado *Trabalho em Curso* do Ambiente Comum de Dados. A organização e periodicidade destas trocas é determinada pela Entidade Fornecedora Líder referente à sua equipa de desenvolvimento.
 
@@ -784,7 +784,7 @@ Esta classificação permitiu concluir que neste projeto, não haverá necessida
 | I    | EIR09 | Análise de sustentabilidade BREEAM       | Entrega do relatório da análise, garantindo a classificação final "Very Good".<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                    |
 | J    | EIR10 | Estimativa de quantidades e custos       | Entrega das estimativas de quantidades extraídas dos modelos.<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                     |
 | L    | EIR11 | Compilação de modelos                    | Entrega de todos os modelos e respetivas peças desenhadas e escritas. Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                |
-| M    | EIR12 | Mapas de trabalhos e quantidades         | Medições extraídas dos modelos / confirmar que medições batem certo com MQT.<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                     |
+| M    | EIR12 | Mapas de trabalhos e quantidades         | Medições extraídas dos modelos / confirmar que medições são coerentes com o MQT.<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                     |
 | N    | EIR13 | Elaboração do plano de Segurança e Saúde e Compilação Técnica da Obra | Entrega do plano de Segurança e Saúde e início da Compilação Técnica da Obra. Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                                               |
 
 ### 3.3.2. Qualidade do Modelo
