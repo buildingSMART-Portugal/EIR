@@ -1,3 +1,5 @@
+# V1.1.0 - 2024/10/22
+
 # Índice
 - [Glossário](#Glossário)
 - [1. Introdução](#1-introdução)
@@ -72,10 +74,6 @@ Recursos disponíveis para a execução e funcionamento.
 **Ciclo de vida**
 
 Vida do ativo desde a definição dos seus requisitos até ao final da sua vida útil, cobrindo a conceção, desenvolvimento, operação, manutenção e desmantelamento.
-
-**Cliente**
-
-Ator responsável por iniciar um projeto e aprovar o programa preliminar.
 
 **Compromisso**
 
@@ -231,7 +229,7 @@ Ato de satisfazer um requisito de informação ou parte deste.
 
 # 1. Introdução
 
-Este documento é um exemplo de um EIR (requisitos de troca de informação da entidade requerente) para a fase de projeto de um edifício multi-familiar em Lisboa, satisfazendo a ISO-19650-2:2018. Trata-se de um exemplo concreto aplicado a uma situação fictícia e pretende ser uma ilustração de boas práticas na contratação BIM em fase de projeto. Inerentemente à sua natureza, este é um documento que sofrerá vários melhoramentos ao longo do tempo. Disponibiliza-se a versão web no link [https://github.com/buildingSMART-Portugal/EIR](https://github.com/buildingSMART-Portugal/EIR) (atualizada em permanência) e a versão PDF (atualizada periodicamente).
+Este documento é um exemplo de um EIR (requisitos de troca de informação da entidade requerente) para a fase de projeto de um edifício multi-familiar em Lisboa, satisfazendo a EN ISO 19650-2:2018. Trata-se de um exemplo concreto aplicado a uma situação fictícia e pretende ser uma ilustração de boas práticas na contratação BIM em fase de projeto. Inerentemente à sua natureza, este é um documento que sofrerá vários melhoramentos ao longo do tempo. Disponibiliza-se a versão web no link [https://github.com/buildingSMART-Portugal/EIR](https://github.com/buildingSMART-Portugal/EIR) (atualizada em permanência) e a versão PDF (atualizada periodicamente).
 
 # 2. Requisitos de informação
 
@@ -340,7 +338,7 @@ Os pontos chave de decisão estão previstos para 10 dias úteis após as trocas
         </tr>
         <tr>
             <td>EIR02</td>
-            <td>Levantamento do terreno e envolvente (inclui componente topográfica e construções existentes).</td>
+            <td>Levantamento da parcela e área envolvente (inclui componente topográfica e construções existentes).</td>
         </tr>
         <tr>
             <td>EIR03</td>
@@ -348,7 +346,7 @@ Os pontos chave de decisão estão previstos para 10 dias úteis após as trocas
         </tr>
         <tr>
             <td>EIR04</td>
-            <td>Modelação da Arquitetura, Estruturas, Redes de abastecimento de água, redes de drenagem de águas residuais e pluviais, AVAC, e outras especialidades necessárias para a obra em questão, com a devida georreferenciação. Disponibilização de federação dos modelos por parte da entidade fornecedora líder.</td>
+            <td>Modelação da Arquitetura, Estabilidade, Redes de Abastecimento de Água, Redes de Drenagem de Águas Residuais e Pluviais, AVAC, gás, incêndio, elétrica*, telecomunicações* e outras especialidades necessárias para a obra em questão, com a devida georreferenciação. Disponibilização de federação dos modelos por parte da entidade fornecedora líder.<br><sm>* os modelos em questão serão representados de forma simplificada de acordo com o nível de informação necessário.</sm></td>
         </tr>
         <tr>
             <td>EIR05</td>
@@ -356,7 +354,7 @@ Os pontos chave de decisão estão previstos para 10 dias úteis após as trocas
         </tr>
         <tr>
             <td>EIR06</td>
-            <td>Acompanhamento e validação do processo de coordenação BIM. As evidências de tal processo deverão ser proporcionadas pelo gestor de informação da entidade fornecedora líder. Estas evidências deverão demonstrar que o empreendimento está a ser desenvolvido de acordo com regulamentação e com a concordância do requerente e que se resolvem os conflitos existentes nos modelos. </td>
+            <td>Acompanhamento e validação do processo de coordenação BIM. As evidências de tal processo deverão ser proporcionadas pelo gestor de informação da entidade fornecedora líder. Estas evidências deverão demonstrar que o empreendimento está a ser desenvolvido de acordo com regulamentação e com a concordância do requerente e que se resolvem os conflitos existentes nos modelos.</td>
         </tr>
         <tr>
             <td>EIR07</td>
@@ -392,7 +390,7 @@ Os pontos chave de decisão estão previstos para 10 dias úteis após as trocas
             <td>PIR05</td>
             <td>Saúde e Segurança</td>
             <td>EIR13</td>
-            <td>Elaboração do plano de Segurança e Saúde e Compilação Técnica da Obra</td>
+            <td>Elaboração do plano de Segurança e Saúde e Compilação Técnica da Obra.</td>
         </tr>
     </tbody>
 </table>
@@ -400,26 +398,26 @@ Os pontos chave de decisão estão previstos para 10 dias úteis após as trocas
 
 ## 2.4. Nível de Informação Necessário
 
-O desenvolvimento das tabelas com o Nível de Informação Necessário (EN 17412-1:2020) a ser seguido nas diversas trocas de informação, entre os diversos atores, é da responsabilidade da Entidade Fornecedora Líder. As tabelas devem estar contidas no BEP, sendo que no presente documento são apresentadas tabelas de referência com requisitos mínimos. As entidades fornecedoras devem adicionar informação alfanumérica que não tenha sido prevista nas tabelas mencionadas e que seja relevante para caracterização dos objetos do projeto. O modelo IFC também deve conter informação que permita relacionar o objeto ao articulado do mapa de quantidades.
+O desenvolvimento das tabelas com o Nível de Informação Necessário (EN ISO 7817-1:2024) a ser seguido nas diversas trocas de informação, entre os diversos atores, é da responsabilidade da Entidade Fornecedora Líder. As tabelas devem estar contidas no BEP, sendo que no presente documento são apresentadas tabelas de referência com requisitos mínimos. As entidades fornecedoras devem adicionar informação alfanumérica que não tenha sido prevista nas tabelas mencionadas e que seja relevante para caracterização dos objetos do projeto. O modelo IFC também deve conter informação que permita relacionar o objeto ao articulado do mapa de quantidades.
 
 Tabelas de Nível de Informação Necessário:
 * [Arquitetura](https://docs.google.com/spreadsheets/d/1zllfF4_0YpR2oY5lTal2pS5UlQnYMe2rBJREKADhEPw/edit?usp=sharing)
-* [Estruturas](https://docs.google.com/spreadsheets/d/1W196anrrSR_btaHPR7_HdmMqyLPwcTYnKpFRK5o-vZk/edit?usp=sharing)
+* [Estabilidade](https://docs.google.com/spreadsheets/d/1W196anrrSR_btaHPR7_HdmMqyLPwcTYnKpFRK5o-vZk/edit?usp=sharing)
 * [MEP](https://docs.google.com/spreadsheets/d/1wTU7ZO0W98fo07C-Bo1HuEJkcnJsnJ3-UD9jZ_0FsyI/edit?usp=sharing)
 
 
 # 3. Critérios de aceitação
 
-Os critérios de aceitação são utilizados para verificar se a informação é entregue de forma adequada. De acordo com a cláusula 5.2.1 c) da ISO 19650-2, existem quatro recursos que fornecem regras para a forma como os requisitos de informação são definidos, entregues e verificados para todo o projeto, nomeadamente: (a) as normas de informação do projeto; (b) os métodos e procedimentos de produção de informação do projeto; (c) as informações de referência; e (d) os recursos partilhados.
+Os critérios de aceitação são utilizados para verificar se a informação é entregue de forma adequada. De acordo com a cláusula 5.2.1 c) da EN ISO 19650-2, existem quatro recursos que fornecem regras para a forma como os requisitos de informação são definidos, entregues e verificados para todo o projeto, nomeadamente: (a) as normas de informação do projeto; (b) os métodos e procedimentos de produção de informação do projeto; (c) as informações de referência; e (d) os recursos partilhados.
 
 ## 3.1. Normas de informação do projeto
 
-As normas de informação do projeto visam descrever os critérios que irão dar suporte e consistência à informação que irá ser desenvolvida ao longo do projeto. De acordo com a cláusula 5.1.4 da ISO 19650-2, na sua definição há que ter em conta como serão efetuadas as trocas de informação, qual a estrutura e classificação da informação, qual o método usado para especificar o nível de informação necessário e o uso da informação em fases posteriores ao projeto e para operação do ativo.
+As normas de informação do projeto visam descrever os critérios que irão dar suporte e consistência à informação que irá ser desenvolvida ao longo do projeto. De acordo com a cláusula 5.1.4 da EN ISO 19650-2, na sua definição há que ter em conta como serão efetuadas as trocas de informação, qual a estrutura e classificação da informação, qual o método usado para especificar o nível de informação necessário e o uso da informação em fases posteriores ao projeto e para operação do ativo.
 
 
 ### 3.1.1. Normas
 
-`Série ISO 19650 e EN17412`
+`Série de normas EN ISO 19650 e norma EN ISO 7817-1:2024`
 
 ### 3.1.2. Nomenclatura dos blocos de informação - Ficheiros
 
@@ -429,7 +427,7 @@ As normas de informação do projeto visam descrever os critérios que irão dar
 
 #### a) Projeto
 
-Único e representativo do projeto.
+Código único e representativo do projeto.
 
 > Código:\
 > `OBG`
@@ -478,7 +476,7 @@ Os novos códigos definidos devem estar listados juntos às suas definições no
 > * `P00 - Rés do chão`
 > * `P01 - Piso 01`
 > * `P02 - Piso 02`
-> * `P03 - PIso 03`
+> * `P03 - Piso 03`
 > * `P04 - Piso 04`
 > * `C05 - Cobertura`
 
@@ -499,7 +497,7 @@ Os novos códigos definidos devem estar listados juntos às suas definições no
 
 #### f) Especialidade
 
-Variável de acordo com especialidade ao qual o bloco de informação está relacionado.
+Variável de acordo com especialidade à qual o bloco de informação está relacionado.
 
 > Códigos:\
 > Os códigos propostos estão listados na [tabela A.2](#tabela-a2--código-para-o-campo-especialidade) do Apêndice A deste documento.
@@ -508,7 +506,7 @@ Variável de acordo com especialidade ao qual o bloco de informação está rela
 
 #### g) Fase
 
-Variável de acordo com a fase a  qual o bloco de informação está relacionado.
+Variável de acordo com a fase à qual o bloco de informação está relacionado.
 
 > Códigos:\
 > Os códigos propostos estão listados na [tabela A.3](#tabela-a3--código-para-o-campo-fase) do Apêndice A deste documento.
@@ -530,7 +528,7 @@ Os códigos devem conter o máximo de quatro dígitos composto por números inte
 
 #### h) Exemplo:
 
-Um ficheiro PDF desenvolvido pela entidade fornecedora “Gabinete de Projetos de Portugal” (GPP), responsável pelo projeto de estruturas, contendo o primeiro desenho 2D do projeto de fundações do edifício, para o qual não se aplica a definição de pisos.
+Um ficheiro PDF desenvolvido pela entidade fornecedora “Gabinete de Projetos de Portugal” (GPP), responsável pelo projeto de estabilidade, contendo o primeiro desenho 2D do projeto de fundações do edifício, para o qual não se aplica a definição de pisos.
 
 > OBG-GPP-EST-DS-FUN-XXX-PP-0001.pdf
 
@@ -563,7 +561,7 @@ O código de revisão deve ser composto por três campos  de acordo com a seguin
 
 #### c) Classificação
 
-Classificação de acordo com a `Tabela PM` (Project Management) do sistema `SECCLASS`. Podem ser utilizadas outras tabelas do sistema de classificação se forem consideradas mais adequadas, desde que acordado com a Entidade Adjudicante.
+Classificação de acordo com a `Tabela PM` (Project Management) do sistema `SECClasS`. Podem ser utilizadas outras tabelas do sistema de classificação se forem consideradas mais adequadas, desde que acordado com a Entidade Requerente.
 
 ---
 
@@ -593,7 +591,7 @@ Não se prescreve. No entanto, recomenda-se a utilização das nomenclaturas da 
 
 ### 3.1.5. Sistema de unidades
 
-`Sistema de Unidades International` em coerência com a Diretiva 80/181/EEC e respectivas adendas. ISO 80000-1:2022. A unidade monetária é o `€`.
+`Sistema de Unidades Internacional` em coerência com a Diretiva 80/181/EEC e respectivas adendas. EN ISO 80000-1:2022. A unidade monetária é o `€`.
 
 ---
 
@@ -607,7 +605,7 @@ Será utilizado o sistema de coordenadas `PT-TM06/ETRS89` (EPSG: 3763), seguindo
 
 ### 3.1.7. Classificação da informação
 
-Sistema de classificação `SECCLASS` na versão em vigor à data de emissão deste documento.
+Sistema de classificação `SECClasS` na versão em vigor à data de emissão deste documento.
 
 [https://secclass.pt/pesquisa/](https://secclass.pt/pesquisa/)
 
@@ -645,12 +643,7 @@ Não há requisitos para os software a utilizar pelas entidades fornecedoras. Os
 
 A Entidade Requerente irá utilizar o software `<NomeDoSoftwareDeVizualização/VerificaçãoIFC>` para visualizar, verificar e validar blocos de informação IFC. A entidade fornecedora líder deverá verificar o bom desempenho dos blocos de informação IFC nesta plataforma e informar de antemão sobre potenciais problemas na interpretação dos IFCs submetidos.
 
-CDE `R2U`* da responsabilidade da entidade requerente
-
-\\ to do
-* definir atualizações com periodicidades mínimas de atualização do CDE pelas entidades fornecedoras;
-* definir que as entidades fornecedoras;
-* Chamar a atenção que “não há pastas” de forma pedagógica.
+O CDE a utilizar será mantido nos servidores da entidade requerente e consistirá na solução CDE `R2U`*. 
 
 Todos os BCFs serão geridos de forma centralizada no CDE `R2U`.
 
@@ -670,7 +663,7 @@ Não havendo qualquer tipo de construção prévia no local e estando disponíve
 
 Há necessidade de levantamento da envolvente através de métodos que permitam uma acuidade de informação suficiente para o processo de licenciamento e para análises de sombreamentos e oclusões.
 
-As entidades fornecedoras ficarão responsáveis pela definição dos requisitos a solicitar para elaboração do relatório geológico-geotécnico necessário ao projeto de estruturas. A entidade requerente fará a adjudicação e contratação independente dos trabalhos relacionados com a elaboração do relatório geológico-geotécnico.
+As entidades fornecedoras ficarão responsáveis pela definição dos requisitos a solicitar para elaboração do relatório geológico-geotécnico necessário ao projeto de estabilidade. A entidade requerente fará a adjudicação e contratação independente dos trabalhos relacionados com a elaboração do relatório geológico-geotécnico.
 
 ---
 
@@ -678,11 +671,11 @@ As entidades fornecedoras ficarão responsáveis pela definição dos requisitos
 
 #### a) Criação de informação:
 
-A produção de modelos nativos e dados associados devem permitir a criação de modelos em IFC. Objetos proxy não deverão ser usados quando uma classe de objeto específica estiver disponível na norma IFC.
+A produção de modelos nativos e dados associados devem permitir a criação de modelos em IFC. Não deverão ser usados objetos Proxy quando exista uma classe de objeto específica para o efeito no SCHEMA IFC.
 
 A equipa de projeto deverá definir uma origem do referencial local de coordenadas do projeto que seja comum a todos os modelos.
 
-O referencial local poderá ter rotação em relação ao Norte real, estabelecendo-se essa rotação no Plano de Execução BIM com a respetiva justificação.
+O referencial local poderá ter rotação em relação ao Norte do sistema de coordenadas, estabelecendo-se essa rotação no Plano de Execução BIM com a respetiva justificação.
 
 A origem do referencial local de coordenadas do projeto deve ser identificada com um elemento geométrico com designação “OrigemDeProjeto”: pirâmide quadrangular invertida com 0.5m de base e 1m altura, e vértice inferior coincidente com a origem.
 
@@ -725,17 +718,17 @@ São admitidos pisos auxiliares de trabalho nos modelos nativos, mas estes não 
 
 Os modelos IFC deverão ter sempre os objetos alocados ao IfcBuildingStorey correspondente.
 
-No caso de desenhos editáveis, deverão ter o formato DWG quando gerados em CAD. No caso de desenhos gerados a partir de plataformas BIM, esta exigência aplica-se apenas no final de cada fase, como entregável. Não se coloca exigência de fidedignidade dos DWG aos PDF dos desenhos, dado que são meros documentos de trabalho.
+No caso de desenhos editáveis, deverão ter o formato DWG quando gerados em CAD. No caso de desenhos gerados a partir de plataformas BIM, esta exigência aplica-se apenas no final de cada fase, como entregável. Não se coloca exigência de fidedignidade ao nível da formatação dos DWG aos PDF dos desenhos, dado que são meros documentos de trabalho.
 
 ---
 
 #### b) Coordenação:
 
-A coordenação dos modelos deve ser realizada regularmente. Cada equipa de trabalho deve realizar a coordenação dos seus próprios modelos como parte do seu processo de garantia da qualidade, antes de partilhar a informação com a equipa de desenvolvimento.
+A coordenação dos modelos deve ser realizada regularmente. Cada equipa de trabalho deve realizar a coordenação dos seus próprios modelos como parte do seu processo de garantia da qualidade, antes de partilhar a informação com a equipa de desenvolvimento. As trocas de informação/esclarecimento relativas a modelos BIM entre a entidade requerente e a entidade fornecedora líder deveram preferencialmente ser efetuadas com recurso a ficheiros BCF no CDE.
 
-Toda troca de informação entre equipas de trabalho da mesma especialidade devem ocorrer dentro da sua respetiva pasta no estado Trabalho em Curso do Ambiente Comum de Dados. A organização e periodicidade destas trocas é determinada por cada Entidade Fornecedora Líder referente à sua equipa de desenvolvimento.
+Toda troca de informação entre equipas de trabalho da mesma especialidade deve ocorrer dentro da sua respetiva pasta no estado *Trabalho em Curso* do Ambiente Comum de Dados. A organização e periodicidade destas trocas é determinada pela Entidade Fornecedora Líder referente à sua equipa de desenvolvimento.
 
-As informações produzidas por cada Entidade Fornecedora devem ser apenas partilhadas com outras Entidades Fornecedoras quando já coordenadas dentro de cada equipa de desenvolvimento. As trocas de informações entre diferentes entidades fornecedoras ocorrem no estado Partilhado do Ambiente Comum de Dados. Define-se a periodicidade máxima de 15 dias para atualização dos modelos no CDE, com pelo menos estado S2. 
+As informações produzidas por cada Entidade Fornecedora devem ser apenas partilhadas com outras Entidades Fornecedoras quando já coordenadas dentro de cada equipa de desenvolvimento. As trocas de informações entre diferentes entidades fornecedoras ocorrem no estado *Partilhado* do Ambiente Comum de Dados. Define-se a periodicidade máxima de 15 dias para atualização dos modelos no CDE, com pelo menos estado S2. 
 
 ---
 
@@ -754,7 +747,7 @@ Os itens a serem considerados na revisão, bem como KPI’s e checklist estão d
 
 As entregas finais serão realizadas utilizando a solução CDE determinada anteriormente.
 
-Os entregáveis finais devem passar ao estado estado A ([tabela B.1](#tabela-b1--códigos-para-o-estado-dos-blocos-de-informação-dentro-do-cde)) quando se encontrarem finalizados dentro das datas determinadas na secção 5.
+Os entregáveis finais devem passar ao estado estado S5 ([tabela B.1](#tabela-b1--códigos-para-o-estado-dos-blocos-de-informação-dentro-do-cde)) quando se encontrarem finalizados dentro das datas determinadas na secção 5.
 
 ---
 
@@ -784,13 +777,14 @@ Esta classificação permitiu concluir que neste projeto, não haverá necessida
 | B    | EIR02 | Levantamento do terreno e envolvente     | Entrega da nuvem de pontos.<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                                                       |
 | C    | EIR03 | Estudo geológico-geotécnico              | Entrega do relatório geológico-geotécnico.<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                                        |
 | D    | EIR04 | Modelação                                | Entrega dos modelos nos formatos definidos nas normas de informação.<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                              |
-| E    | EIR05 | Coordenação dos modelos                  | Relatório de colisões.  Ou envio de notificação de colisões?<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                      |
-| F    | EIR06 | Coordenação BIM                          | Presença regular em reuniões de coordenação BIM e projecto coordenado com restantes especialidades; Colisões identificadas, comunicadas e resolvidas de acordo com processo descrito no EIR 06; Modelo federado com regularidade. |
+| E    | EIR05 | Coordenação dos modelos                  | Relatório de ausência de colisões (ou colisões com devida justificação).<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                      |
+| F    | EIR06 | Coordenação BIM                          | Presença regular em reuniões de coordenação BIM e projeto coordenado com restantes especialidades; Colisões identificadas, comunicadas e resolvidas de acordo com processo descrito no EIR 06; Modelo federado com regularidade. |
 | G    | EIR07 | Peças Desenhadas                         | Entrega de peças desenhadas extraídas dos modelos.<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                                |
 | H    | EIR08 | Simulações energéticas e certificação    | Entrega do relatório e certificado energético.<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                                    |
 | I    | EIR09 | Análise de sustentabilidade BREEAM       | Entrega do relatório da análise, garantindo a classificação final "Very Good".<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                    |
 | J    | EIR10 | Estimativa de quantidades e custos       | Entrega das estimativas de quantidades extraídas dos modelos.<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                     |
 | L    | EIR11 | Compilação de modelos                    | Entrega de todos os modelos e respetivas peças desenhadas e escritas. Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                |
+| M    | EIR12 | Mapas de trabalhos e quantidades         | Medições extraídas dos modelos / confirmar que medições são coerentes com o MQT.<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                     |
 | N    | EIR13 | Elaboração do plano de Segurança e Saúde e Compilação Técnica da Obra | Entrega do plano de Segurança e Saúde e início da Compilação Técnica da Obra. Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                                               |
 
 ### 3.3.2. Qualidade do Modelo
@@ -820,14 +814,6 @@ Esta classificação permitiu concluir que neste projeto, não haverá necessida
 | N    | Materiais                                         | Materiais cumprem requisitos do Level of Information Need                                                      |
 | O    | Classificação                                     | Objectos classificados de acordo com sistema SECClasS                                                          |
 
-### 3.3.3. Requisitos EIR
-
-| Ref. | Título                                    | Descrição                                                                                                                                                                                                                         |
-| ---- | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| P    | Coordenação BIM (EIR06)                  | Presença regular em reuniões de coordenação BIM e projecto coordenado com restantes especialidades; Colisões identificadas, comunicadas e resolvidas de acordo com processo descrito no EIR06; Modelo federado com regularidade. |
-| Q    | Peças Desenhadas (EIR07)                 | Peças desenhadas foram extraídas dos modelos.<br> Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                                  |
-| R    | Mapas de trabalhos e quantidades (EIR12) | Medições extraídas dos modelos / confirmar que medições batem certo com MQT.<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                     |
-
 
 # 4. Informação de suporte
 
@@ -838,38 +824,38 @@ A informação de suporte está disponível em: [https://drive.google.com/drive/
 
 ## 4.1. Informação de referência
 
-| Nomeclatura                      | Estado | Revisão | Classificação | Data       | Descrição                                |
-| -------------------------------- | ------ | ------- | ------------- | ---------- | ---------------------------------------- |
-| OBG-BSP-ZZ-ZZ-CE-XXX-XX-0001.pdf | A1     | C01     | PM_XX_XX_XX   | 11.01.2024 | Requerimento                             |
-| OBG-BSP-ZZ-ZZ-CE-XXX-XX-0002.pdf | A1     | C01     | PM_40_50_49   | 11.01.2024 | Procuração                               |
-| OBG-BSP-ZZ-ZZ-CE-XXX-XX-0003.pdf | A1     | C01     | PM_10_20_03   | 11.01.2024 | Termo, seguro, declaração OA, topografia |
-| OBG-BSP-ZZ-ZZ-LG-XXX-XX-0001.pdf | A1     | C01     | PM_30_10_80   | 11.01.2024 | Caderneta Predial Urbana                 |
-| OBG-BSP-ZZ-ZZ-LG-XXX-XX-0002.pdf | A1     | C01     | PM_55         | 11.01.2024 | CRC                                      |
-| OBG-BSP-ZZ-ZZ-LG-XXX-XX-0003.pdf | A1     | C01     | PM_30_10_47   | 11.01.2024 | CRP                                      |
-| OBG-BSP-ZZ-ZZ-LV-LEV-XX-0000.dwf | A1     | C01     | PM_30_20_89   | 11.01.2024 | Levantamento topográfico                 |
+| Nomeclatura                       | Estado | Revisão | Classificação | Data       | Descrição                                |
+| --------------------------------- | ------ | ------- | ------------- | ---------- | ---------------------------------------- |
+| OBG-BSP-ZZ-ZZZ-CE-XXX-XX-0001.pdf | A1     | C01     | PM_40_50      | 11.01.2024 | Requerimento                             |
+| OBG-BSP-ZZ-ZZZ-CE-XXX-XX-0002.pdf | A1     | C01     | PM_40_50_49   | 11.01.2024 | Procuração                               |
+| OBG-BSP-ZZ-ZZZ-CE-XXX-XX-0003.pdf | A1     | C01     | PM_10_20_03   | 11.01.2024 | Termo, seguro, declaração OA, topografia |
+| OBG-BSP-ZZ-ZZZ-LG-XXX-XX-0001.pdf | A1     | C01     | PM_30_10_80   | 11.01.2024 | Caderneta Predial Urbana                 |
+| OBG-BSP-ZZ-ZZZ-LG-XXX-XX-0002.pdf | A1     | C01     | PM_55         | 11.01.2024 | CRC                                      |
+| OBG-BSP-ZZ-ZZZ-LG-XXX-XX-0003.pdf | A1     | C01     | PM_30_10_47   | 11.01.2024 | CRP                                      |
+| OBG-BSP-ZZ-ZZZ-LV-LEV-XX-0001.dwf | A1     | C01     | PM_30_20_89   | 11.01.2024 | Levantamento topográfico                 |
 
 ## 4.2. Recursos partilhados
 
-| Nomeclatura                       | Estado | Revisão | Classificação | Data       | Descrição                          |
-| --------------------------------- | ------ | ------- | ------------- | ---------- | ---------------------------------- |
-| OBG-BSP-ZZ-ZZ-RL-XXX-XX-0001.docx | A1     | C01     | FI_90_88      | 11.01.2024 | Modelo para produção de relatórios |
-| OBG-BSP-ZZ-ZZ-RL-XXX-XX-0002.dwg  | A1     | C01     | FI_90_88      | 11.01.2024 | Modelo de folha de rosto           |
+| Nomeclatura                        | Estado | Revisão | Classificação | Data       | Descrição                          |
+| ---------------------------------- | ------ | ------- | ------------- | ---------- | ---------------------------------- |
+| OBG-BSP-ZZ-ZZZ-RL-XXX-XX-0001.docx | A1     | C01     | FI_90_88      | 11.01.2024 | Modelo para produção de relatórios |
+| OBG-BSP-ZZ-ZZZ-RL-XXX-XX-0002.dwg  | A1     | C01     | FI_90_88      | 11.01.2024 | Modelo de folha de rosto           |
 
 # 5. Datas, marcos de entrega de informação e pontos-chave de decisão
 
 Em fase de concurso os concorrentes devem entregar:
 
-* O `BEP` pré contrato ISO19650 e especificação nacional, incluindo matriz RACI  e demonstração de capacidade
-* A `matriz de  matriz` (‘Formulário de apoio à avaliação de candidatos’) do ‘Guia de Contratação’ da CT197
+* O `BEP` pré contrato EN ISO 19650 e especificação nacional, incluindo matriz RACI  e demonstração de capacidade
+* A `matriz de apoio à pontuação dos Candidatos` (‘Formulário de apoio à avaliação de candidatos’) do ‘Guia de Contratação’ da CT197
 * A `proposta de honorários`
 
 <table>
     <thead>
         <tr>
             <th>EIR</th>
-            <th>Data de entrega do entregável (X tempo antes do ponto-chave de decisão)</th>
+            <th>Data de entrega do entregável</th>
             <th>Ponto-chave de decisão</th>
-            <th>Data de entrega do resultado do ponto-chave de decisão (Y tempo antes do fim da fase)</th>
+            <th>Data de entrega do resultado do ponto-chave de decisão</th>
         </tr>
     </thead>
     <tbody>
@@ -1198,10 +1184,6 @@ Em fase de concurso os concorrentes devem entregar:
         <tr>
             <td>Blocos de informação autorizados e/ou aceites</td>
             <td>A1, An, etc</td>
-        </tr>
-        <tr>
-            <td>Blocos de informação parcialmente aprovados, com comentários da Entidade convidada a autorizar e aceitar a informação</td>
-            <td>B1, Bn, etc</td>
         </tr>
     </tbody>
 </table>
