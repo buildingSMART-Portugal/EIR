@@ -4,7 +4,7 @@
 
 V1.0.0 - 2024/10/22
 
-[Ver EIR online](https://github.com/jose-granja/EIR-bSPT/blob/main/EIR.md)
+[Ver EIR online](https://github.com/buildingSMART-Portugal/EIR/blob/main/EIR.md)
 
 
 ## Autores
