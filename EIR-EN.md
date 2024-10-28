@@ -890,7 +890,7 @@ At the tender stage, bidders must submit:
             <td>EIR04<br>EIR07<br>EIR10<br>EIR11<br>EIR12<br>EIR13</td>
             <td>10 days before the decision is made</td>
             <td>Decision point 3:<ul><li>Decision on final approval of phase with possible amendments.</li></ul></td>
-            <td>No final da fase.</td>
+            <td>In the end of the phase.</td>
         </tr>
         <tr>
             <td>EIR05</td>
