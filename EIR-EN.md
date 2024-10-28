@@ -549,7 +549,7 @@ Classification according to the `PM Table` (Project Management) of the `SECClasS
 
 ---
 
-#### d) Decription
+#### d) Description
 
 Brief description of the content of the information container.
 
