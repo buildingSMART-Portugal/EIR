@@ -385,6 +385,7 @@ The key decision points are scheduled for 10 working days after the exchanges of
 The development of the tables with the Level of Information Need (EN ISO 7817-1:2024) to be followed in the various exchanges of information between the different actors is the responsibility of the Lead Appointed Party. The tables must be contained in the BEP, and this document presents reference tables with minimum requirements. Apoted Parties must add alphanumeric information that has not been provided for in the aforementioned tables and that is relevant to characterising the project objects. The IFC model must also contain information that makes it possible to relate the object to the bill of quantities.
 
 Level of Information Need tables:
+* [General](https://docs.google.com/spreadsheets/d/1Es2AsZ3HVWl57oJBGFNIxUXwaBNqqCkUnY4HAFOS1_o/edit?usp=sharing)
 * [Architecture](https://docs.google.com/spreadsheets/d/1zllfF4_0YpR2oY5lTal2pS5UlQnYMe2rBJREKADhEPw/edit?usp=sharing)
 * [Structures](https://docs.google.com/spreadsheets/d/1W196anrrSR_btaHPR7_HdmMqyLPwcTYnKpFRK5o-vZk/edit?usp=sharing)
 * [MEP](https://docs.google.com/spreadsheets/d/1wTU7ZO0W98fo07C-Bo1HuEJkcnJsnJ3-UD9jZ_0FsyI/edit?usp=sharing)
