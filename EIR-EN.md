@@ -607,7 +607,7 @@ Documents, spreadsheets and non-editable drawings in PDF format following the IS
 
 Models in the proprietary format of the platform used, to be delivered at the end of each phase.
 
-Templates in IFC 4.0.2.1 (IFC4 ADD2 TC1) ISO 16739-1:2018. Maximum 300 MB per independent information block.
+Models in IFC 4.0.2.1 (IFC4 ADD2 TC1) ISO 16739-1:2018. Maximum 300 MB per independent information block.
 
 Images in JPG or PNG format (1080p or 4K resolution).
 
@@ -744,32 +744,32 @@ This classification led to the conclusion that in this project there will be no 
 
 ## 3.3. Acceptance table
 
-| Acceptance criteria* | Note | Description                                                                                                                                                         |
-| -------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Not Applicable       | NA   | Requirement not applicable at a given stage or for a given project                                                                                                  |
-| Not compliant        | 0    | Does not fulfil BEP criteria; In some cases, such as Levels, Grids and Orientation/Coordinate System, there are no intermediate gradations: only 0 or 3 is applied. |
-| Cumpre Parcialmente  | 1    | Maioria dos blocos de informação não está de acordo com o BEP; Classificação não é suficiente para aprovação                                                        |
-| Partially compliant  | 2    | Most of the information containers comply with the BEP; Rating sufficient for conditional approval                                                                  |
-| Fully compliant      | 3    | All information containers are in accordance with the BEP                                                                                                           |
+| Acceptance criteria*    | Note | Description                                                                                                                                                         |
+| ----------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Not Applicable          | NA   | Requirement not applicable at a given stage or for a given project                                                                                                  |
+| Not compliant           | 0    | Does not fulfil BEP criteria; In some cases, such as Levels, Grids and Orientation/Coordinate System, there are no intermediate gradations: only 0 or 3 is applied. |
+| Partially compliant     | 1    | Most of the information blocks do not comply with the BEP; Classification is not sufficient for approval                                                            |
+| Substantially compliant | 2    | Most of the information containers comply with the BEP; Classification is sufficient for conditional approval                                                       |
+| Fully compliant         | 3    | All information containers are in accordance with the BEP                                                                                                           |
 
 \* Minimum score for acceptance is 2; this score can be weighted according to the context, project phase or discipline and be justified in the comments.
 
 ### 3.3.1. Overall assessment
 
-| Ref. | EIR   | Title                                                                 | Description                                                                                                                                                                                                                      |
-| ---- | ----- | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| A    | EIR01 | Survey of regulatory constraints                                         | Delivery of a summary of the identified constraints.<br>Information provided in accordance with the project's standards and information production methods and procedures.                                                       |
-| B    | EIR02 | Survey of the site and its surroundings                                  | Delivery of the point cloud.<br>Information provided in accordance with the project's standards and information production methods and procedures.                                                                               |
-| C    | EIR03 | Geological-geotechnical study                                           | Delivery of the geological-geotechnical report.<br>Information provided in accordance with the project's standards and information production methods and procedures.                                                            |
-| D    | EIR04 | Modelling                                                             | Delivery of models in the formats defined in the information standards.<br>Information provided in accordance with the project's standards and information production methods and procedures.                                    |
-| E    | EIR05 | Model coordination                                               | Report of no clashes (or clashes with due justification).<br>Information provided in accordance with the project's standards and information production methods and procedures.                                                  |
-| F    | EIR06 | BIM coordination                                                       | Regular attendance at BIM coordination meetings and coordinated design with other disciplines; Clashes identified, reported and resolved in accordance with the process described in EIR 06; Model federated on a regular basis. |
-| G    | EIR07 | Production of drawings                                                      | Delivery of drawings extracted from the models.<br>Information provided in accordance with the project's standards and information production methods and procedures.                                                            |
-| H    | EIR08 | Energy simulations and certification                                 | Delivery of the energy report and certificate.<br>Information provided in accordance with the project's standards and information production methods and procedures.                                                             |
-| I    | EIR09 | BREEAM sustainability analysis                                    | Delivery of the analysis report, guaranteeing the final ‘Very Good’ classification.<br>Information provided in accordance with the project's standards and information production methods and procedures.                        |
-| J    | EIR10 | Estimate of quantities and costs                                    | Delivery of the quantity take-off extracted from the models.<br>Information provided in accordance with the project's standards and information production methods and procedures.                                               |
-| L    | EIR11 | Mode federation                                                 | Delivery of all models and respective drawings and technical reports.<br>Information provided in accordance with the standards and methods and procedures for producing project information.                                     |
-| M    | EIR12 | Preparation of work and quantity maps                                      | Measurements extracted from models / confirm that measurements match MQT.<br>Information provided in accordance with the project's standards and information production methods and procedures.                                  |
+| Ref. | EIR   | Title                                                                               | Description                                                                                                                                                                                                                      |
+| ---- | ----- | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| A    | EIR01 | Survey of regulatory constraints                                                    | Delivery of a summary of the identified constraints.<br>Information provided in accordance with the project's standards and information production methods and procedures.                                                       |
+| B    | EIR02 | Survey of the site and its surroundings                                             | Delivery of the point cloud.<br>Information provided in accordance with the project's standards and information production methods and procedures.                                                                               |
+| C    | EIR03 | Geological-geotechnical study                                                       | Delivery of the geological-geotechnical report.<br>Information provided in accordance with the project's standards and information production methods and procedures.                                                            |
+| D    | EIR04 | Modelling                                                                           | Delivery of models in the formats defined in the information standards.<br>Information provided in accordance with the project's standards and information production methods and procedures.                                    |
+| E    | EIR05 | Model coordination                                                                  | Report of no clashes (or clashes with due justification).<br>Information provided in accordance with the project's standards and information production methods and procedures.                                                  |
+| F    | EIR06 | BIM coordination                                                                    | Regular attendance at BIM coordination meetings and coordinated design with other disciplines; Clashes identified, reported and resolved in accordance with the process described in EIR 06; Model federated on a regular basis. |
+| G    | EIR07 | Production of drawings                                                              | Delivery of drawings extracted from the models.<br>Information provided in accordance with the project's standards and information production methods and procedures.                                                            |
+| H    | EIR08 | Energy simulations and certification                                                | Delivery of the energy report and certificate.<br>Information provided in accordance with the project's standards and information production methods and procedures.                                                             |
+| I    | EIR09 | BREEAM sustainability analysis                                                      | Delivery of the analysis report, guaranteeing the final ‘Very Good’ classification.<br>Information provided in accordance with the project's standards and information production methods and procedures.                        |
+| J    | EIR10 | Estimate of quantities and costs                                                    | Delivery of the quantity take-off extracted from the models.<br>Information provided in accordance with the project's standards and information production methods and procedures.                                               |
+| L    | EIR11 | Mode federation                                                                     | Delivery of all models and respective drawings and technical reports.<br>Information provided in accordance with the standards and methods and procedures for producing project information.                                     |
+| M    | EIR12 | Preparation of work and quantity maps                                               | Measurements extracted from models / confirm that measurements match MQT.<br>Information provided in accordance with the project's standards and information production methods and procedures.                                  |
 | N    | EIR13 | Preparation of the Health and Safety Plan and Technical Compilation of the Worksite | Delivery of the Health and Safety plan and start of the Technical Compilation of the Construction.<br>Information provided in accordance with the project's standards and information production methods and procedures.         |
 
 ### 3.3.2. Model Quality
@@ -788,7 +788,7 @@ This classification led to the conclusion that in this project there will be no 
 
 #### b) Non-graphical information
 
-| Ref. | Title                                          | Description                                                                                           |
+| Ref. | Title                                          | Description                                                                                          |
 | ---- | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | H    | Spaces / Areas                                 | Each space identified as IfcSpace                                                                    |
 | I    | Nomenclature of information containers - Files | Files fulfil nomenclature                                                                            |
@@ -809,7 +809,7 @@ Support information is available at: [https://drive.google.com/drive/folders/1JB
 
 ## 4.1. Reference information
 
-| Nomenclature                       | State | Revision | Classification | Date       | Description                                 |
+| Nomenclature                      | State | Revision | Classification | Date       | Description                                 |
 | --------------------------------- | ----- | -------- | -------------- | ---------- | ------------------------------------------- |
 | OBG-BSP-ZZ-ZZZ-CE-XXX-XX-0001.pdf | A1    | C01      | PM_40_50       | 11.01.2024 | Application                                 |
 | OBG-BSP-ZZ-ZZZ-CE-XXX-XX-0002.pdf | A1    | C01      | PM_40_50_49    | 11.01.2024 | Power of attorney                           |
@@ -821,7 +821,7 @@ Support information is available at: [https://drive.google.com/drive/folders/1JB
 
 ## 4.2. Shared resources
 
-| Nomenclature                        | State | Revision | Classification | Date       | Description          |
+| Nomenclature                       | State | Revision | Classification | Date       | Description          |
 | ---------------------------------- | ----- | -------- | -------------- | ---------- | -------------------- |
 | OBG-BSP-ZZ-ZZZ-RL-XXX-XX-0001.docx | A1    | C01      | FI_90_88       | 11.01.2024 | Reports template     |
 | OBG-BSP-ZZ-ZZZ-RL-XXX-XX-0002.dwg  | A1    | C01      | FI_90_88       | 11.01.2024 | Cover sheet template |
