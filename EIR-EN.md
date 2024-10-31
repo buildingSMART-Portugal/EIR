@@ -405,9 +405,9 @@ Project information standards aim to describe the criteria that will provide sup
 
 ### 3.1.2. Nomenclature of information containers - Files
 
-`Information containers must be named using seven fields, separated by a delimiter, according to the following convention:`
+Information containers must be named using seven fields, separated by a delimiter, according to the following convention:
 
-![Naming fields](/Imagens/CamposNomenclatura.svg "Naming fields")
+[`<Project>`](#a-project)-[`<Originator>`](#b-originator)-[`<Volume/System>`](#c-volumesystem)-[`<Level/Location>`](#d-levellocation)-[`<Type>`](#e-type)-[`<Discipline>`](#f-discipline)-[`<Phase>`](#g-phase)-[`<Number>`](#h-number)
 
 #### a) Project
 
@@ -430,7 +430,7 @@ The code must be defined in the BIM Execution Plan and contain three characters.
 
 ---
 
-#### c) Functional break-down structure
+#### c) Volume/System
 
 Variable, refers to subdivisions related to the function, and can be broken down into volumes and systems. 
 
@@ -444,7 +444,7 @@ The codes defined must be listed alongside their definitions in the BIM Executio
 
 ---
 
-#### d) Spatial break-down structure
+#### d) Level/Location
 
 Variable, refers to the floors of the project or other types of spatial break-down.
 
@@ -524,7 +524,7 @@ Metadata are additional attributes to the information containers that make it ea
 
 Information containers must contain metadata, separated by a delimiter, according to the following convention:
 
-![Metadata fields](/Imagens/CamposMetadados.svg "Metadata fields")
+[`<Status>`](#a-status)-[`<Revision>`](#b-revision)-[`<Classification>`](#c-classification)-[`<Description>`](#d-description)-[`<Date>`](#e-date)-[`<Others>`](#f-others)
 
 #### a) Status
 
