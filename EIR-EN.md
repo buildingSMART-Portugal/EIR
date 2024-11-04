@@ -271,7 +271,7 @@ The points to consider are identified below.
 
 The key decision points are scheduled for 10 working days after the exchanges of information with the Appointing Party and are distributed throughout the phases.
 
-![Key decision points](/Images/KeyDecisionPoints.jpeg "Key decision points")
+![Key decision points](/Images/KeyDecisionPoints.svg "Key decision points")
 
 ### 2.2.8. Decisions that will be taken at each key decision point.
 
@@ -723,7 +723,7 @@ Each task team must carry out a quality assurance check on each information cont
 
 The information review and approval process follows the flow illustrated in the figure below:
 
-![Review and approval of information process](/Images/RevisionApprovalInformation.jpeg "Processo de revisão e aprovação da informação")
+![Review and approval of information process](/Images/ReviewOfInformation.svg "Processo de revisão e aprovação da informação")
 
 
 The items to be considered in the review, as well as the KPIs and checklist, are detailed below. [Acceptance table](#33-acceptance-table).
