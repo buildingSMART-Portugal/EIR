@@ -401,6 +401,7 @@ Os pontos chave de decisão estão previstos para 10 dias úteis após as trocas
 O desenvolvimento das tabelas com o Nível de Informação Necessário (EN ISO 7817-1:2024) a ser seguido nas diversas trocas de informação, entre os diversos atores, é da responsabilidade da Entidade Fornecedora Líder. As tabelas devem estar contidas no BEP, sendo que no presente documento são apresentadas tabelas de referência com requisitos mínimos. As entidades fornecedoras devem adicionar informação alfanumérica que não tenha sido prevista nas tabelas mencionadas e que seja relevante para caracterização dos objetos do projeto. O modelo IFC também deve conter informação que permita relacionar o objeto ao articulado do mapa de quantidades.
 
 Tabelas de Nível de Informação Necessário:
+* [Geral](https://docs.google.com/spreadsheets/d/1Es2AsZ3HVWl57oJBGFNIxUXwaBNqqCkUnY4HAFOS1_o/edit?usp=sharing)
 * [Arquitetura](https://docs.google.com/spreadsheets/d/1zllfF4_0YpR2oY5lTal2pS5UlQnYMe2rBJREKADhEPw/edit?usp=sharing)
 * [Estabilidade](https://docs.google.com/spreadsheets/d/1W196anrrSR_btaHPR7_HdmMqyLPwcTYnKpFRK5o-vZk/edit?usp=sharing)
 * [MEP](https://docs.google.com/spreadsheets/d/1wTU7ZO0W98fo07C-Bo1HuEJkcnJsnJ3-UD9jZ_0FsyI/edit?usp=sharing)
