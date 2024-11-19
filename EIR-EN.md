@@ -83,7 +83,7 @@ Agreed instruction for the provision of information concerning works, goods or s
 
 Evidence necessary to consider that the requirements have been met.
 
-**Appointed Party**
+**Appointed party**
 
 Provider of information concerning works, goods or services.
 
@@ -91,9 +91,9 @@ Provider of information concerning works, goods or services.
 
 *NOTE 2: This term is used whether or not there is a formal written appointment in place.*
 
-**Appointing Party**
+**Appointing party**
 
-Receiver of information concerning works, goods or services from a Lead Appointed Party.
+Receiver of information concerning works, goods or services from a lead appointed party.
 
 *NOTE 1: In some countries the appointing party can be termed client, owner or employer but the appointing party is not limited to these functions.*
 
@@ -101,7 +101,7 @@ Receiver of information concerning works, goods or services from a Lead Appointe
 
 **Delivery team**
 
-Lead Appointed Party and their Appointed Parties.
+Lead appointed party and their appointed parties.
 
 *NOTE 1: A delivery team can be any size, from one person carrying out all the necessary functions through to complex, multi-layered task teams. The size and structure of each delivery team are in response to the scale and complexity of the asset management or project delivery activities.*
 
@@ -109,7 +109,7 @@ Lead Appointed Party and their Appointed Parties.
   
 *NOTE 3: A delivery team can consist of multiple task teams from within the lead appointed party’s organization and any appointed parties.*
 
-*NOTE 4: A delivery team can be assembled by the Appointing Party rather than the Lead Appointed Party.*
+*NOTE 4: A delivery team can be assembled by the Appointing Party rather than the lead appointed party.*
 
 **Project team**
 
@@ -330,15 +330,15 @@ The key decision points are scheduled for 10 working days after the exchanges of
         </tr>
         <tr>
             <td>EIR04</td>
-            <td>Modelling of Architecture, Structural Design, Water Supply Networks, Wastewater and Rainwater Drainage Networks, HVAC, gas, fire, electrical*, telecommunications* and other disciplines required for the design in question, with the appropriate geo-referencing. Provision of a federation of models by the Lead Appointed Party.<br><sm>* the models in question will be represented in simplified form according to the level of information need.</sm></td>
+            <td>Modelling of Architecture, Structural Design, Water Supply Networks, Wastewater and Rainwater Drainage Networks, HVAC, gas, fire, electrical*, telecommunications* and other disciplines required for the design in question, with the appropriate geo-referencing. Provision of a federation of models by the lead appointed party.<br><sm>* the models in question will be represented in simplified form according to the level of information need.</sm></td>
         </tr>
         <tr>
             <td>EIR05</td>
-            <td>Model coordination resulting from the combined analysis of architecture and disciplines. Support coordination in the collision matrix for which the Lead Appointed Party is responsible.</td>
+            <td>Model coordination resulting from the combined analysis of architecture and disciplines. Support coordination in the collision matrix for which the lead appointed party is responsible.</td>
         </tr>
         <tr>
             <td>EIR06</td>
-            <td>Monitoring and validation of the BIM coordination process. Evidence of this process should be provided by the Lead Appointed Party's information manager. This evidence should demonstrate that the project is being developed in accordance with regulations and with the agreement of the Appointing Party, and that existing conflicts in the models are resolved.</td>
+            <td>Monitoring and validation of the BIM coordination process. Evidence of this process should be provided by the lead appointed party's information manager. This evidence should demonstrate that the project is being developed in accordance with regulations and with the agreement of the Appointing Party, and that existing conflicts in the models are resolved.</td>
         </tr>
         <tr>
             <td>EIR07</td>
@@ -382,7 +382,7 @@ The key decision points are scheduled for 10 working days after the exchanges of
 
 ## 2.4. Level of Information Need
 
-The development of the tables with the Level of Information Need (EN ISO 7817-1:2024) to be followed in the various exchanges of information between the different actors is the responsibility of the Lead Appointed Party. The tables must be contained in the BEP, and this document presents reference tables with minimum requirements. Apoted Parties must add alphanumeric information that has not been provided for in the aforementioned tables and that is relevant to characterising the project objects. The IFC model must also contain information that makes it possible to relate the object to the bill of quantities.
+The development of the tables with the Level of Information Need (EN ISO 7817-1:2024) to be followed in the various exchanges of information between the different actors is the responsibility of the lead appointed party. The tables must be contained in the BEP, and this document presents reference tables with minimum requirements. Appointed parties must add alphanumeric information that has not been provided for in the aforementioned tables and that is relevant to characterising the project objects. The IFC model must also contain information that makes it possible to relate the object to the bill of quantities.
 
 Level of Information Need tables:
 * [General](https://docs.google.com/spreadsheets/d/1k83QjVxPOW7c3up-CIHF8iAWr-czL6S-ydMOzpceqFA/edit?usp=sharing)
@@ -422,7 +422,7 @@ Unique code representing the project.
 
 Variable according to the organisation that created the information container. 
 
-The codes must be defined by each Appointed Party and refer to the name of the company. The Appointing Party will approve the proposed codes.
+The codes must be defined by each appointed party and refer to the name of the company. The Appointing Party will approve the proposed codes.
 
 The code must be defined in the BIM Execution Plan and contain three characters.
 
@@ -434,7 +434,7 @@ The code must be defined in the BIM Execution Plan and contain three characters.
 
 Variable, refers to subdivisions related to the function, and can be broken down into volumes and systems. 
 
-The definition of these codes is the responsibility of each Appointed Party and can be up to four characters long.
+The definition of these codes is the responsibility of each appointed party and can be up to four characters long.
 
 The codes defined must be listed alongside their definitions in the BIM Execution Plan.
 
@@ -448,7 +448,7 @@ The codes defined must be listed alongside their definitions in the BIM Executio
 
 Variable, refers to the floors of the project or other types of spatial break-down.
 
-The list below can be expanded by the Lead Appointed Party if deemed necessary. 
+The list below can be expanded by the lead appointed party if deemed necessary. 
 
 Newly defined codes must be listed alongside their definitions in the BIM Execution Plan.
 
@@ -470,7 +470,7 @@ Newly defined codes must be listed alongside their definitions in the BIM Execut
 
 Variable, refers to the form in which the information is presented. Each information container must contain a single type of information.
 
-The list can be expanded by the Lead Appointed Party if deemed necessary. 
+The list can be expanded by the lead appointed party if deemed necessary. 
 
 Newly defined codes must be listed alongside their definitions in the BIM Execution Plan.
 
@@ -512,7 +512,7 @@ Codes must contain a maximum of four digits made up of whole numbers.
 
 #### i) Example:
 
-A PDF file developed by the Appointed Party ‘Gabinete de Projetos de Portugal’ (GPP), responsible for the structural design, containing the first 2D drawing of the building's footings design, for which the definition of floors does not apply.
+A PDF file developed by the appointed party ‘Gabinete de Projetos de Portugal’ (GPP), responsible for the structural design, containing the first 2D drawing of the building's footings design, for which the definition of floors does not apply.
 
 > OBG-GPP-EST-DS-FUN-XXX-PP-0001.pdf
 
@@ -563,13 +563,13 @@ Date of the last edition of the information container.
 
 #### f) Others
 
-The information containers may include additional metadata if they are deemed necessary by the Lead Appointed Party. Newly defined codes must be listed alongside their definitions in the BIM Execution Plan. 
+The information containers may include additional metadata if they are deemed necessary by the lead appointed party. Newly defined codes must be listed alongside their definitions in the BIM Execution Plan. 
 
 ---
 
 ### 3.1.4. Nomenclature of information blocks - IFC: Objects and alphanumeric information
 
-It is not prescribed. However, it is recommended to use the nomenclatures in the proposed technical specification for ‘Regras de modelação de objetos’ available at: [https://bit.ly/secclass_manual_objetos_bim_](https://bit.ly/secclass_manual_objetos_bim_). The Lead Appointed Party must explain the principles adopted for naming in the BEP.
+It is not prescribed. However, it is recommended to use the nomenclatures in the proposed technical specification for ‘Regras de modelação de objetos’ available at: [https://bit.ly/secclass_manual_objetos_bim_](https://bit.ly/secclass_manual_objetos_bim_). The lead appointed party must explain the principles adopted for naming in the BEP.
 
 ---
 
@@ -625,7 +625,7 @@ There are no requirements for the software to be used by the Appointed Parties. 
 
 ### 3.1.10. Platforms and software of the Appointing Party
 
-The Appointing Party will use the software `<IFCVualisation/VerificationSoftwareName>` to visualise, verify and validate information containers IFC. The Lead Appointed Party must verify the proper performance of the information containers IFC on this platform and inform beforehand of potential problems in the interpretation of the IFCs submitted.
+The Appointing Party will use the software `<IFCVualisation/VerificationSoftwareName>` to visualise, verify and validate information containers IFC. The lead appointed party must verify the proper performance of the information containers IFC on this platform and inform beforehand of potential problems in the interpretation of the IFCs submitted.
 
 The CDE to be used will be maintained on the Appointing Party's servers and will consist of the `R2U`* CDE solution. 
 
@@ -673,7 +673,7 @@ All object instances must be assigned to the correct building story of the build
 
 Object instances with different properties, e.g. external/internal, structural/non-structural properties, should be split into different instances. For example, a wall that runs from the inside to the outside should be divided into the building envelope.
 
-The classification system defined in this document must be used to produce the work and quantity maps, although it is possible for the Lead Appointed Party to propose an additional granularity of the classification system in its BEP.
+The classification system defined in this document must be used to produce the work and quantity maps, although it is possible for the lead appointed party to propose an additional granularity of the classification system in its BEP.
 
 The models delivered in IFC must not contain duplication of elements between different specialities. Exceptional situations must be duly categorised and justified in the BEP.
 
@@ -694,7 +694,7 @@ The structure of the IFC models should be uniform across all disciplines, with t
 | ------ IfcBuildingStorey | P04             |
 | ------ IfcBuildingStorey | C05             |
 
-Some changes may be made at the design stage, to be proposed by the Lead Appointed Party.
+Some changes may be made at the design stage, to be proposed by the lead appointed party.
 
 The post-contract BEP must indicate the elevation of each IfcBuildingStorey, as well as its elevation in relation to the 0.00 of the project. All disciplines must follow these same elevations.
 
@@ -708,11 +708,11 @@ In the case of editable drawings, they must be in DWG format when generated in C
 
 #### b) Coordination:
 
-Model coordination should be carried out regularly. Each Appointed Party should coordinate its own models as part of its quality assurance process, before sharing the information with the delivery team. Information/clarification exchanges regarding BIM models between the Appointing Party and the Lead Appointed Party should preferably be carried out using BCF files in the CDE.
+Model coordination should be carried out regularly. Each appointed party should coordinate its own models as part of its quality assurance process, before sharing the information with the delivery team. Information/clarification exchanges regarding BIM models between the Appointing Party and the lead appointed party should preferably be carried out using BCF files in the CDE.
 
-Any exchange of information between task teams of the same discipline must take place within their respective folder in the *Work in Progress* status of the Common Data Environment. The organisation and frequency of these exchanges is determined by the Lead Appointed Party for their delivery team.
+Any exchange of information between task teams of the same discipline must take place within their respective folder in the *Work in Progress* status of the Common Data Environment. The organisation and frequency of these exchanges is determined by the lead appointed party for their delivery team.
 
-The information produced by each Appointed Party should only be shared with other Appointed Parties when already coordinated within each delivery team. Information exchanges between different Appointed Parties take place in the *Shared* state of t
+The information produced by each appointed party should only be shared with other Appointed Parties when already coordinated within each delivery team. Information exchanges between different Appointed Parties take place in the *Shared* state of t
 he Common Data Environment. A maximum periodicity of 15 days is defined for updating models in the CDE, with at least S2 status.
 
 ---
@@ -802,7 +802,7 @@ This classification led to the conclusion that in this project there will be no 
 
 # 4. Support information
 
-Supporting information consists of information that is intended to be made available by the Appointing Party to the Lead Appointed Party in order to avoid redundant work and ensure that the information is developed in accordance with its standards. This enables the Lead Appointed Party to have a better understanding of what is required for the project. According to clause 5.2.1 d) of EN ISO 19650-2, supporting information can consist of existing asset information, shared resources, examples of deliverables, supporting documents, guidance material and references to international, national or industry standards.
+Supporting information consists of information that is intended to be made available by the Appointing Party to the lead appointed party in order to avoid redundant work and ensure that the information is developed in accordance with its standards. This enables the lead appointed party to have a better understanding of what is required for the project. According to clause 5.2.1 d) of EN ISO 19650-2, supporting information can consist of existing asset information, shared resources, examples of deliverables, supporting documents, guidance material and references to international, national or industry standards.
 
 Support information is available at: [https://drive.google.com/drive/folders/1JB1Rz85srkqedVM_9hqo3ANSmihxsILz?usp=sharing
 ](https://drive.google.com/drive/folders/1JB1Rz85srkqedVM_9hqo3ANSmihxsILz?usp=sharing)
@@ -1194,7 +1194,7 @@ At the tender stage, bidders must submit:
             <td>S3</td>
         </tr>
         <tr>
-            <td>Information container suitable for review and approval by the Lead Appointed Party.</td>
+            <td>Information container suitable for review and approval by the lead appointed party.</td>
             <td>S4</td>
         </tr>
         <tr>
