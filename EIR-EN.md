@@ -109,11 +109,11 @@ Lead appointed party and their appointed parties.
   
 *NOTE 3: A delivery team can consist of multiple task teams from within the lead appointed party’s organization and any appointed parties.*
 
-*NOTE 4: A delivery team can be assembled by the Appointing Party rather than the lead appointed party.*
+*NOTE 4: A delivery team can be assembled by the appointing party rather than the lead appointed party.*
 
 **Project team**
 
-Appointing Party and all delivery teams.
+Appointing party and all delivery teams.
 
 **Task team**
 
@@ -213,7 +213,7 @@ Act of satisfying an information requirement or part thereof.
 
 # 1. Introduction
 
-This document is an example of an EIR (Exchange Information Requirements of the Appointing Party) for the design phase of a multi-family building in Lisbon, complying with EN ISO 19650-2:2018. This is a concrete example applied to a fictitious situation and is intended as an illustration of good practice in BIM contracting during the design phase. Inherent in its nature, this is a document that will undergo various improvements over time. The web version is available at [https://github.com/buildingSMART-Portugal/EIR](https://github.com/buildingSMART-Portugal/EIR) (updated permanently) and the PDF version (updated periodically).
+This document is an example of an EIR (Exchange Information Requirements of the appointing party) for the design phase of a multi-family building in Lisbon, complying with EN ISO 19650-2:2018. This is a concrete example applied to a fictitious situation and is intended as an illustration of good practice in BIM contracting during the design phase. Inherent in its nature, this is a document that will undergo various improvements over time. The web version is available at [https://github.com/buildingSMART-Portugal/EIR](https://github.com/buildingSMART-Portugal/EIR) (updated permanently) and the PDF version (updated periodically).
 
 # 2. Information Requirements
 
@@ -228,7 +228,7 @@ Choosing solutions that optimise operating and maintenance costs.
 
 ## 2.2. Project Information Requirements (PIR)
 
-### 2.2.1. Appointing Party
+### 2.2.1. Appointing party
 
 `buildingSMART Portugal`
 
@@ -240,7 +240,7 @@ Choosing solutions that optimise operating and maintenance costs.
 
 Building for mixed use (multi-family housing and commerce) with 5 floors above ground and 2 floors below ground. Purpose of marketing and sale of all fractions.
 
-### 2.2.4. Purposes for which the information will be used by the Appointing Party
+### 2.2.4. Purposes for which the information will be used by the appointing party
 
 * **PIR01**: `Regulatory compliance`:
   * Development of all the necessary elements for permiting the development with the municipal authorities. All the written and drawn documents for the permiting procedure.
@@ -269,7 +269,7 @@ When defining information delivery milestones and key decision points, the time 
 
 The points to consider are identified below.
 
-The key decision points are scheduled for 10 working days after the exchanges of information with the Appointing Party and are distributed throughout the phases.
+The key decision points are scheduled for 10 working days after the exchanges of information with the appointing party and are distributed throughout the phases.
 
 ![Key decision points](/Images/KeyDecisionPoints.svg "Key decision points")
 
@@ -338,7 +338,7 @@ The key decision points are scheduled for 10 working days after the exchanges of
         </tr>
         <tr>
             <td>EIR06</td>
-            <td>Monitoring and validation of the BIM coordination process. Evidence of this process should be provided by the lead appointed party's information manager. This evidence should demonstrate that the project is being developed in accordance with regulations and with the agreement of the Appointing Party, and that existing conflicts in the models are resolved.</td>
+            <td>Monitoring and validation of the BIM coordination process. Evidence of this process should be provided by the lead appointed party's information manager. This evidence should demonstrate that the project is being developed in accordance with regulations and with the agreement of the appointing party, and that existing conflicts in the models are resolved.</td>
         </tr>
         <tr>
             <td>EIR07</td>
@@ -422,7 +422,7 @@ Unique code representing the project.
 
 Variable according to the organisation that created the information container. 
 
-The codes must be defined by each appointed party and refer to the name of the company. The Appointing Party will approve the proposed codes.
+The codes must be defined by each appointed party and refer to the name of the company. The appointing party will approve the proposed codes.
 
 The code must be defined in the BIM Execution Plan and contain three characters.
 
@@ -545,7 +545,7 @@ The revision code must be composed of three fields according to the following de
 
 #### c) Classification
 
-Classification according to the `PM Table` (Project Management) of the `SECClasS` system. Other classification system tables may be used if they are considered more appropriate, provided that this is agreed with the Appointing Party.
+Classification according to the `PM Table` (Project Management) of the `SECClasS` system. Other classification system tables may be used if they are considered more appropriate, provided that this is agreed with the appointing party.
 
 ---
 
@@ -617,17 +617,17 @@ Exchanges of information request in models in BCF.
 
 ---
 
-### 3.1.9. Software - Appointed Parties
+### 3.1.9. Software - Appointed parties
 
-There are no requirements for the software to be used by the Appointed Parties. The software to be used will be validated at the BEP approval stage.
+There are no requirements for the software to be used by the appointed parties. The software to be used will be validated at the BEP approval stage.
 
 ---
 
-### 3.1.10. Platforms and software of the Appointing Party
+### 3.1.10. Platforms and software of the appointing party
 
-The Appointing Party will use the software `<IFCVualisation/VerificationSoftwareName>` to visualise, verify and validate information containers IFC. The lead appointed party must verify the proper performance of the information containers IFC on this platform and inform beforehand of potential problems in the interpretation of the IFCs submitted.
+The appointing party will use the software `<IFCVualisation/VerificationSoftwareName>` to visualise, verify and validate information containers IFC. The lead appointed party must verify the proper performance of the information containers IFC on this platform and inform beforehand of potential problems in the interpretation of the IFCs submitted.
 
-The CDE to be used will be maintained on the Appointing Party's servers and will consist of the `R2U`* CDE solution. 
+The CDE to be used will be maintained on the appointing party's servers and will consist of the `R2U`* CDE solution. 
 
 All BCFs will be managed centrally in the `R2U` CDE.
 
@@ -639,7 +639,7 @@ No specific requirements in the design phase beyond the classification already r
 
 ## 3.2. Methods and procedures for producing project information
 
-Project information production methods and procedures define the approaches and techniques that the Appointing Party uses to create, manage and approve information.
+Project information production methods and procedures define the approaches and techniques that the appointing party uses to create, manage and approve information.
 
 ### 3.2.1 Capturing information from existing assets
 
@@ -647,7 +647,7 @@ As there has been no previous construction on the site and the updated topograph
 
 There is a need to survey the surroundings using methods that provide sufficient information for the permiting process and for analysing shading and occlusions.
 
-The Appointed Parties will be responsible for defining the requirements to be met in order to prepare the geological-geotechnical report needed for the structural design. The Appointing Party will independently award and contract the work related to the preparation of the geological-geotechnical report.
+The appointed parties will be responsible for defining the requirements to be met in order to prepare the geological-geotechnical report needed for the structural design. The appointing party will independently award and contract the work related to the preparation of the geological-geotechnical report.
 
 ---
 
@@ -708,11 +708,11 @@ In the case of editable drawings, they must be in DWG format when generated in C
 
 #### b) Coordination:
 
-Model coordination should be carried out regularly. Each appointed party should coordinate its own models as part of its quality assurance process, before sharing the information with the delivery team. Information/clarification exchanges regarding BIM models between the Appointing Party and the lead appointed party should preferably be carried out using BCF files in the CDE.
+Model coordination should be carried out regularly. Each appointed party should coordinate its own models as part of its quality assurance process, before sharing the information with the delivery team. Information/clarification exchanges regarding BIM models between the appointing party and the lead appointed party should preferably be carried out using BCF files in the CDE.
 
 Any exchange of information between task teams of the same discipline must take place within their respective folder in the *Work in Progress* status of the Common Data Environment. The organisation and frequency of these exchanges is determined by the lead appointed party for their delivery team.
 
-The information produced by each appointed party should only be shared with other Appointed Parties when already coordinated within each delivery team. Information exchanges between different Appointed Parties take place in the *Shared* state of t
+The information produced by each appointed party should only be shared with other appointed parties when already coordinated within each delivery team. Information exchanges between different appointed parties take place in the *Shared* state of t
 he Common Data Environment. A maximum periodicity of 15 days is defined for updating models in the CDE, with at least S2 status.
 
 ---
@@ -728,7 +728,7 @@ The information review and approval process follows the flow illustrated in the 
 
 The items to be considered in the review, as well as the KPIs and checklist, are detailed below. [Acceptance table](#33-acceptance-table).
 
-### 3.2.3. Delivery of information to the Appointing Party
+### 3.2.3. Delivery of information to the appointing party
 
 The final deliverables will be realised using the CDE solution determined previously.
 
@@ -738,9 +738,9 @@ The final deliverables must move to status S5 ([table B.1](#table-b1--codes-for-
 
 ### 3.2.4. Security
 
-The collaborative digital working methods and technologies used in the project involve the collaborative sharing of information by a number of independent actors, and therefore the need arose to manage the vulnerability issues inherent in the availability of information in accordance with the requirements of EN ISO 19650-5. The Appointing Party therefore carried out a sensitivity assessment to identify whether or not a security approach was required and applied the triage process, which led to the ST4 classification. 
+The collaborative digital working methods and technologies used in the project involve the collaborative sharing of information by a number of independent actors, and therefore the need arose to manage the vulnerability issues inherent in the availability of information in accordance with the requirements of EN ISO 19650-5. The appointing party therefore carried out a sensitivity assessment to identify whether or not a security approach was required and applied the triage process, which led to the ST4 classification. 
 
-This classification led to the conclusion that in this project there will be no need to develop a security strategy, respective security plan, fault and incident management plans and information sharing agreements with Appointed Parties. However, commercial and personal information must be protected in accordance with the legislation in force, namely the GDPR. Appropriate measures must also be taken to minimise threats arising from fraudulent and other criminal activities and cybersecurity incidents.
+This classification led to the conclusion that in this project there will be no need to develop a security strategy, respective security plan, fault and incident management plans and information sharing agreements with appointed parties. However, commercial and personal information must be protected in accordance with the legislation in force, namely the GDPR. Appropriate measures must also be taken to minimise threats arising from fraudulent and other criminal activities and cybersecurity incidents.
 
 ## 3.3. Acceptance table
 
@@ -802,7 +802,7 @@ This classification led to the conclusion that in this project there will be no 
 
 # 4. Support information
 
-Supporting information consists of information that is intended to be made available by the Appointing Party to the lead appointed party in order to avoid redundant work and ensure that the information is developed in accordance with its standards. This enables the lead appointed party to have a better understanding of what is required for the project. According to clause 5.2.1 d) of EN ISO 19650-2, supporting information can consist of existing asset information, shared resources, examples of deliverables, supporting documents, guidance material and references to international, national or industry standards.
+Supporting information consists of information that is intended to be made available by the appointing party to the lead appointed party in order to avoid redundant work and ensure that the information is developed in accordance with its standards. This enables the lead appointed party to have a better understanding of what is required for the project. According to clause 5.2.1 d) of EN ISO 19650-2, supporting information can consist of existing asset information, shared resources, examples of deliverables, supporting documents, guidance material and references to international, national or industry standards.
 
 Support information is available at: [https://drive.google.com/drive/folders/1JB1Rz85srkqedVM_9hqo3ANSmihxsILz?usp=sharing
 ](https://drive.google.com/drive/folders/1JB1Rz85srkqedVM_9hqo3ANSmihxsILz?usp=sharing)
@@ -1198,7 +1198,7 @@ At the tender stage, bidders must submit:
             <td>S4</td>
         </tr>
         <tr>
-            <td>Information container suitable for review and acceptance by the Appointing Party.</td>
+            <td>Information container suitable for review and acceptance by the appointing party.</td>
             <td>S5</td>
         </tr>
         <tr>
