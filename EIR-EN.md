@@ -23,25 +23,9 @@
 
 # Glossary
 
-**Common Data Environment (CDE)**
+**Acceptance criteria**
 
-Agreed source of information for any given project or asset, for collecting, managing and disseminating each information container through a managed process.
-
-*NOTE 1: A CDE workflow describes the processes to be used and a CDE solution can provide the technology to support those processes.*
-
-**Environmental Social and Governance (ESG)**
-
-Environmental, social and governance indicators designed to assess the level of commitment of organisations to sustainable development objectives.
-
-**Capability**
-
-Measure of ability to perform and function.
-
-*NOTE 1: In the context of this document, this relates to skill, knowledge or expertise to manage information.*
-
-**Asset**
-
-Item, thing or entity that has potential or actual value to an organization.
+Evidence required for considering that requirements have been fulfilled.
 
 **Actor**
 
@@ -50,38 +34,6 @@ Person, organization or organizational unit involved in a construction process.
 *NOTE 1: Organizational units include, but are not limited to, departments, teams.*
 
 *NOTE 2: In the context of this document, construction processes take place during the delivery phase and the operational phase.*
-
-**Information container**
-
-Named persistent set of information retrievable from within a file, system or application storage hierarchy.
-
-*EXAMPLE: Including sub-directory, information file (including model, document, table, schedule), or distinct sub-set of an information file such as a chapter or section, layer or symbol.*
-
-*NOTE 1: Structured information containers include geometrical models, schedules and databases. Unstructured information containers include documentation, video clips and sound recordings.*
-
-*NOTE 2: Persistent information exists over a timescale long enough for it to have to be managed, i.e. this excludes transient information such as internet search results.*
-
-*NOTE 3: Naming of an information container should be according to an agreed naming convention.*
-
-**Capacity**
-
-Resources available to perform and function.
-
-*NOTE 1: In the context of this document, this relates to means, resources and procedures to manage information.*
-
-**Life cycle**
-
-Life of the asset from the definition of its requirements to the termination of its use, covering its conception, development, operation, maintenance support and disposal.
-
-**Appointment**
-
-Agreed instruction for the provision of information concerning works, goods or services.
-
-*NOTE 1: This term is used whether or not there is a formal appointment between the parties.*
-
-**Acceptance criteria**
-
-Evidence necessary to consider that the requirements have been met.
 
 **Appointed party**
 
@@ -99,6 +51,52 @@ Receiver of information concerning works, goods or services from a lead appointe
 
 *NOTE 2: This term is used whether or not there is a formal appointment between the parties.*
 
+**Appointment**
+
+Agreed instruction for the provision of information concerning works, goods or services.
+
+*NOTE 1: This term is used whether or not there is a formal appointment between the parties.*
+
+**Asset**
+
+Item, thing or entity that has potential or actual value to an organization.
+
+**BIM Execution Plan (BEP)**
+
+Plan that explains how the information management aspects of the appointment will be carried out by the delivery team.
+
+*NOTE 1: The pre-appointment BIM execution plan focuses on the delivery team’s proposed approach to information management and their capability and capacity to manage information.*
+
+**Building Information Modelling (BIM)**
+
+Use of a shared digital representation of a built asset to facilitate design, construction and operation processes to form a reliable basis for decisions
+
+*NOTE 1: Built assets include, but are not limited to, buildings, bridges, roads, process plants.*
+
+**Capability**
+
+Measure of ability to perform and function.
+
+*NOTE 1: In the context of this document, this relates to skill, knowledge or expertise to manage information.*
+
+**Capacity**
+
+Resources available to perform and function.
+
+*NOTE 1: In the context of this document, this relates to means, resources and procedures to manage information.*
+
+**Common Data Environment (CDE)**
+
+Agreed source of information for any given project or asset, for collecting, managing and disseminating each information container through a managed process.
+
+*NOTE 1: A CDE workflow describes the processes to be used and a CDE solution can provide the technology to support those processes.*
+
+**Delivery phase**
+
+Part of the life cycle, during which an asset is designed, constructed and commissioned.
+
+*NOTE 1: Delivery phase normally reflects a stage-based approach to a project.*
+
 **Delivery team**
 
 Lead appointed party and their appointed parties.
@@ -111,17 +109,13 @@ Lead appointed party and their appointed parties.
 
 *NOTE 4: A delivery team can be assembled by the appointing party rather than the lead appointed party.*
 
-**Project team**
+**Environmental Social and Governance (ESG)**
 
-Appointing party and all delivery teams.
+Environmental, social and governance indicators designed to assess the level of commitment of organizations to sustainable development objectives.
 
-**Task team**
+**Exchange Information Requirements (EIR)**
 
-Individuals assembled to perform a specific task
-
-**Space**
-
-Limited three-dimensional extent defined physically or notionally.
+Information Requirements related to an appointment.
 
 **Federation**
 
@@ -129,61 +123,39 @@ Creation of a composite information model (3.3.8) from separate information cont
 
 *NOTE 1: The separate information containers used during federation can come from different task teams.*
 
-**Information**
+**Information Exchange**
 
-Reinterpretable representation of data in a formalized manner suitable for communication, interpretation or processing.
+Act of satisfying an information requirement or part thereof.
 
-*NOTE 1: Information can be processed by human or automatic means.*
+**Information container**
 
-**Project information**
+Named persistent set of information retrievable from within a file, system or application storage hierarchy.
 
-Information produced for, or utilized in, a particular project.
+*EXAMPLE: Including sub-directory, information file (including model, document, table, schedule), or distinct sub-set of an information file such as a chapter or section, layer or symbol.*
+
+*NOTE 1: Structured information containers include geometrical models, schedules and databases. Unstructured information containers include documentation, video clips and sound recordings.*
+
+*NOTE 2: Persistent information exists over a timescale long enough for it to have to be managed, i.e. this excludes transient information such as internet search results.*
+
+*NOTE 3: Naming of an information container should be according to an agreed naming convention.*
 
 **Information delivery milestone**
 
 Scheduled event for a predefined information exchange.
 
-**Building Information Modelling (BIM)**
-
-Use of a shared digital representation of a built asset to facilitate design, construction and operation processes to form a reliable basis for decisions
-
-*NOTE 1: Built assets include, but are not limited to, buildings, bridges, roads, process plants.*
-
 **Information model**
 
 Set of structured and unstructured information containers.
 
-**Project Information Model (PIM)**
+**Information requirement**
 
-Information model relating to the delivery phase.
+Specification of what, when, how and for whom the information is to be produced.
 
-*NOTE 1: During the project, the project information model can be used to convey the design intent (sometimes called the design intent model) or the virtual representation of the asset to be constructed (sometimes called the virtual construction model).*
+**Information**
 
-**Level of information need**
+Reinterpretable representation of data in a formalized manner suitable for communication, interpretation or processing.
 
-Framework which defines the extent and granularity of information.
-
-*NOTE 1 : One purpose of defining the level of information need is to prevent delivery of too much information.*
-
-**Delivery phase**
-
-Part of the life cycle, during which an asset is designed, constructed and commissioned.
-
-*NOTE 1: Delivery phase normally reflects a stage-based approach to a project.*
-
-**Operational phase**
-
-Part of the life cycle, during which an asset is used, operated and maintained.
-
-**Plain Language Questions (PLQ)**
-
-Questions formulated in simple, clear language, designed to avoid technical jargon or complex language.
-
-**BIM Execution Plan (BEP)**
-
-Plan that explains how the information management aspects of the appointment will be carried out by the delivery team.
-
-*NOTE 1: The pre-appointment BIM execution plan focuses on the delivery team’s proposed approach to information management and their capability and capacity to manage information.*
+*NOTE 1: Information can be processed by human or automatic means.*
 
 **Key decision point**
 
@@ -191,25 +163,53 @@ Point in time during the life cycle when a decision crucial to the direction or 
 
 *NOTE 1: During a project these generally align with project stages.*
 
-**Information requirement**
+**Level of information need**
 
-Specification of what, when, how and for whom the information is to be produced.
+Framework which defines the extent and granularity of information.
+
+*NOTE 1 : One purpose of defining the level of information need is to prevent delivery of too much information.*
+
+**Life cycle**
+
+Life of the asset from the definition of its requirements to the termination of its use, covering its conception, development, operation, maintenance support and disposal.
+
+**Operational phase**
+
+Part of the life cycle, during which an asset is used, operated and maintained.
+
+**Organizational Information Requirements (OIR)**
+
+Information requirements related to organizational objectives.
+
+**Plain Language Questions (PLQ)**
+
+Questions formulated in simple, clear language, designed to avoid technical jargon or complex language.
+
+**Project Information Model (PIM)**
+
+Information model relating to the delivery phase.
+
+*NOTE 1: During the project, the project information model can be used to convey the design intent (sometimes called the design intent model) or the virtual representation of the asset to be constructed (sometimes called the virtual construction model).*
 
 **Project Information Requirements (PIR)**
 
 Information requirements related to the development of an asset.
 
-**Organizational Information Requirements (OIR)**
+**Project information**
 
-Information requirements related to organisational objectives.
+Information produced for, or utilized in, a particular project.
 
-**Exchange Information Requirements (EIR)**
+**Project team**
 
-Information Requirements related to a appointment.
+Appointing party and all delivery teams.
 
-**Information Exchange**
+**Space**
 
-Act of satisfying an information requirement or part thereof.
+Limited three-dimensional extent defined physically or notionally.
+
+**Task team**
+
+Individuals assembled to perform a specific task.
 
 # 1. Introduction
 
