@@ -422,7 +422,7 @@ As normas de informação do projeto visam descrever os critérios que irão dar
 
 ### 3.1.2. Nomenclatura dos blocos de informação - Ficheiros
 
-`Os blocos de informação devem ser nomeados com o uso de sete campos, separados por um delimitador, de acordo com a seguinte convenção:`
+Os blocos de informação devem ser nomeados com o uso de sete campos, separados por um delimitador, de acordo com a seguinte convenção:
 
 ![Campos da nomenclatura](/Imagens/CamposNomenclatura.svg "Campos da nomenclatura")
 
