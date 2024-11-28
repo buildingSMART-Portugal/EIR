@@ -2,11 +2,11 @@
 
 ## EIR
 
-V1.1.0 - 2024/10/22
+V1.1.2 - 2024/10/22
 
-[Ver EIR Português online](https://github.com/buildingSMART-Portugal/EIR/blob/main/EIR.md)
+[Ver EIR Português online](https://github.com/buildingSMART-Portugal/EIR-FaseProjeto-ObraPrivada/blob/main/EIR.md)
 
-[Ver EIR Inglês online](https://github.com/buildingSMART-Portugal/EIR/blob/main/EIR-EN.md)
+[Ver EIR Inglês online](https://github.com/buildingSMART-Portugal/EIR-FaseProjeto-ObraPrivada/blob/main/EIR-EN.md)
 
 ## Autores
 
