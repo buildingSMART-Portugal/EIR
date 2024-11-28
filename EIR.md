@@ -1,4 +1,4 @@
-# V1.1.0 - 2024/10/22
+# V1.1.2 - 2024/11/28
 
 # Índice
 - [Glossário](#Glossário)
@@ -14,6 +14,7 @@
   - [3.3. Tabela de aceitação](#33-tabela-de-aceitação)
 - [4. Informação de suporte](#4-informação-de-suporte)
   - [4.1. Informação de referência](#41-informação-de-referência)
+  - [4.2. Recursos partilhados](#42-recursos-partilhados)
 - [5. Datas, marcos de entrega de informação e pontos-chave de decisão](#5-datas-marcos-de-entrega-de-informação-e-pontos-chave-de-decisão)
 - [Apêndices](#apêndices)
   - [Apêndice A - Códigos para nomenclatura de blocos de informação](#apêndice-a---códigos-para-nomenclatura-de-blocos-de-informação)
@@ -229,7 +230,7 @@ Ato de satisfazer um requisito de informação ou parte deste.
 
 # 1. Introdução
 
-Este documento é um exemplo de um EIR (requisitos de troca de informação da entidade requerente) para a fase de projeto de um edifício multi-familiar em Lisboa, satisfazendo a EN ISO 19650-2:2018. Trata-se de um exemplo concreto aplicado a uma situação fictícia e pretende ser uma ilustração de boas práticas na contratação BIM em fase de projeto. Inerentemente à sua natureza, este é um documento que sofrerá vários melhoramentos ao longo do tempo. Disponibiliza-se a versão web no link [https://github.com/buildingSMART-Portugal/EIR](https://github.com/buildingSMART-Portugal/EIR) (atualizada em permanência) e a versão PDF (atualizada periodicamente).
+Este documento é um exemplo de um EIR (requisitos de troca de informação da entidade requerente) para a fase de projeto de um edifício multi-familiar em Lisboa, satisfazendo a EN ISO 19650-2:2018. Trata-se de um exemplo concreto aplicado a uma situação fictícia e pretende ser uma ilustração de boas práticas na contratação BIM em fase de projeto. Inerentemente à sua natureza, este é um documento que sofrerá vários melhoramentos ao longo do tempo. Disponibiliza-se a versão web no link [https://github.com/buildingSMART-Portugal/EIR-FaseProjeto-ObraPrivada/blob/main/EIR.md](https://github.com/buildingSMART-Portugal/EIR-FaseProjeto-ObraPrivada/blob/main/EIR.md) (atualizada em permanência) e a versão PDF (atualizada periodicamente).
 
 # 2. Requisitos de informação
 
@@ -244,13 +245,13 @@ Escolha de soluções que permitam otimização de custos de operação e manute
 
 ## 2.2. Requisitos de informação do projeto (PIR)
 
-### 2.2.1. Entidade Requerente
+### 2.2.1. Entidade requerente
 
-`buildingSMART Portugal`
+`buildingSMART Portugal`.
 
 ### 2.2.2. Designação comercial do projeto
 
-`Open BIM Gardens`
+`Open BIM Gardens`.
 
 ### 2.2.3. Âmbito do projeto
 
@@ -285,21 +286,21 @@ Na definição dos marcos de entrega de informação e pontos-chave de decisão 
 
 Os pontos a considerar estão identificados abaixo.
 
-Os pontos chave de decisão estão previstos para 10 dias úteis após as trocas de informação com a Entidade Requerente e estão distribuídos ao longo das fases.
+Os pontos chave de decisão estão previstos para 10 dias úteis após as trocas de informação com a entidade requerente e estão distribuídos ao longo das fases.
 
 ![Pontos chave de decisão](/Imagens/PontosChaveDeDecisao.svg "Pontos chave de decisão")
 
 ### 2.2.8. Decisões que serão tomadas em cada ponto chave de decisão.
 
 * **Ponto de decisão 1**
-  * Decisão de adjudicação
+  * Decisão de adjudicação.
 
 * **Ponto de decisão 2**
   * Decisão sobre o nível de certificação BREEAM que realmente se pretende tendo em conta objetivos de desempenho e limites orçamentais.
   * Decisão sobre continuidade do investimento e eventuais adaptações aos objetivos estratégicos.
 
 * **Ponto de decisão 3**
-  * Decisão sobre aprovação de final de fase com eventuais alterações
+  * Decisão sobre aprovação de final de fase com eventuais alterações.
 
 ### 2.2.9. Questões que necessitam resposta para as tomadas de decisão informadas. (PLQ)
 
@@ -354,7 +355,7 @@ Os pontos chave de decisão estão previstos para 10 dias úteis após as trocas
         </tr>
         <tr>
             <td>EIR06</td>
-            <td>Acompanhamento e validação do processo de coordenação BIM. As evidências de tal processo deverão ser proporcionadas pelo gestor de informação da entidade fornecedora líder. Estas evidências deverão demonstrar que o empreendimento está a ser desenvolvido de acordo com regulamentação e com a concordância do requerente e que se resolvem os conflitos existentes nos modelos.</td>
+            <td>Acompanhamento e validação do processo de coordenação BIM. As evidências de tal processo deverão ser proporcionadas pelo gestor de informação da entidade fornecedora líder. Estas evidências deverão demonstrar que o empreendimento está a ser desenvolvido de acordo com regulamentação e com a concordância da entidade requerente e que se resolvem os conflitos existentes nos modelos.</td>
         </tr>
         <tr>
             <td>EIR07</td>
@@ -398,7 +399,7 @@ Os pontos chave de decisão estão previstos para 10 dias úteis após as trocas
 
 ## 2.4. Nível de Informação Necessário
 
-O desenvolvimento das tabelas com o Nível de Informação Necessário (EN ISO 7817-1:2024) a ser seguido nas diversas trocas de informação, entre os diversos atores, é da responsabilidade da Entidade Fornecedora Líder. As tabelas devem estar contidas no BEP, sendo que no presente documento são apresentadas tabelas de referência com requisitos mínimos. As entidades fornecedoras devem adicionar informação alfanumérica que não tenha sido prevista nas tabelas mencionadas e que seja relevante para caracterização dos objetos do projeto. O modelo IFC também deve conter informação que permita relacionar o objeto ao articulado do mapa de quantidades.
+O desenvolvimento das tabelas com o Nível de Informação Necessário (EN ISO 7817-1:2024) a ser seguido nas diversas trocas de informação, entre os diversos atores, é da responsabilidade da entidade fornecedora líder. As tabelas devem estar contidas no BEP, sendo que no presente documento são apresentadas tabelas de referência com requisitos mínimos. As entidades fornecedoras devem adicionar informação alfanumérica que não tenha sido prevista nas tabelas mencionadas e que seja relevante para caracterização dos objetos do projeto. O modelo IFC também deve conter informação que permita relacionar o objeto ao articulado do mapa de quantidades.
 
 Tabelas de Nível de Informação Necessário:
 * [Geral](https://docs.google.com/spreadsheets/d/1Es2AsZ3HVWl57oJBGFNIxUXwaBNqqCkUnY4HAFOS1_o/edit?usp=sharing)
@@ -418,13 +419,13 @@ As normas de informação do projeto visam descrever os critérios que irão dar
 
 ### 3.1.1. Normas
 
-`Série de normas EN ISO 19650 e norma EN ISO 7817-1:2024`
+`Série de normas EN ISO 19650 e norma EN ISO 7817-1:2024`.
 
 ### 3.1.2. Nomenclatura dos blocos de informação - Ficheiros
 
 Os blocos de informação devem ser nomeados com o uso de sete campos, separados por um delimitador, de acordo com a seguinte convenção:
 
-![Campos da nomenclatura](/Imagens/CamposNomenclatura.svg "Campos da nomenclatura")
+[`<Projeto>`](#a-projeto)-[`<Originador>`](#b-originador)-[`<Estrutura de desagregação funcional>`](#c-estrutura-de-desagregação-funcional)-[`<Estrutura de desagregação espacial>`](#d-estrutura-de-desagregação-espacial)-[`<Forma>`](#e-forma)-[`<Especialidade>`](#f-especialidade)-[`<Fase>`](#g-fase)-[`<Número>`](#h-número)
 
 #### a) Projeto
 
@@ -439,7 +440,7 @@ Código único e representativo do projeto.
 
 Variável de acordo com a organização autora do bloco de informação. 
 
-Os códigos devem ser definidos por cada Entidade Fornecedora e fazer alusão ao nome da empresa. A entidade requerente fará a aprovação dos códigos propostos.
+Os códigos devem ser definidos por cada entidade fornecedora e fazer alusão ao nome da empresa. A entidade requerente fará a aprovação dos códigos propostos.
 
 O código deve estar definido no Plano de Execução BIM e conter três caracteres.
 
@@ -451,7 +452,7 @@ O código deve estar definido no Plano de Execução BIM e conter três caracter
 
 Variável, refere-se à subdivisões relacionadas com a função, podendo ser desagregadas em volumes e sistemas. 
 
-A definição destes códigos é de responsabilidade de cada Entidade Fornecedora e pode ter até quatro caracteres.
+A definição destes códigos é de responsabilidade de cada entidade fornecedora e pode ter até quatro caracteres.
 
 Os códigos definidos devem estar listados juntos às suas definições no Plano de Execução BIM.
 
@@ -465,7 +466,7 @@ Os códigos definidos devem estar listados juntos às suas definições no Plano
 
 Variável, refere-se aos pisos do projeto ou outros tipos de desagregação espacial.
 
-A listagem abaixo pode ser expandida pela Entidade Fornecedora caso se considere necessário. 
+A listagem abaixo pode ser expandida pela entidade fornecedora líder caso se considere necessário.
 
 Os novos códigos definidos devem estar listados juntos às suas definições no Plano de Execução BIM.
 
@@ -487,7 +488,7 @@ Os novos códigos definidos devem estar listados juntos às suas definições no
 
 Variável, refere-se à forma em que as informações são apresentadas. Cada bloco de informação deve conter um único tipo de informação.
 
-A listagem pode ser expandida pela Entidade Fornecedora caso se considere necessário. 
+A listagem pode ser expandida pela entidade fornecedora líder caso se considere necessário. 
 
 Os novos códigos definidos devem estar listados juntos às suas definições no Plano de Execução BIM.
 
@@ -516,7 +517,7 @@ Variável de acordo com a fase à qual o bloco de informação está relacionado
 
 #### h) Número
 
-Variável e ordenado, aplicável a blocos de informação que façam parte de uma série de blocos e para os quais não há distinção em nenhum dos outros campos..
+Variável e ordenado, aplicável a blocos de informação que façam parte de uma série de blocos e para os quais não há distinção em nenhum dos outros campos.
 
 Os códigos devem conter o máximo de quatro dígitos composto por números inteiros
 
@@ -527,7 +528,7 @@ Os códigos devem conter o máximo de quatro dígitos composto por números inte
 
 ---
 
-#### h) Exemplo:
+#### i) Exemplo:
 
 Um ficheiro PDF desenvolvido pela entidade fornecedora “Gabinete de Projetos de Portugal” (GPP), responsável pelo projeto de estabilidade, contendo o primeiro desenho 2D do projeto de fundações do edifício, para o qual não se aplica a definição de pisos.
 
@@ -541,7 +542,7 @@ Metadados são atributos adicionais ao bloco de informação, que facilitam a lo
 
 Os blocos de informação devem conter metadados, separados por um delimitador, de acordo com a seguinte convenção:
 
-![Campos dos metadados](/Imagens/CamposMetadados.svg "Campos dos metadados")
+[`<Estado>`](#a-estado)-[`<Revisão>`](#b-revisão)-[`<Classificação>`](#c-classificação)-[`<Descrição>`](#d-descrição)-[`<Data>`](#e-data)-[`<Outros>`](#f-outros)
 
 #### a) Estado
 
@@ -554,7 +555,7 @@ A definição dos estados é apresentada , a propósito do CDE. Os respectivos c
 O código de revisão deve ser composto por três campos  de acordo com a seguinte definição:
 `<Campo1>`.`<Campo2>`.`<Campo3>`
 
-* `Campo1` - Letra única indicando se a revisão é Preliminar (P) ou Contratual (C)
+* `Campo1` - Letra única indicando se a revisão é Preliminar (P) ou Contratual (C).
 * `Campo2` - Dois caracteres numéricos indicando o número da revisão primária.
 * `Campo3` - Dois caracteres numéricos indicando a versão da revisão primária, exclusivamente utilizado para o “Trabalho em Curso”.
 
@@ -562,7 +563,7 @@ O código de revisão deve ser composto por três campos  de acordo com a seguin
 
 #### c) Classificação
 
-Classificação de acordo com a `Tabela PM` (Project Management) do sistema `SECClasS`. Podem ser utilizadas outras tabelas do sistema de classificação se forem consideradas mais adequadas, desde que acordado com a Entidade Requerente.
+Classificação de acordo com a `Tabela PM` (Project Management) do sistema `SECClasS`. Podem ser utilizadas outras tabelas do sistema de classificação se forem consideradas mais adequadas, desde que acordado com a entidade requerente.
 
 ---
 
@@ -580,7 +581,7 @@ Data da última edição do bloco de informação.
 
 #### f) Outros
 
-Os blocos de informação podem incluir metadados adicionais caso sejam entendidos como necessários pela Entidade Fornecedora. Os novos códigos definidos devem estar listados juntos às suas definições no Plano de Execução BIM. 
+Os blocos de informação podem incluir metadados adicionais caso sejam entendidos como necessários pela entidade fornecedora líder. Os novos códigos definidos devem estar listados juntos às suas definições no Plano de Execução BIM. 
 
 ---
 
@@ -642,13 +643,13 @@ Não há requisitos para os software a utilizar pelas entidades fornecedoras. Os
 
 ### 3.1.10. Plataformas e software da entidade requerente
 
-A Entidade Requerente irá utilizar o software `<NomeDoSoftwareDeVizualização/VerificaçãoIFC>` para visualizar, verificar e validar blocos de informação IFC. A entidade fornecedora líder deverá verificar o bom desempenho dos blocos de informação IFC nesta plataforma e informar de antemão sobre potenciais problemas na interpretação dos IFCs submetidos.
+A entidade requerente irá utilizar o software `<NomeDoSoftwareDeVizualização/VerificaçãoIFC>` para visualizar, verificar e validar blocos de informação IFC. A entidade fornecedora líder deverá verificar o bom desempenho dos blocos de informação IFC nesta plataforma e informar de antemão sobre potenciais problemas na interpretação dos IFCs submetidos.
 
 O CDE a utilizar será mantido nos servidores da entidade requerente e consistirá na solução CDE `R2U`*. 
 
 Todos os BCFs serão geridos de forma centralizada no CDE `R2U`.
 
-\* CDE `R2U` é um software aberto e gratuito preparado pela Universidade do Minho
+\* CDE `R2U` é um software aberto e gratuito preparado pela Universidade do Minho.
 
 ### 3.1.11. Informação para o período operacional de gestão de ativos
 
@@ -674,7 +675,7 @@ As entidades fornecedoras ficarão responsáveis pela definição dos requisitos
 
 A produção de modelos nativos e dados associados devem permitir a criação de modelos em IFC. Não deverão ser usados objetos Proxy quando exista uma classe de objeto específica para o efeito no SCHEMA IFC.
 
-A equipa de projeto deverá definir uma origem do referencial local de coordenadas do projeto que seja comum a todos os modelos.
+A equipa de desenvolvimento deverá definir uma origem do referencial local de coordenadas do projeto que seja comum a todos os modelos.
 
 O referencial local poderá ter rotação em relação ao Norte do sistema de coordenadas, estabelecendo-se essa rotação no Plano de Execução BIM com a respetiva justificação.
 
@@ -725,11 +726,11 @@ No caso de desenhos editáveis, deverão ter o formato DWG quando gerados em CAD
 
 #### b) Coordenação:
 
-A coordenação dos modelos deve ser realizada regularmente. Cada equipa de trabalho deve realizar a coordenação dos seus próprios modelos como parte do seu processo de garantia da qualidade, antes de partilhar a informação com a equipa de desenvolvimento. As trocas de informação/esclarecimento relativas a modelos BIM entre a entidade requerente e a entidade fornecedora líder deveram preferencialmente ser efetuadas com recurso a ficheiros BCF no CDE.
+A coordenação dos modelos deve ser realizada regularmente. Cada entidade fornecedora deve realizar a coordenação dos seus próprios modelos como parte do seu processo de garantia da qualidade, antes de partilhar a informação com a equipa de desenvolvimento. As trocas de informação/esclarecimento relativas a modelos BIM entre a entidade requerente e a entidade fornecedora líder deveram preferencialmente ser efetuadas com recurso a ficheiros BCF no CDE.
 
-Toda troca de informação entre equipas de trabalho da mesma especialidade deve ocorrer dentro da sua respetiva pasta no estado *Trabalho em Curso* do Ambiente Comum de Dados. A organização e periodicidade destas trocas é determinada pela Entidade Fornecedora Líder referente à sua equipa de desenvolvimento.
+Toda troca de informação entre equipas de trabalho da mesma especialidade deve ocorrer dentro da sua respetiva pasta no estado *Trabalho em Curso* do Ambiente Comum de Dados. A organização e periodicidade destas trocas é determinada pela entidade fornecedora líder referente à sua equipa de desenvolvimento.
 
-As informações produzidas por cada Entidade Fornecedora devem ser apenas partilhadas com outras Entidades Fornecedoras quando já coordenadas dentro de cada equipa de desenvolvimento. As trocas de informações entre diferentes entidades fornecedoras ocorrem no estado *Partilhado* do Ambiente Comum de Dados. Define-se a periodicidade máxima de 15 dias para atualização dos modelos no CDE, com pelo menos estado S2. 
+As informações produzidas por cada entidade fornecedora devem ser apenas partilhadas com outras Entidades Fornecedoras quando já coordenadas dentro de cada equipa de desenvolvimento. As trocas de informações entre diferentes entidades fornecedoras ocorrem no estado *Partilhado* do Ambiente Comum de Dados. Define-se a periodicidade máxima de 15 dias para atualização dos modelos no CDE, com pelo menos estado S2. 
 
 ---
 
@@ -754,7 +755,7 @@ Os entregáveis finais devem passar ao estado estado S5 ([tabela B.1](#tabela-b1
 
 ### 3.2.4. Segurança
 
-Os métodos e tecnologias de trabalho digitais colaborativos utilizados no projeto, envolvem a partilha colaborativa de informação por um conjunto de atores independentes, surgindo, portanto, a necessidade de gerir as questões de vulnerabilidade inerentes à disponibilidade da informação de acordo com os requisitos da EN ISO 19650-5. Assim, a Entidade Requerente realizou a avaliação de sensibilidade, com vista à identificação da necessidade, ou não, de uma abordagem de segurança e aplicou o processo de triagem o qual conduziu à classificação ST4. 
+Os métodos e tecnologias de trabalho digitais colaborativos utilizados no projeto, envolvem a partilha colaborativa de informação por um conjunto de atores independentes, surgindo, portanto, a necessidade de gerir as questões de vulnerabilidade inerentes à disponibilidade da informação de acordo com os requisitos da EN ISO 19650-5. Assim, a entidade requerente realizou a avaliação de sensibilidade, com vista à identificação da necessidade, ou não, de uma abordagem de segurança e aplicou o processo de triagem o qual conduziu à classificação ST4. 
 
 Esta classificação permitiu concluir que neste projeto, não haverá necessidade de desenvolver uma estratégia de segurança, respetivo plano de segurança, planos de gestão de falhas e incidentes e acordos de partilha de informação com entidades fornecedoras. No entanto, devem ser protegidas as informações comerciais e pessoais de acordo com a legislação em vigor, nomeadamente o RGPD. Devem, ainda, ser tomadas medidas adequadas para minimizar as ameaças decorrentes de atividades fraudulentas e outras atividades criminosas e incidentes de cibersegurança.
 
@@ -768,7 +769,7 @@ Esta classificação permitiu concluir que neste projeto, não haverá necessida
 | Cumpre Substancialmente | 2    | Maioria dos blocos de informação está de acordo com o BEP; Classificação suficiente para aprovação condicional                                                                |
 | Cumpre Totalmente       | 3    | Todos os blocos de informação estão de acordo com o BEP                                                                                                                       |
 
-\* Nota mínima para aceitação é 2; Esta nota pode ser ponderada em função do contexto, fase de projecto ou especialidade e ser justificada nos comentários
+\* Nota mínima para aceitação é 2; Esta nota pode ser ponderada em função do contexto, fase de projecto ou especialidade e ser justificada nos comentários.
 
 ### 3.3.1. Apreciação global
 
@@ -784,9 +785,9 @@ Esta classificação permitiu concluir que neste projeto, não haverá necessida
 | H    | EIR08 | Simulações energéticas e certificação    | Entrega do relatório e certificado energético.<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                                    |
 | I    | EIR09 | Análise de sustentabilidade BREEAM       | Entrega do relatório da análise, garantindo a classificação final "Very Good".<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                    |
 | J    | EIR10 | Estimativa de quantidades e custos       | Entrega das estimativas de quantidades extraídas dos modelos.<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                     |
-| L    | EIR11 | Compilação de modelos                    | Entrega de todos os modelos e respetivas peças desenhadas e escritas. Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                |
+| L    | EIR11 | Compilação de modelos                    | Entrega de todos os modelos e respetivas peças desenhadas e escritas.<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                |
 | M    | EIR12 | Mapas de trabalhos e quantidades         | Medições extraídas dos modelos / confirmar que medições são coerentes com o MQT.<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                     |
-| N    | EIR13 | Elaboração do plano de Segurança e Saúde e Compilação Técnica da Obra | Entrega do plano de Segurança e Saúde e início da Compilação Técnica da Obra. Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                                               |
+| N    | EIR13 | Elaboração do plano de Segurança e Saúde e Compilação Técnica da Obra | Entrega do plano de Segurança e Saúde e início da Compilação Técnica da Obra.<br>Informação fornecida de acordo com as normas e métodos e procedimentos de produção de informação do projeto.                                                                               |
 
 ### 3.3.2. Qualidade do Modelo
 
@@ -818,7 +819,7 @@ Esta classificação permitiu concluir que neste projeto, não haverá necessida
 
 # 4. Informação de suporte
 
-A informação de suporte consiste em informação que pretende ser disponibilizada pela entidade requerente à entidade fornecedora líder com o intuito de evitar trabalho redundante e garantir que a informação é desenvolvida de acordo com as suas normas. Possibilitando assim que a entidade fornecedora tenha uma maior compreensão sobre o que está a ser requerido para o projeto. De acordo com a cláusula 5.2.1 d) da EN ISO 19650-2, a informação de suporte poderá consistir em informação existente de ativos, recursos partilhados, exemplos de entregáveis, documentos de suporte, material de orientação e referências para normas internacionais, nacionais ou da indústria.
+A informação de suporte consiste em informação que pretende ser disponibilizada pela entidade requerente à entidade fornecedora líder com o intuito de evitar trabalho redundante e garantir que a informação é desenvolvida de acordo com as suas normas. Possibilitando assim que a entidade fornecedora líder tenha uma maior compreensão sobre o que está a ser requerido para o projeto. De acordo com a cláusula 5.2.1 d) da EN ISO 19650-2, a informação de suporte poderá consistir em informação existente de ativos, recursos partilhados, exemplos de entregáveis, documentos de suporte, material de orientação e referências para normas internacionais, nacionais ou da indústria.
 
 A informação de suporte está disponível em: [https://drive.google.com/drive/folders/1JB1Rz85srkqedVM_9hqo3ANSmihxsILz?usp=sharing
 ](https://drive.google.com/drive/folders/1JB1Rz85srkqedVM_9hqo3ANSmihxsILz?usp=sharing)
@@ -846,9 +847,9 @@ A informação de suporte está disponível em: [https://drive.google.com/drive/
 
 Em fase de concurso os concorrentes devem entregar:
 
-* O `BEP` pré contrato EN ISO 19650 e especificação nacional, incluindo matriz RACI  e demonstração de capacidade
-* A `matriz de apoio à pontuação dos Candidatos` (‘Formulário de apoio à avaliação de candidatos’) do ‘Guia de Contratação’ da CT197
-* A `proposta de honorários`
+* O `BEP` pré contrato EN ISO 19650 e especificação nacional, incluindo matriz RACI  e demonstração de capacidade.
+* A `matriz de apoio à pontuação dos Candidatos` (‘Formulário de apoio à avaliação de candidatos’) do ‘Guia de Contratação’ da CT197.
+* A `proposta de honorários`.
 
 <table>
     <thead>
@@ -881,7 +882,7 @@ Em fase de concurso os concorrentes devem entregar:
         </tr>
         <tr>
             <td>EIR06</td>
-            <td colspan=3>Reuniões de coordenação realizadas quinzenalmente (Com data de início a definir)</td>
+            <td colspan=3>Reuniões de coordenação realizadas quinzenalmente (Com data de início a definir).</td>
         </tr>
         <tr>
             <th colspan=4 style="text-align: left;">Anteprojeto</th>
@@ -889,7 +890,7 @@ Em fase de concurso os concorrentes devem entregar:
         <tr>
             <td>EIR04<br>EIR07<br>EIR08<br>EIR09<br>EIR10</td>
             <td>22/03/2024<br>(10 dias antes da tomada de decisão)</td>
-            <td>Pontos de decisão 3:<ul><li>Decisão sobre aprovação final de fase com eventuais alterações</li></ul></td>
+            <td>Pontos de decisão 3:<ul><li>Decisão sobre aprovação final de fase com eventuais alterações.</li></ul></td>
             <td>01/04/2024<br>(fim da fase)</td>
         </tr>
         <tr>
@@ -898,7 +899,7 @@ Em fase de concurso os concorrentes devem entregar:
         </tr>
         <tr>
             <td>EIR06</td>
-            <td colspan=3>Reuniões de coordenação realizadas quinzenalmente (Com data de início a definir)</td>
+            <td colspan=3>Reuniões de coordenação realizadas quinzenalmente (Com data de início a definir).</td>
         </tr>
         <tr>
             <th colspan=4 style="text-align: left;">Projeto de execução</th>
@@ -906,7 +907,7 @@ Em fase de concurso os concorrentes devem entregar:
         <tr>
             <td>EIR04<br>EIR07<br>EIR10<br>EIR11<br>EIR12<br>EIR13</td>
             <td>10 dias antes da tomada de decisão</td>
-            <td>Pontos de decisão 3:<ul><li>Decisão sobre aprovação final de fase com eventuais alterações</li></ul></td>
+            <td>Pontos de decisão 3:<ul><li>Decisão sobre aprovação final de fase com eventuais alterações.</li></ul></td>
             <td>No final da fase.</td>
         </tr>
         <tr>
@@ -915,7 +916,7 @@ Em fase de concurso os concorrentes devem entregar:
         </tr>
         <tr>
             <td>EIR06</td>
-            <td colspan=3>Reuniões de coordenação realizadas quinzenalmente (Com data de início a definir)</td>
+            <td colspan=3>Reuniões de coordenação realizadas quinzenalmente (Com data de início a definir).</td>
         </tr>
     </tbody>
 </table>
@@ -1172,18 +1173,18 @@ Em fase de concurso os concorrentes devem entregar:
             <td>S3</td>
         </tr>
         <tr>
-            <td>Bloco de informação adequado para revisão e aprovação pela Entidade Fornecedora Líder.</td>
+            <td>Bloco de informação adequado para revisão e aprovação pela entidade fornecedora líder.</td>
             <td>S4</td>
         </tr>
         <tr>
-            <td>Bloco de informação adequado para revisão e aceitação pela Entidade Requerente.</td>
+            <td>Bloco de informação adequado para revisão e aceitação pela entidade requerente.</td>
             <td>S5</td>
         </tr>
         <tr>
             <th colspan=2 style="text-align: left;">Estado: Publicado</th>
         </tr>
         <tr>
-            <td>Blocos de informação autorizados e/ou aceites</td>
+            <td>Blocos de informação autorizados e/ou aceites.</td>
             <td>A1, An, etc</td>
         </tr>
     </tbody>
