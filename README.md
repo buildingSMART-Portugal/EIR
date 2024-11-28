@@ -2,7 +2,7 @@
 
 ## EIR
 
-V1.1.2 - 2024/10/22
+V1.1.2 - 2024/11/28
 
 [Ver EIR Português online](https://github.com/buildingSMART-Portugal/EIR-FaseProjeto-ObraPrivada/blob/main/EIR.md)
 
