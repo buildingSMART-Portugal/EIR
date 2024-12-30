@@ -1,0 +1,237 @@
+cff-version: 1.2.0
+title: "EIR para a fase de projeto de uma obra privada"
+message: "If you use this document, please cite it as below."
+authors:
+  - family-names: Granja
+    given-names: José
+    orcid: https://orcid.org/0000-0002-0858-4990
+    affiliation: University of Minho, ISISE, ARISE, Department of Civil Engineering, Guimarães, Portugal
+    email: granja@civil.uminho.pt
+  - family-names: Oliveira
+    given-names: Andressa
+    orcid: https://orcid.org/0000-0002-2541-0212
+    affiliation: University of Minho, ISISE, ARISE, Department of Civil Engineering, Guimarães, Portugal
+    email: soliveira.andressa@gmail.com
+  - family-names: Pinto
+    given-names: Débora
+    orcid: https://orcid.org/0000-0001-9468-7779
+    affiliation: BUILT CoLAB - Collaborative Laboratory for the Future Built Environment, 4150-003 Porto, Portugal
+    email: debora.pinto@builtcolab.pt
+  - family-names: Lima
+    given-names: Filipe
+    orcid: 
+    affiliation: Limsen Consulting, Lisbon, Portugal
+    email: fl@limsen.com
+  - family-names: Silva
+    given-names: Hugo
+    orcid: 
+    affiliation: TPF - Consultores de Engenharia e Arquitetura, S.A., Lisbon, Portugal
+    email: hmcsilva@gmail.com
+  - family-names: Rodrigues
+    given-names: Inês
+    orcid: 
+    affiliation: Plano Oblíquo, Lda, Carcavelos, Portugal
+    email: inesrodrigues@plo.pt
+  - family-names: Fonseca
+    given-names: João
+    orcid: 
+    affiliation: Quadrante, Lisbon, Portugal
+    email: 
+  - family-names: Neves Adelino
+    given-names: João
+    orcid: 
+    affiliation: Reify
+    email: jnadelino@wearereify.com
+  - family-names: Poças Martins
+    given-names: João
+    orcid: https://orcid.org/0000-0001-9878-3792
+    affiliation: Department of Civil Engineering, Faculdade de Engenharia, Universidade do Porto (FEUP), Porto, Portugal
+    email: joao.pocas.martins@gmail.com
+  - family-names: Lino
+    given-names: José Carlos
+    orcid: https://orcid.org/0000-0002-1227-600X
+    affiliation: University of Minho, ISISE, ARISE, Department of Civil Engineering, Guimarães, Portugal
+    email: jcb.lino@gmail.com
+  - family-names: Ribeirinho
+    given-names: Luís
+    orcid: https://orcid.org/0000-0002-3486-6326
+    affiliation: TPF - Consultores de Engenharia e Arquitetura, S.A., Lisbon, Portugal
+    email: luis.ribeirinho@tpf.pt
+  - family-names: Parente
+    given-names: Manuel
+    orcid: https://orcid.org/0000-0001-5765-2622
+    affiliation: University of Minho, ISISE, ARISE, Department of Civil Engineering, Guimarães, Portugal
+    email: map@civil.uminho.pt
+  - family-names: Campos
+    given-names: Marta
+    orcid:
+    affiliation: Magnetico, V.N.Gaia, Portugal
+    email: marta.a.campos@gmail.com
+  - family-names: Meirinhos
+    given-names: Marta
+    orcid: 
+    affiliation: Habitat Invest
+    email: martameirinhos.arq@gmail.com
+  - family-names: Assis
+    given-names: Paula
+    orcid: 
+    affiliation: Top Informática, Braga, Portugal
+    email: paula.assis@topinformatica.pt
+  - family-names: Martins
+    given-names: Pedro
+    orcid:
+    affiliation: BUILT CoLAB - Collaborative Laboratory for the Future Built Environment, 4150-003 Porto, Portugal
+    email: pedro.martins@builtcolab.pt
+  - family-names: Figueira
+    given-names: Ricardo
+    orcid: 
+    affiliation: Top Informática, Braga, Portugal
+    email: ricardo.figueira@topinformatica.pt
+  - family-names: Reis
+    given-names: Ricardo
+    orcid: 
+    affiliation: Xispoli, Braga, Portugal
+    email: ricardo.reis@xispoli.eu
+  - family-names: Andrade
+    given-names: Rita
+    orcid: 
+    affiliation: RCA Project Delivery, Faro, Portugal
+    email: rita.andrade@rcapd.com
+  - family-names: Roux
+    given-names: Sebástien
+    orcid: 
+    affiliation: Limsen Consulting, Lisbon, Portugal
+    email: sr@limsen.com
+  - family-names: Henriques
+    given-names: Sofia
+    orcid: 
+    affiliation: TPF - Consultores de Engenharia e Arquitetura, S.A., Lisbon, Portugal
+    email: sofiabhenriques@gmail.com
+  - family-names: Azenha
+    given-names: Miguel
+    orcid: https://orcid.org/0000-0003-1374-9427
+    affiliation: University of Minho, ISISE, ARISE, Department of Civil Engineering, Guimarães, Portugal
+    email: miguel.azenha@civil.uminho.pt
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.14547997
+license: MIT
+version: 1.1.2
+date-released: '2024-11-28'
+preferred-citation:
+  type: book
+  authors:
+  - family-names: Granja
+    given-names: José
+    orcid: https://orcid.org/0000-0002-0858-4990
+    affiliation: University of Minho, ISISE, ARISE, Department of Civil Engineering, Guimarães, Portugal
+    email: granja@civil.uminho.pt
+  - family-names: Oliveira
+    given-names: Andressa
+    orcid: https://orcid.org/0000-0002-2541-0212
+    affiliation: University of Minho, ISISE, ARISE, Department of Civil Engineering, Guimarães, Portugal
+    email: soliveira.andressa@gmail.com
+  - family-names: Pinto
+    given-names: Débora
+    orcid: https://orcid.org/0000-0001-9468-7779
+    affiliation: BUILT CoLAB - Collaborative Laboratory for the Future Built Environment, 4150-003 Porto, Portugal
+    email: debora.pinto@builtcolab.pt
+  - family-names: Lima
+    given-names: Filipe
+    orcid: 
+    affiliation: Limsen Consulting, Lisbon, Portugal
+    email: fl@limsen.com
+  - family-names: Silva
+    given-names: Hugo
+    orcid: 
+    affiliation: TPF - Consultores de Engenharia e Arquitetura, S.A., Lisbon, Portugal
+    email: hmcsilva@gmail.com
+  - family-names: Rodrigues
+    given-names: Inês
+    orcid: 
+    affiliation: Plano Oblíquo, Lda, Carcavelos, Portugal
+    email: inesrodrigues@plo.pt
+  - family-names: Fonseca
+    given-names: João
+    orcid: 
+    affiliation: Quadrante, Lisbon, Portugal
+    email: 
+  - family-names: Neves Adelino
+    given-names: João
+    orcid: 
+    affiliation: Reify
+    email: jnadelino@wearereify.com
+  - family-names: Poças Martins
+    given-names: João
+    orcid: https://orcid.org/0000-0001-9878-3792
+    affiliation: Department of Civil Engineering, Faculdade de Engenharia, Universidade do Porto (FEUP), Porto, Portugal
+    email: joao.pocas.martins@gmail.com
+  - family-names: Lino
+    given-names: José Carlos
+    orcid: https://orcid.org/0000-0002-1227-600X
+    affiliation: University of Minho, ISISE, ARISE, Department of Civil Engineering, Guimarães, Portugal
+    email: jcb.lino@gmail.com
+  - family-names: Ribeirinho
+    given-names: Luís
+    orcid: https://orcid.org/0000-0002-3486-6326
+    affiliation: TPF - Consultores de Engenharia e Arquitetura, S.A., Lisbon, Portugal
+    email: luis.ribeirinho@tpf.pt
+  - family-names: Parente
+    given-names: Manuel
+    orcid: https://orcid.org/0000-0001-5765-2622
+    affiliation: University of Minho, ISISE, ARISE, Department of Civil Engineering, Guimarães, Portugal
+    email: map@civil.uminho.pt
+  - family-names: Campos
+    given-names: Marta
+    orcid:
+    affiliation: Magnetico, V.N.Gaia, Portugal
+    email: marta.a.campos@gmail.com
+  - family-names: Meirinhos
+    given-names: Marta
+    orcid: 
+    affiliation: Habitat Invest
+    email: martameirinhos.arq@gmail.com
+  - family-names: Assis
+    given-names: Paula
+    orcid: 
+    affiliation: Top Informática, Braga, Portugal
+    email: paula.assis@topinformatica.pt
+  - family-names: Martins
+    given-names: Pedro
+    orcid:
+    affiliation: BUILT CoLAB - Collaborative Laboratory for the Future Built Environment, 4150-003 Porto, Portugal
+    email: pedro.martins@builtcolab.pt
+  - family-names: Figueira
+    given-names: Ricardo
+    orcid: 
+    affiliation: Top Informática, Braga, Portugal
+    email: ricardo.figueira@topinformatica.pt
+  - family-names: Reis
+    given-names: Ricardo
+    orcid: 
+    affiliation: Xispoli, Braga, Portugal
+    email: ricardo.reis@xispoli.eu
+  - family-names: Andrade
+    given-names: Rita
+    orcid: 
+    affiliation: RCA Project Delivery, Faro, Portugal
+    email: rita.andrade@rcapd.com
+  - family-names: Roux
+    given-names: Sebástien
+    orcid: 
+    affiliation: Limsen Consulting, Lisbon, Portugal
+    email: sr@limsen.com
+  - family-names: Henriques
+    given-names: Sofia
+    orcid: 
+    affiliation: TPF - Consultores de Engenharia e Arquitetura, S.A., Lisbon, Portugal
+    email: sofiabhenriques@gmail.com
+  - family-names: Azenha
+    given-names: Miguel
+    orcid: https://orcid.org/0000-0003-1374-9427
+    affiliation: University of Minho, ISISE, ARISE, Department of Civil Engineering, Guimarães, Portugal
+    email: miguel.azenha@civil.uminho.pt
+  doi: "10.5281/zenodo.14547997"
+  title: "EIR para a fase de projeto de uma obra privada"
+  year: 2024
+  publisher: "BuildingSMART Portugal"
