@@ -32,3 +32,7 @@ V1.1.2 - 2024/11/28
 * [Rita Andrade](mailto:rita.andrade@rcapd.com)
 * [Sebástien Roux](mailto:sr@limsen.com)
 * [Sofia Henriques](mailto:sofiabhenriques@gmail.com)
+
+## Citation
+
+Granja, J., Oliveira, A., Pinto, D., Lima, F., Silva, H., Rodrigues, I., Fonseca, J., Neves Adelino, J., Poças Martins, J., Lino, J. C., Ribeirinho, L., Parente, M., Campos, M., Meirinhos, M., Assis, P., Martins, P., Figueira, R., Reis, R., Andrade, R., Roux, S., Henriques, S., & Azenha, M. (2024). EIR para a fase de projeto de uma obra privada. BuildingSMART Portugal. https://doi.org/10.5281/zenodo.14547997
